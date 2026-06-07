@@ -1,0 +1,7 @@
+owner = KSB
+controller = KSB
+add_core = KSB
+add_core = URA
+trade_goods = iron
+terrain = boreal
+life_rating = 15

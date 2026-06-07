@@ -1,0 +1,7 @@
+owner = LUN
+controller = LUN
+add_core = LUN
+add_core = KZB
+terrain = savanna
+trade_goods = sulphur
+life_rating = 35

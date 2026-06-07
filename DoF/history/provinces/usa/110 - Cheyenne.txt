@@ -1,0 +1,6 @@
+owner = DAK
+controller = DAK
+add_core = DAK
+trade_goods = grain
+terrain = mountain
+life_rating = 20

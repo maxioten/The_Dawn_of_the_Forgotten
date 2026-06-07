@@ -1,0 +1,788 @@
+#Casamance Region (96000) #see Guinea Bissau.txt and Senegambia.txt for balance of Region
+#under the rule of Gabu in 1836
+#Boffa (192000/48000 POPS) #now part of Guinea
+1879 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 900
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 1500
+    }
+
+    artisans = {
+        culture = mande
+        religion = sunni
+        size = 11900
+    }
+
+	aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 700
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 500
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 7900
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 2700
+    }
+
+	farmers = {
+        culture = mande
+        religion = sunni
+        size = 30000
+    }
+
+	craftsmen = {
+        culture = fulbe
+        religion = sunni
+        size = 11900
+    }
+
+    farmers = {
+        culture = fulbe
+        religion = sunni
+        size = 180000
+    }
+
+    slaves = {
+        culture = tuareg
+        religion = sunni
+        size = 6000
+    }
+}
+#Kamsar (192000/48000 POPS) #now part of Guinea
+3333 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 575
+    }
+
+    clergymen = {
+        culture = mande
+        religion = sunni
+        size = 425
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 1200
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 1500
+    }
+
+    farmers = {
+        culture = fulbe
+        religion = sunni
+        size = 68000
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 675
+    }
+
+    soldiers = {
+        culture = mande
+        religion = sunni
+        size = 1200
+    }
+
+    farmers = {
+        culture = mande
+        religion = sunni
+        size = 8800
+    }
+}
+#Jallon Region (540000) #see Sierra Leone.txt for balance of Region
+#uncolonized in 1836/ruled by Emirate of Futa Jallon
+#Timbo (540000/135000 POPS)
+1880 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 1750
+    }
+
+    bureaucrats = {
+        culture = fulbe
+        religion = sunni
+        size = 1375
+    }
+
+    officers = {
+        culture = fulbe
+        religion = sunni
+        size = 1750
+    }
+	
+	officers = {
+        culture = sephardic
+        religion = jewish
+        size = 750
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 1375
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 11575
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 1150
+    }
+
+    farmers = {
+        culture = fulbe
+        religion = sunni
+        size = 136400
+    }
+    #from here one they were african minor
+    aristocrats = {
+        culture = mande
+        religion = sunni
+        size = 1800
+    }
+
+    clergymen = {
+        culture = mande
+        religion = sunni
+        size = 975
+    }
+
+    artisans = {
+        culture = mande
+        religion = sunni
+        size = 4800
+    }
+
+    soldiers = {
+        culture = mande
+        religion = sunni
+        size = 1025
+    }
+
+    farmers = {
+        culture = mande
+        religion = sunni
+        size = 40000
+    }
+
+    slaves = {
+        culture = tuareg
+        religion = sunni
+        size = 6000
+    }
+}
+#Labe (325000/115000 POPS)
+3334 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 1925
+    }
+
+    bureaucrats = {
+        culture = fulbe
+        religion = sunni
+        size = 1250
+    }
+
+    officers = {
+        culture = fulbe
+        religion = sunni
+        size = 250
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 1300
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 11400
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 1650
+    }
+
+    farmers = {
+        culture = fulbe
+        religion = sunni
+        size = 99500
+    }
+
+    aristocrats = {
+        culture = mande
+        religion = sunni
+        size = 1100
+    }
+
+    clergymen = {
+        culture = mande
+        religion = sunni
+        size = 1750
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 21800
+    }
+
+    soldiers = {
+        culture = mande
+        religion = sunni
+        size = 1700
+    }
+
+    farmers = {
+        culture = mande
+        religion = sunni
+        size = 38000
+    }
+
+    clergymen = {
+        culture = mande
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = mande
+        religion = sunni
+        size = 350
+    }
+
+    soldiers = {
+        culture = mande
+        religion = sunni
+        size = 100
+    }
+
+    farmers = {
+        culture = mande
+        religion = sunni
+        size = 4500
+    }
+}
+#Dinguiraye (272000/68000 POPS)
+1881 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 565
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 300
+    }
+
+    artisans = {
+        culture = mande
+        religion = sunni
+        size = 11165
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 1015
+    }
+
+    farmers = {
+        culture = mande
+        religion = sunni
+        size = 38900
+    }
+
+    aristocrats = {
+        culture = mande
+        religion = sunni
+        size = 565
+    }
+
+    officers = {
+        culture = mande
+        religion = sunni
+        size = 115
+    }
+
+    clergymen = {
+        culture = mande
+        religion = sunni
+        size = 300
+    }
+
+    artisans = {
+        culture = mande
+        religion = sunni
+        size = 1500
+    }
+
+    soldiers = {
+        culture = mande
+        religion = sunni
+        size = 300
+    }
+
+    farmers = {
+        culture = mande
+        religion = sunni
+        size = 40225
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 200
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 75
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 450
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 75
+    }
+
+    farmers = {
+        culture = mande
+        religion = sunni
+        size = 11250
+    }
+
+    slaves = {
+        culture = tuareg
+        religion = sunni
+        size = 10000
+    }
+}
+#Bure Region (340000) #see Mali.txt and Ivory Coast.txt for balance of Region
+#uncolonized in 1836/ruled by Futa Jallon
+#Kankan (236000/59000 POPS)
+1882 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 390
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 115
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 600
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 150
+    }
+
+    farmers = {
+        culture = fulbe
+        religion = sunni
+        size = 29450
+    }
+
+    aristocrats = {
+        culture = mande
+        religion = sunni
+        size = 715
+    }
+
+    clergymen = {
+        culture = mande
+        religion = sunni
+        size = 375
+    }
+
+    artisans = {
+        culture = mande
+        religion = sunni
+        size = 1875
+    }
+
+    soldiers = {
+        culture = mande
+        religion = sunni
+        size = 1025
+    }
+
+    farmers = {
+        culture = mande
+        religion = sunni
+        size = 56090
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 150
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 75
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 450
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 115
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 8215
+    }
+
+    slaves = {
+        culture = tuareg
+        religion = sunni
+        size = 4500
+    }
+}
+#Niani (380000/94000 POPS)
+3324 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 425
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 175
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 11100
+    }
+	
+	artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 11100
+    }
+	
+	artisans = {
+        culture = misri
+        religion = sunni
+        size = 11100
+    }
+	
+	artisans = {
+        culture = hausa
+        religion = sunni
+        size = 11100
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 1325
+    }
+
+    farmers = {
+        culture = fulbe
+        religion = sunni
+        size = 55230
+    }
+
+    aristocrats = {
+        culture = mande
+        religion = sunni
+        size = 1825
+    }
+
+    clergymen = {
+        culture = mande
+        religion = sunni
+        size = 1825
+    }
+
+    artisans = {
+        culture = mande
+        religion = sunni
+        size = 15000
+    }
+
+    soldiers = {
+        culture = mande
+        religion = sunni
+        size = 2000
+    }
+
+    farmers = {
+        culture = mande
+        religion = sunni
+        size = 187250
+    }
+
+    aristocrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 225
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = sunni
+        size = 1125
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 1725
+    }
+
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 3280
+    }
+	
+	craftsmen = {
+        culture = maghrebi
+        religion = sunni
+        size = 15250
+    }
+	
+	craftsmen = {
+        culture = hausa
+        religion = sunni
+        size = 15250
+    }
+
+	craftsmen = {
+        culture = misri
+        religion = sunni
+        size = 15250
+    }
+	
+	craftsmen = {
+        culture = sephardic
+        religion = jewish
+        size = 15250
+    }
+	
+	craftsmen = {
+        culture = tuareg
+        religion = sunni
+        size = 15250
+    }
+
+    craftsmen = {
+        culture = songhai
+        religion = sunni
+        size = 15250
+    }
+}
+#uncolonized in 1836
+#Beyla (184000/46000 POPS)
+1883 = {
+    aristocrats = {
+        culture = mande
+        religion = sunni
+        size = 800
+    }
+
+    clergymen = {
+        culture = mande
+        religion = sunni
+        size = 400
+    }
+
+    artisans = {
+        culture = mande
+        religion = sunni
+        size = 1650
+    }
+
+    soldiers = {
+        culture = mande
+        religion = sunni
+        size = 425
+    }
+
+    farmers = {
+        culture = mande
+        religion = sunni
+        size = 33725
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 1100
+    }
+
+    clergymen = {
+        culture = mande
+        religion = sunni
+        size = 1100
+    }
+
+    artisans = {
+        culture = mande
+        religion = sunni
+        size = 250
+    }
+
+    soldiers = {
+        culture = mande
+        religion = sunni
+        size = 1100
+    }
+
+    farmers = {
+        culture = mande
+        religion = sunni
+        size = 34550
+    }
+
+    slaves = {
+        culture = tuareg
+        religion = sunni
+        size = 5000
+    }
+
+}
+#Kissidougou (148000/43000 POPS)
+3335 = {
+    aristocrats = {
+        culture = mande
+        religion = sunni
+        size = 725
+    }
+
+    clergymen = {
+        culture = mande
+        religion = sunni
+        size = 1400
+    }
+
+    artisans = {
+        culture = mande
+        religion = sunni
+        size = 15500
+    }
+
+    soldiers = {
+        culture = mande
+        religion = sunni
+        size = 500
+    }
+
+    farmers = {
+        culture = mande
+        religion = sunni
+        size = 41900
+    }
+
+    aristocrats = {
+        culture = mande
+        religion = sunni
+        size = 75
+    }
+
+    clergymen = {
+        culture = mande
+        religion = sunni
+        size = 65
+    }
+
+    artisans = {
+        culture = mande
+        religion = sunni
+        size = 175
+    }
+
+    soldiers = {
+        culture = mande
+        religion = sunni
+        size = 100
+    }
+
+    farmers = {
+        culture = mande
+        religion = sunni
+        size = 25350
+    }
+}

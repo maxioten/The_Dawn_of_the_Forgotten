@@ -1,0 +1,23 @@
+name = "Sukarian War of Independence"
+
+1835.8.19 = {
+    add_attacker = BRZ
+    add_defender = MLI
+
+    war_goal = {
+        casus_belli = become_independent
+        actor = BRZ
+        receiver = MLI
+    }
+	war_goal = {
+        casus_belli = conquest_any
+        actor = MLI
+        receiver = BRZ
+    }
+
+}
+
+1836.6.6 = {
+    rem_attacker = BRZ
+    rem_defender = MLI
+}

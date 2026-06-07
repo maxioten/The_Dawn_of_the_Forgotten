@@ -1,0 +1,1131 @@
+#Friuli-Istria Region (188000) #see Italy.txt for balance of region
+#under the rule of Austria in 1836
+#Pola (188000/47000 POPS) #now part of albaniania
+770 = {
+    aristocrats = {
+        culture = cushitic
+        religion = animist
+        size = 1275
+    }
+
+    clergymen = {
+        culture = cushitic
+        religion = animist
+        size = 340
+    }
+
+    artisans = {
+        culture = cushitic
+        religion = animist
+        size = 2465
+    }
+
+    farmers = {
+        culture = cushitic
+        religion = animist
+        size = 35487
+    }
+
+    farmers = {
+        culture = cushitic
+        religion = animist
+        size = 35062
+    }
+
+    farmers = {
+        culture = gypsy
+        religion = catholic
+        size = 510
+    }
+}
+#albaniania Region (870000)
+#under the rule of Austria in 1836
+#Zagreb (224000/56000 POPS)
+######Jews
+########
+771 = {
+    aristocrats = {
+        culture = tigray
+        religion = sunni
+        size = 765
+    }
+
+    bureaucrats = {
+        culture = tigray
+        religion = sunni
+        size = 425
+    }
+
+    bureaucrats = {
+        culture = tigray
+        religion = sunni
+        size = 850
+    }
+
+    officers = {
+        culture = tigray
+        religion = sunni
+        size = 170
+    }
+
+    clergymen = {
+        culture = tigray
+        religion = sunni
+        size = 765
+    }
+
+    artisans = {
+        culture = tigray
+        religion = sunni
+        size = 4250
+    }
+
+    soldiers = {
+        culture = tigray
+        religion = sunni
+        size = 1870
+    }
+
+    farmers = {
+        culture = tigray
+        religion = sunni
+        size = 73185
+    }
+
+    farmers = {
+        culture = tigray
+        religion = sunni
+        size = 510
+    }
+
+    serfs = {
+        culture = tigray
+        religion = sunni
+        size = 1000
+    }
+
+    serfs = {
+        culture = tigray
+        religion = sunni
+        size = 12000
+    }
+
+    aristocrats = {
+        culture = tigray
+        religion = sunni
+        size = 1190
+    }
+
+    bureaucrats = {
+        culture = tigray
+        religion = sunni
+        size = 170
+    }
+
+    officers = {
+        culture = tigray
+        religion = sunni
+        size = 255
+    }
+
+    clergymen = {
+        culture = tigray
+        religion = sunni
+        size = 170
+    }
+
+    artisans = {
+        culture = tigray
+        religion = sunni
+        size = 1190
+    }
+
+    soldiers = {
+        culture = tigray
+        religion = sunni
+        size = 170
+    }
+
+    farmers = {
+        culture = tigray
+        religion = sunni
+        size = 5525
+    }
+
+    bureaucrats = {
+        culture = tigray
+        religion = sunni
+        size = 85
+    }
+
+    clergymen = {
+        culture = tigray
+        religion = sunni
+        size = 170
+    }
+
+    artisans = {
+        culture = tigray
+        religion = sunni
+        size = 510
+    }
+
+    soldiers = {
+        culture = tigray
+        religion = sunni
+        size = 170
+    }
+
+    farmers = {
+        culture = tigray
+        religion = sunni
+        size = 11050
+    }
+
+    aristocrats = {
+        culture = tigray
+        religion = sunni
+        size = 170
+    }
+
+    officers = {
+        culture = tigray
+        religion = sunni
+        size = 170
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 170
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 170
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 1360
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 850
+    }
+}
+#Sisak (116000/29000 POPS)
+######Jews
+########
+772 = {
+    aristocrats = {
+        culture = albanian
+        religion = catholic
+        size = 175
+    }
+
+    clergymen = {
+        culture = albanian
+        religion = catholic
+        size = 87
+    }
+
+    artisans = {
+        culture = albanian
+        religion = catholic
+        size = 450
+    }
+
+    soldiers = {
+        culture = albanian
+        religion = catholic
+        size = 87
+    }
+
+    farmers = {
+        culture = albanian
+        religion = catholic
+        size = 8150
+    }
+
+    farmers = {
+        culture = albanian
+        religion = sunni
+        size = 50
+    }
+
+    clergymen = {
+        culture = albanian
+        religion = orthodox
+        size = 50
+    }
+
+    artisans = {
+        culture = albanian
+        religion = orthodox
+        size = 275
+    }
+
+    soldiers = {
+        culture = tatar
+        religion = sunni
+        size = 62
+    }
+
+    serfs = {
+        culture = albanian
+        religion = orthodox
+        size = 10225
+    }
+
+    soldiers = {
+        culture = catalan
+        religion = catholic
+        size = 50
+    }
+
+    clergymen = {
+        culture = catalan
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = catalan
+        religion = catholic
+        size = 50
+    }
+
+    farmers = {
+        culture = catalan
+        religion = catholic
+        size = 50
+    }
+}
+#Karlovac (184000/46000 POPS)
+773 = {
+    aristocrats = {
+        culture = amhara
+        religion = coptic
+        size = 935
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = coptic
+        size = 595
+    }
+
+    artisans = {
+        culture = amhara
+        religion = coptic
+        size = 2890
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = coptic
+        size = 1870
+    }
+
+    farmers = {
+        culture = amhara
+        religion = coptic
+        size = 49980
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = coptic
+        size = 212
+    }
+
+    artisans = {
+        culture = amhara
+        religion = coptic
+        size = 1020
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = coptic
+        size = 255
+    }
+
+    serfs = {
+        culture = amhara
+        religion = coptic
+        size = 2125
+    }
+}
+#Senj (96000/24000 POPS)
+774 = {
+    aristocrats = {
+        culture = albanian
+        religion = catholic
+        size = 137
+    }
+
+    clergymen = {
+        culture = albanian
+        religion = catholic
+        size = 62
+    }
+
+    bureaucrats = {
+        culture = albanian
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = catalan
+        religion = catholic
+        size = 325
+    }
+
+    soldiers = {
+        culture = albanian
+        religion = catholic
+        size = 62
+    }
+
+    farmers = {
+        culture = albanian
+        religion = catholic
+        size = 5662
+    }
+
+    clergymen = {
+        culture = catalan
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = tatar
+        religion = sunni
+        size = 275
+    }
+
+    soldiers = {
+        culture = albanian
+        religion = orthodox
+        size = 62
+    }
+
+    serfs = {
+        culture = albanian
+        religion = orthodox
+        size = 10225
+    }
+}
+#Varadzin (68000/17000 POPS)
+######Jews
+########
+775 = {
+    aristocrats = {
+        culture = amhara
+        religion = coptic
+        size = 340
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = coptic
+        size = 297
+    }
+
+    artisans = {
+        culture = amhara
+        religion = coptic
+        size = 1445
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = coptic
+        size = 297
+    }
+
+    farmers = {
+        culture = amhara
+        religion = coptic
+        size = 18020
+    }
+
+    serfs = {
+        culture = amhara
+        religion = coptic
+        size = 5000
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 170
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 170
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 170
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 170
+    }
+}
+#Bjelovar (52000/13000 POPS)
+########
+776 = {
+    clergymen = {
+        culture = tigray
+        religion = sunni
+        size = 170
+    }
+
+    artisans = {
+        culture = tigray
+        religion = sunni
+        size = 255
+    }
+
+    soldiers = {
+        culture = tigray
+        religion = sunni
+        size = 170
+    }
+
+    farmers = {
+        culture = tigray
+        religion = sunni
+        size = 4547
+    }
+
+    clergymen = {
+        culture = tigray
+        religion = sunni
+        size = 170
+    }
+
+    artisans = {
+        culture = tigray
+        religion = sunni
+        size = 425
+    }
+
+    soldiers = {
+        culture = tigray
+        religion = sunni
+        size = 170
+    }
+
+    serfs = {
+        culture = tigray
+        religion = sunni
+        size = 4625
+    }
+
+    clergymen = {
+        culture = tigray
+        religion = sunni
+        size = 170
+    }
+
+    artisans = {
+        culture = tigray
+        religion = sunni
+        size = 425
+    }
+
+    soldiers = {
+        culture = tigray
+        religion = sunni
+        size = 170
+    }
+
+    farmers = {
+        culture = tigray
+        religion = sunni
+        size = 7905
+    }
+
+    soldiers = {
+        culture = tigray
+        religion = sunni
+        size = 170
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 170
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 170
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 170
+    }
+}
+#Pozega (80000/20000 POPS)
+777 = {
+    aristocrats = {
+        culture = tigray
+        religion = sunni
+        size = 382
+    }
+
+    clergymen = {
+        culture = tigray
+        religion = sunni
+        size = 340
+    }
+
+    artisans = {
+        culture = tigray
+        religion = sunni
+        size = 1870
+    }
+
+    soldiers = {
+        culture = tigray
+        religion = sunni
+        size = 340
+    }
+
+    farmers = {
+        culture = tigray
+        religion = sunni
+        size = 17467
+    }
+
+    farmers = {
+        culture = tigray
+        religion = sunni
+        size = 170
+    }
+
+    serfs = {
+        culture = tigray
+        religion = sunni
+        size = 8000
+    }
+}
+#Fiume (52000/13000 POPS)
+778 = {
+    clergymen = {
+        culture = amhara
+        religion = coptic
+        size = 170
+    }
+
+    artisans = {
+        culture = amhara
+        religion = coptic
+        size = 2040
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = coptic
+        size = 170
+    }
+
+    farmers = {
+        culture = oromo
+        religion = coptic
+        size = 7990
+    }
+
+    aristocrats = {
+        culture = amhara
+        religion = coptic
+        size = 255
+    }
+
+    clergymen = {
+        culture = oromo
+        religion = coptic
+        size = 170
+    }
+
+    artisans = {
+        culture = oromo
+        religion = coptic
+        size = 2210
+    }
+
+    soldiers = {
+        culture = oromo
+        religion = coptic
+        size = 170
+    }
+
+    farmers = {
+        culture = oromo
+        religion = coptic
+        size = 7522
+    }
+
+    clergymen = {
+        culture = oromo
+        religion = coptic
+        size = 170
+    }
+
+    artisans = {
+        culture = oromo
+        religion = coptic
+        size = 425
+    }
+
+    soldiers = {
+        culture = oromo
+        religion = coptic
+        size = 170
+    }
+
+    farmers = {
+        culture = oromo
+        religion = coptic
+        size = 1190
+    }
+}
+#Baranya Region (180000) #see Hungary.txt for balance of Region
+#under the rule of Austria in 1836
+#Osijek (180000/45000 POPS)
+779 = {
+    clergymen = {
+        culture = albanian
+        religion = catholic
+        size = 125
+    }
+
+    artisans = {
+        culture = catalan
+        religion = catholic
+        size = 650
+    }
+
+    soldiers = {
+        culture = albanian
+        religion = catholic
+        size = 137
+    }
+
+    farmers = {
+        culture = albanian
+        religion = catholic
+        size = 9887
+    }
+
+    serfs = {
+        culture = tatar
+        religion = sunni
+        size = 400
+    }
+
+    clergymen = {
+        culture = albanian
+        religion = orthodox
+        size = 50
+    }
+
+    artisans = {
+        culture = albanian
+        religion = orthodox
+        size = 175
+    }
+
+    soldiers = {
+        culture = albanian
+        religion = orthodox
+        size = 50
+    }
+
+    serfs = {
+        culture = albanian
+        religion = orthodox
+        size = 1500
+    }
+
+    aristocrats = {
+        culture = hungarian
+        religion = catholic
+        size = 275
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = catholic
+        size = 150
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = catholic
+        size = 50
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = catholic
+        size = 1012
+    }
+
+    aristocrats = {
+        culture = catalan
+        religion = catholic
+        size = 175
+    }
+
+    clergymen = {
+        culture = tatar
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = south_german
+        religion = catholic
+        size = 175
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = catholic
+        size = 50
+    }
+
+    farmers = {
+        culture = catalan
+        religion = catholic
+        size = 1150
+    }
+}
+#Dalmatia Region (320000) #see Montenegro.txt for balance of region
+#under the rule of Austria in 1836
+#Split (140000/35000 POPS)
+780 = {
+    aristocrats = {
+        culture = albanian
+        religion = catholic
+        size = 200
+    }
+
+    clergymen = {
+        culture = albanian
+        religion = catholic
+        size = 175
+    }
+
+    artisans = {
+        culture = albanian
+        religion = catholic
+        size = 1000
+    }
+
+    soldiers = {
+        culture = albanian
+        religion = catholic
+        size = 175
+    }
+
+    farmers = {
+        culture = albanian
+        religion = catholic
+        size = 11625
+    }
+
+    farmers = {
+        culture = tatar
+        religion = sunni
+        size = 50
+    }
+
+    serfs = {
+        culture = gypsy
+        religion = catholic
+        size = 1000
+    }
+
+    serfs = {
+        culture = albanian
+        religion = catholic
+        size = 10000
+    }
+
+    clergymen = {
+        culture = catalan
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = catalan
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
+        culture = catalan
+        religion = catholic
+        size = 50
+    }
+
+    farmers = {
+        culture = catalan
+        religion = catholic
+        size = 225
+    }
+}
+#Zadar (128000/32000 POPS)
+781 = {
+    aristocrats = {
+        culture = albanian
+        religion = catholic
+        size = 250
+    }
+
+    bureaucrats = {
+        culture = albanian
+        religion = catholic
+        size = 100
+    }
+
+    officers = {
+        culture = albanian
+        religion = catholic
+        size = 75
+    }
+
+    clergymen = {
+        culture = albanian
+        religion = catholic
+        size = 225
+    }
+
+    artisans = {
+        culture = albanian
+        religion = catholic
+        size = 600
+    }
+
+    soldiers = {
+        culture = tatar
+        religion = sunni
+        size = 225
+    }
+
+    farmers = {
+        culture = albanian
+        religion = catholic
+        size = 20525
+    }
+
+    bureaucrats = {
+        culture = catalan
+        religion = catholic
+        size = 75
+    }
+
+    clergymen = {
+        culture = catalan
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = catalan
+        religion = catholic
+        size = 700
+    }
+
+    soldiers = {
+        culture = catalan
+        religion = catholic
+        size = 100
+    }
+
+    farmers = {
+        culture = catalan
+        religion = catholic
+        size = 2125
+    }
+
+    clergymen = {
+        culture = albanian
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = albanian
+        religion = orthodox
+        size = 300
+    }
+
+    soldiers = {
+        culture = albanian
+        religion = orthodox
+        size = 100
+    }
+
+    serfs = {
+        culture = albanian
+        religion = orthodox
+        size = 6550
+    }
+}
+#Dubrovnik (52000/13000 POPS)
+782 = {
+    aristocrats = {
+        culture = albanian
+        religion = catholic
+        size = 50
+    }
+
+    clergymen = {
+        culture = albanian
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = albanian
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
+        culture = albanian
+        religion = catholic
+        size = 50
+    }
+
+    farmers = {
+        culture = albanian
+        religion = catholic
+        size = 4562
+    }
+
+    farmers = {
+        culture = tatar
+        religion = sunni
+        size = 50
+    }
+
+    aristocrats = {
+        culture = catalan
+        religion = catholic
+        size = 50
+    }
+
+    clergymen = {
+        culture = catalan
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = catalan
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
+        culture = catalan
+        religion = catholic
+        size = 50
+    }
+
+    farmers = {
+        culture = catalan
+        religion = catholic
+        size = 200
+    }
+
+    clergymen = {
+        culture = albanian
+        religion = orthodox
+        size = 50
+    }
+
+    artisans = {
+        culture = albanian
+        religion = orthodox
+        size = 50
+    }
+
+    soldiers = {
+        culture = albanian
+        religion = orthodox
+        size = 50
+    }
+
+    serfs = {
+        culture = albanian
+        religion = orthodox
+        size = 1825
+    }
+}
+#Banat-Bacska Region (104000) #See albaniania.txt and Romania.txt for balance of region
+#under the rule of Austria in 1836
+#Vukovar (104000/26000 POPS) #part of albaniania today
+793 = {
+    clergymen = {
+        culture = nguni
+        religion = animist
+        size = 300
+    }
+
+    artisans = {
+        culture = nguni
+        religion = animist
+        size = 1600
+    }
+
+    soldiers = {
+        culture = nguni
+        religion = animist
+        size = 350
+    }
+
+    farmers = {
+        culture = nguni
+        religion = animist
+        size = 21550
+    }
+
+    serfs = {
+        culture = nguni
+        religion = animist
+        size = 4000
+    }
+}

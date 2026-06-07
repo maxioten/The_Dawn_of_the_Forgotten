@@ -1,0 +1,7 @@
+owner = ALD
+controller = ALD
+
+
+trade_goods = silk
+life_rating = 32
+

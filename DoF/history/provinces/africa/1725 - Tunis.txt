@@ -1,0 +1,8 @@
+owner = ALD
+controller = ALD
+add_core = ALD
+add_core = TUN
+trade_goods = grain
+life_rating = 45
+naval_base = 1
+

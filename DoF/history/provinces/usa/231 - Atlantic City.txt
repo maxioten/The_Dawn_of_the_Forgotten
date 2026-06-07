@@ -1,0 +1,6 @@
+owner = NEW
+controller = NEW
+add_core = NEW
+trade_goods = fish
+naval_base = 1
+life_rating = 35

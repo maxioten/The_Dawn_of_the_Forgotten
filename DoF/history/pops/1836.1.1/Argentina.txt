@@ -1,0 +1,3524 @@
+#Buenos Aires Region (272000)
+#Under rule of Argentina 1836
+#Buenos Aires (132000/33000 POPS)
+2348 = {
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 205
+    }
+
+    bureaucrats = {
+        culture = platinean
+        religion = protestant
+        size = 420
+    }
+
+    officers = {
+        culture = platinean
+        religion = protestant
+        size = 63
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = protestant
+        size = 315
+    }
+
+    artisans = {
+        culture = platinean
+        religion = protestant
+        size = 12600
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = protestant
+        size = 5040
+    }
+
+    farmers = {
+        culture = platinean
+        religion = protestant
+        size = 88893
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 1008
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 123
+    }
+
+    bureaucrats = {
+        culture = boer
+        religion = protestant
+        size = 252
+    }
+
+    officers = {
+        culture = boer
+        religion = protestant
+        size = 38
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 189
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 7560
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 7560
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 53336
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 1512
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 1160
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 1740
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 1512
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 184
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 378
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 56
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 283
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 11340
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 80003
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 2268
+    }
+}
+#Junin (56000/14000 POPS)
+2349 = {
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 35
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = protestant
+        size = 147
+    }
+
+    artisans = {
+        culture = platinean
+        religion = protestant
+        size = 4284
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = protestant
+        size = 3360
+    }
+
+    farmers = {
+        culture = platinean
+        religion = protestant
+        size = 21462
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 21
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 88
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 2570
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 5040
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 12877
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 196
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 294
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 31
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 132
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 3856
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 19316
+    }
+}
+#Azul (12000/3000 POPS)
+2350 = {
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 6
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = protestant
+        size = 63
+    }
+
+    farmers = {
+        culture = platinean
+        religion = protestant
+        size = 13188
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 4
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 38
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 7913
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 36
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 54
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 5
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 56
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 11869
+    }
+}
+#La Plata (4000/1000 POPS)
+2351 = {
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 2
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = protestant
+        size = 21
+    }
+
+    farmers = {
+        culture = platinean
+        religion = protestant
+        size = 15960
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 1
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 12
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 9576
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 10
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 16
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 2
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 19
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 14364
+    }
+}
+#Mar del Plata (12000/3000 POPS)
+2352 = {
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 6
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = protestant
+        size = 63
+    }
+
+    farmers = {
+        culture = platinean
+        religion = protestant
+        size = 17388
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 4
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 38
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 10433
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 36
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 54
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 5
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 56
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 15649
+    }
+}
+#Under loose authority of Argentina 1836
+#Trenque Lanquen (12000/9000 POPS)
+2353 = {
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 25
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 3900
+    }
+
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 50
+    }
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 1800
+    }
+}
+#Bahia Blanca (24000/6000 POPS)
+2354 = {
+    clergymen = {
+        culture = platinean
+        religion = protestant
+        size = 63
+    }
+
+    farmers = {
+        culture = platinean
+        religion = protestant
+        size = 2289
+    }
+
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 6
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 63
+    }
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 2268
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 38
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 1373
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 4
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 38
+    }
+
+    farmers = {
+        culture = platinean
+        religion = protestant
+        size = 5402
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = animist
+        size = 36
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 54
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 56
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 2060
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 5
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 56
+    }
+}
+#Carmen (20000/5000 POPS)
+2355 = {
+    clergymen = {
+        culture = platinean
+        religion = protestant
+        size = 42
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = protestant
+        size = 21
+    }
+
+    farmers = {
+        culture = platinean
+        religion = protestant
+        size = 1575
+    }
+
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 6
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 63
+    }
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 4788
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 25
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 31
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 945
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 4
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 38
+    }
+
+    farmers = {
+        culture = platinean
+        religion = protestant
+        size = 7182
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = animist
+        size = 36
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 54
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 38
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 1417
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 5
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 56
+    }
+}
+#Corrientes Region (164000)
+#Under rule of Argentina 1836
+#Corrientes (96000/24000 POPS)
+2356 = {
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 57
+    }
+
+    bureaucrats = {
+        culture = platinean
+        religion = protestant
+        size = 672
+    }
+
+    officers = {
+        culture = platinean
+        religion = protestant
+        size = 29
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = protestant
+        size = 189
+    }
+
+    artisans = {
+        culture = platinean
+        religion = protestant
+        size = 2520
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = protestant
+        size = 2520
+    }
+
+    farmers = {
+        culture = platinean
+        religion = protestant
+        size = 37812
+    }
+
+    clergymen = {
+        culture = guarani
+        religion = animist
+        size = 63
+    }
+
+    farmers = {
+        culture = guarani
+        religion = animist
+        size = 19110
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 1680
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 34
+    }
+
+    bureaucrats = {
+        culture = boer
+        religion = protestant
+        size = 403
+    }
+
+    officers = {
+        culture = boer
+        religion = protestant
+        size = 18
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 113
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 1512
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 3780
+    }
+
+    farmers = {
+        culture = platinean
+        religion = protestant
+        size = 22688
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 38
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 11466
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 2520
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 321
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 482
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 2520
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 51
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 605
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 26
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 170
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 2268
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 14031
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 56
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 7199
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 3780
+    }
+}
+#Curuzu Cuatia (16000/4000 POPS)
+2357 = {
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 3
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = protestant
+        size = 42
+    }
+
+    farmers = {
+        culture = platinean
+        religion = protestant
+        size = 2100
+    }
+
+    clergymen = {
+        culture = brazilian
+        religion = protestant
+        size = 42
+    }
+
+    farmers = {
+        culture = brazilian
+        religion = protestant
+        size = 1533
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 2
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 25
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 1260
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 25
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 920
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 18
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 26
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 3
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 38
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 1890
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 38
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 1379
+    }
+}
+#Santo Tomas (28000/7000 POPS)
+2358 = {
+    clergymen = {
+        culture = platinean
+        religion = protestant
+        size = 42
+    }
+
+    farmers = {
+        culture = platinean
+        religion = protestant
+        size = 1575
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = protestant
+        size = 42
+    }
+
+    farmers = {
+        culture = platinean
+        religion = protestant
+        size = 1533
+    }
+
+    aristocrats = {
+        culture = guarani
+        religion = animist
+        size = 6
+    }
+
+    clergymen = {
+        culture = guarani
+        religion = animist
+        size = 63
+    }
+
+    farmers = {
+        culture = guarani
+        religion = animist
+        size = 2268
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 25
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 945
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 25
+    }
+
+    farmers = {
+        culture = platinean
+        religion = protestant
+        size = 920
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 4
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 38
+    }
+
+    farmers = {
+        culture = platinean
+        religion = protestant
+        size = 1361
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = animist
+        size = 36
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 54
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 38
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 1417
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 38
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 1379
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 5
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 56
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 2041
+    }
+}
+#Colon (8000/2000 POPS)
+2359 = {
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 3
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = protestant
+        size = 42
+    }
+
+    farmers = {
+        culture = platinean
+        religion = protestant
+        size = 1596
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 2
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 25
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 958
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 18
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 26
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 3
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 38
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 1436
+    }
+}
+#Parana (16000/4000 POPS)
+2360 = {
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 9
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = protestant
+        size = 42
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = protestant
+        size = 1680
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = protestant
+        size = 420
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = animist
+        size = 420
+    }
+
+    soldiers = {
+        culture = guarani
+        religion = animist
+        size = 420
+    }
+
+    farmers = {
+        culture = platinean
+        religion = protestant
+        size = 30933
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 6
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 25
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 2520
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 630
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 630
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 630
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 18560
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 54
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 80
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 8
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 38
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 27839
+    }
+}
+#Santa Fe Region (72000)
+#Under rule of Argentina 1836
+#Santa Esperitu (8000/2000 POPS)
+2361 = {
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 3
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = protestant
+        size = 42
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = protestant
+        size = 21
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 168
+    }
+
+    farmers = {
+        culture = platinean
+        religion = protestant
+        size = 9072
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 2
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 25
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 31
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 252
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 5443
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 18
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 26
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 252
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 3
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 38
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 378
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 8165
+    }
+}
+#Reconquista (56000/14000 POPS)
+2362 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 275
+    }
+
+    bureaucrats = {
+        culture = platinean
+        religion = catholic
+        size = 300
+    }
+
+    officers = {
+        culture = platinean
+        religion = catholic
+        size = 20
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 175
+    }
+
+    artisans = {
+        culture = platinean
+        religion = catholic
+        size = 4000
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 150
+    }
+
+    farmers = {
+        culture = guarani
+        religion = catholic
+        size = 4350
+    }
+
+    slaves = {
+        culture = guarani
+        religion = catholic
+        size = 3000
+    }
+}
+#Rosario (8000/2000 POPS)
+2363 = {
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 3
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = protestant
+        size = 42
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = protestant
+        size = 21
+    }
+
+    farmers = {
+        culture = platinean
+        religion = protestant
+        size = 1512
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 2
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 25
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 31
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 907
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 18
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 26
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 3
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 38
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 1361
+    }
+}
+#Chaco Region (76000) #see Paraguay.txt for balance of region
+#Under loose authority of Argentina 1836
+#Resistencia (16000/4000 POPS)
+2364 = {
+    aristocrats = {
+        culture = guarani
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = guarani
+        religion = animist
+        size = 75
+    }
+
+    soldiers = {
+        culture = guarani
+        religion = animist
+        size = 25
+    }
+
+    farmers = {
+        culture = guarani
+        religion = animist
+        size = 2700
+    }
+
+    bureaucrats = {
+        culture = platinean
+        religion = catholic
+        size = 2
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 23
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 25
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 1200
+    }
+}
+#Villa Angela (16000/4000 POPS)
+2365 = {
+    aristocrats = {
+        culture = guarani
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = guarani
+        religion = animist
+        size = 75
+    }
+
+    soldiers = {
+        culture = guarani
+        religion = animist
+        size = 25
+    }
+
+    farmers = {
+        culture = guarani
+        religion = animist
+        size = 2700
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 25
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 25
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 900
+    }
+}
+#Under loose authority of Paraguay 1836
+#Formosa (24000/6000 POPS) #now part of Argentina
+2366 = {
+    aristocrats = {
+        culture = guarani
+        religion = catholic
+        size = 75
+    }
+
+    clergymen = {
+        culture = guarani
+        religion = catholic
+        size = 75
+    }
+
+    soldiers = {
+        culture = guarani
+        religion = catholic
+        size = 500
+    }
+
+    labourers = {
+        culture = guarani
+        religion = animist
+        size = 2300
+    }
+
+    labourers = {
+        culture = guarani
+        religion = catholic
+        size = 1075
+    }
+
+    bureaucrats = {
+        culture = platinean
+        religion = catholic
+        size = 2
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 23
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 25
+    }
+
+    labourers = {
+        culture = platinean
+        religion = catholic
+        size = 500
+    }
+
+    slaves = {
+        culture = guarani
+        religion = animist
+        size = 800
+    }
+}
+#Xolotas (20000/5000 POPS) #now part of Argentina
+2367 = {
+    aristocrats = {
+        culture = guarani
+        religion = catholic
+        size = 75
+    }
+
+    clergymen = {
+        culture = guarani
+        religion = catholic
+        size = 75
+    }
+
+    soldiers = {
+        culture = guarani
+        religion = catholic
+        size = 550
+    }
+
+    labourers = {
+        culture = guarani
+        religion = animist
+        size = 4075
+    }
+}
+#Salta Region (36000)
+#Under rule of Argentina 1836
+#Santa Rosa - Former Bechar (20000/5000 POPS)
+1714 = {
+    aristocrats = {
+        culture = aimara
+        religion = animist
+        size = 5
+    }
+
+    bureaucrats = {
+        culture = aimara
+        religion = animist
+        size = 15
+    }
+
+    clergymen = {
+        culture = aimara
+        religion = animist
+        size = 10
+    }
+
+    artisans = {
+        culture = aimara
+        religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = aimara
+        religion = animist
+        size = 60
+    }
+
+    farmers = {
+        culture = aimara
+        religion = animist
+        size = 300
+    }
+
+    farmers = {
+        culture = aimara
+        religion = animist
+        size = 200
+    }
+}
+#Salta (16000/4000 POPS)
+2368 = {
+    aristocrats = {
+        culture = aimara
+        religion = animist
+        size = 675
+    }
+
+    bureaucrats = {
+        culture = aimara
+        religion = animist
+        size = 135
+    }
+
+    officers = {
+        culture = aimara
+        religion = animist
+        size = 90
+    }
+
+    clergymen = {
+        culture = aimara
+        religion = animist
+        size = 450
+    }
+
+    artisans = {
+        culture = aimara
+        religion = animist
+        size = 9000
+    }
+
+    soldiers = {
+        culture = aimara
+        religion = animist
+        size = 450
+    }
+
+    farmers = {
+        culture = aimara
+        religion = animist
+        size = 14400
+    }
+
+    farmers = {
+        culture = aimara
+        religion = animist
+        size = 4500
+    }
+}
+#Jujuy (8000/2000 POPS)
+2369 = {
+    aristocrats = {
+        culture = aimara
+        religion = animist
+        size = 225
+    }
+
+    clergymen = {
+        culture = aimara
+        religion = animist
+        size = 450
+    }
+
+    artisans = {
+        culture = aimara
+        religion = animist
+        size = 9900
+    }
+
+    soldiers = {
+        culture = aimara
+        religion = animist
+        size = 225
+    }
+
+    farmers = {
+        culture = aimara
+        religion = animist
+        size = 8100
+    }
+}
+#Cochinoca (4000/1000 POPS)
+2370 = {
+    aristocrats = {
+        culture = aimara
+        religion = animist
+        size = 135
+    }
+
+    clergymen = {
+        culture = aimara
+        religion = animist
+        size = 225
+    }
+
+    soldiers = {
+        culture = aimara
+        religion = animist
+        size = 90
+    }
+
+    farmers = {
+        culture = aimara
+        religion = animist
+        size = 8100
+    }
+}
+#Equia (4000/1000 POPS)
+2371 = {
+    aristocrats = {
+        culture = aimara
+        religion = animist
+        size = 135
+    }
+
+    clergymen = {
+        culture = aimara
+        religion = animist
+        size = 225
+    }
+
+    soldiers = {
+        culture = aimara
+        religion = animist
+        size = 90
+    }
+
+    farmers = {
+        culture = aimara
+        religion = animist
+        size = 8100
+    }
+}
+#Rivadavia (4000/1000 POPS)
+2372 = {
+    aristocrats = {
+        culture = guarani
+        religion = catholic
+        size = 15
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 25
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 10
+    }
+
+    farmers = {
+        culture = guarani
+        religion = catholic
+        size = 900
+    }
+}
+#Tucuman Region (36000)
+#Under rule of Argentina 1836
+#Tucuman (20000/5000 POPS)
+2373 = {
+    aristocrats = {
+        culture = aimara
+        religion = animist
+        size = 900
+    }
+
+    bureaucrats = {
+        culture = aimara
+        religion = animist
+        size = 135
+    }
+
+    officers = {
+        culture = aimara
+        religion = animist
+        size = 90
+    }
+
+    clergymen = {
+        culture = aimara
+        religion = animist
+        size = 900
+    }
+
+    artisans = {
+        culture = aimara
+        religion = animist
+        size = 13500
+    }
+
+    soldiers = {
+        culture = aimara
+        religion = animist
+        size = 450
+    }
+
+    farmers = {
+        culture = aimara
+        religion = animist
+        size = 38025
+    }
+
+    farmers = {
+        culture = aimara
+        religion = animist
+        size = 18000
+    }
+}
+#Catamarca (12000/3000 POPS)
+2374 = {
+    aristocrats = {
+        culture = aimara
+        religion = animist
+        size = 450
+    }
+
+    clergymen = {
+        culture = aimara
+        religion = animist
+        size = 675
+    }
+
+    soldiers = {
+        culture = aimara
+        religion = animist
+        size = 225
+    }
+
+    farmers = {
+        culture = aimara
+        religion = animist
+        size = 18000
+    }
+
+    farmers = {
+        culture = aimara
+        religion = animist
+        size = 9000
+    }
+}
+#Vinchina (4000/1000 POPS)
+2375 = {
+    aristocrats = {
+        culture = aimara
+        religion = animist
+        size = 135
+    }
+
+    clergymen = {
+        culture = aimara
+        religion = animist
+        size = 225
+    }
+
+    soldiers = {
+        culture = aimara
+        religion = animist
+        size = 90
+    }
+
+    farmers = {
+        culture = aimara
+        religion = animist
+        size = 8100
+    }
+}
+#Santiago del Estero Region (40000)
+#Under rule of Argentina 1836
+#Santiago del Estero (16000/4000 POPS)
+2376 = {
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 9
+    }
+
+    bureaucrats = {
+        culture = platinean
+        religion = protestant
+        size = 8
+    }
+
+    officers = {
+        culture = platinean
+        religion = protestant
+        size = 8
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = protestant
+        size = 42
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = protestant
+        size = 42
+    }
+
+    farmers = {
+        culture = platinean
+        religion = protestant
+        size = 2524
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 168
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 6
+    }
+
+    bureaucrats = {
+        culture = boer
+        religion = protestant
+        size = 5
+    }
+
+    officers = {
+        culture = boer
+        religion = protestant
+        size = 5
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 25
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 63
+    }
+
+    farmers = {
+        culture = platinean
+        religion = protestant
+        size = 3786
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 252
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 54
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 80
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 252
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 8
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 8
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 8
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 38
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 378
+    }
+}
+#Anatuya (16000/4000 POPS)
+2377 = {
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 25
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 25
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 900
+    }
+
+    aristocrats = {
+        culture = guarani
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = guarani
+        religion = animist
+        size = 75
+    }
+
+    soldiers = {
+        culture = guarani
+        religion = animist
+        size = 25
+    }
+
+    farmers = {
+        culture = guarani
+        religion = animist
+        size = 2700
+    }
+}
+#Mailin (8000/2000 POPS)
+2378 = {
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 3
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = protestant
+        size = 42
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = protestant
+        size = 21
+    }
+
+    farmers = {
+        culture = platinean
+        religion = protestant
+        size = 3512
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 2
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 25
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 31
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 307
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 18
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 26
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 3
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 38
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 1061
+    }
+}
+#Cordoba Region (136000)
+#Under rule of Argentina 1836
+#Cordoba de Argentina (84000/21000 POPS)
+2379 = {
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 54
+    }
+
+    bureaucrats = {
+        culture = platinean
+        religion = protestant
+        size = 34
+    }
+
+    officers = {
+        culture = platinean
+        religion = protestant
+        size = 420
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = protestant
+        size = 168
+    }
+
+    artisans = {
+        culture = platinean
+        religion = protestant
+        size = 840
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = protestant
+        size = 4200
+    }
+
+    farmers = {
+        culture = platinean
+        religion = protestant
+        size = 64092
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 2352
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 32
+    }
+
+    bureaucrats = {
+        culture = boer
+        religion = protestant
+        size = 20
+    }
+
+    officers = {
+        culture = boer
+        religion = protestant
+        size = 252
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 101
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 504
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 6300
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 28455
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 1528
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 303
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 455
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 1528
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 48
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 30
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 378
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 151
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 756
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 47683
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 1292
+    }
+}
+#Villa Nueva (8000/2000 POPS)
+2380 = {
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 3
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = protestant
+        size = 42
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = protestant
+        size = 105
+    }
+
+    farmers = {
+        culture = platinean
+        religion = protestant
+        size = 2512
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 2
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 25
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 157
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 307
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 18
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 26
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 3
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 38
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 1061
+    }
+}
+#Rio Cuarto (8000/2000 POPS)
+2381 = {
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 3
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = protestant
+        size = 42
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = protestant
+        size = 105
+    }
+
+    farmers = {
+        culture = platinean
+        religion = protestant
+        size = 2512
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 2
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 25
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 157
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 307
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 18
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 26
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 3
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 38
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 1061
+    }
+}
+#San Luis (8000/2000 POPS)
+2383 = {
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 3
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = protestant
+        size = 42
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = protestant
+        size = 105
+    }
+
+    farmers = {
+        culture = platinean
+        religion = protestant
+        size = 1512
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 2
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 25
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 157
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 307
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 18
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 26
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 3
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 38
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 1061
+    }
+}
+#Under the loose rule of Argentina 1836
+#Renanco (20000/5000 POPS)
+2382 = {
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 50
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 125
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 3825
+    }
+
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 75
+    }
+
+    soldiers = {
+        culture = patagonian
+        religion = animist
+        size = 175
+    }
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 700
+    }
+}
+#Mercedes (8000/2000 POPS)
+2384 = {
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 25
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 125
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 2900
+    }
+
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 25
+    }
+
+    soldiers = {
+        culture = patagonian
+        religion = animist
+        size = 5
+    }
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 900
+    }
+}
+#La Rioja Region (40000)
+#Under rule of Argentina 1836
+#La Rioja (16000/4000 POPS)
+2385 = {
+    aristocrats = {
+        culture = aimara
+        religion = animist
+        size = 675
+    }
+
+    bureaucrats = {
+        culture = aimara
+        religion = animist
+        size = 135
+    }
+
+    officers = {
+        culture = aimara
+        religion = animist
+        size = 90
+    }
+
+    clergymen = {
+        culture = aimara
+        religion = animist
+        size = 450
+    }
+
+    soldiers = {
+        culture = aimara
+        religion = animist
+        size = 2250
+    }
+
+    farmers = {
+        culture = aimara
+        religion = animist
+        size = 27000
+    }
+
+    farmers = {
+        culture = aimara
+        religion = animist
+        size = 6300
+    }
+}
+#Santa Rita (8000/2000 POPS)
+2386 = {
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 3
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = protestant
+        size = 42
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = protestant
+        size = 105
+    }
+
+    farmers = {
+        culture = platinean
+        religion = protestant
+        size = 1512
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 2
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 25
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 157
+    }
+
+    farmers = {
+        culture = platinean
+        religion = protestant
+        size = 2268
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 18
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 26
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 3
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 38
+    }
+}
+#San Juan de la Frontera (12000/3000 POPS)
+2387 = {
+    aristocrats = {
+        culture = aimara
+        religion = animist
+        size = 450
+    }
+
+    clergymen = {
+        culture = aimara
+        religion = animist
+        size = 675
+    }
+
+    soldiers = {
+        culture = aimara
+        religion = animist
+        size = 675
+    }
+
+    farmers = {
+        culture = aimara
+        religion = animist
+        size = 18000
+    }
+
+    farmers = {
+        culture = aimara
+        religion = animist
+        size = 4500
+    }
+}
+#Calingasta (4000/1000 POPS)
+2388 = {
+    aristocrats = {
+        culture = aimara
+        religion = animist
+        size = 135
+    }
+
+    clergymen = {
+        culture = aimara
+        religion = animist
+        size = 225
+    }
+
+    soldiers = {
+        culture = aimara
+        religion = animist
+        size = 540
+    }
+
+    farmers = {
+        culture = aimara
+        religion = animist
+        size = 8100
+    }
+}
+#Mendoza Region (32000)
+#Under rule of Argentina 1836
+#Mendoza (12000/3000 POPS)
+2389 = {
+    aristocrats = {
+        culture = aimara
+        religion = animist
+        size = 450
+    }
+
+    bureaucrats = {
+        culture = aimara
+        religion = animist
+        size = 45
+    }
+
+    officers = {
+        culture = aimara
+        religion = animist
+        size = 90
+    }
+
+    clergymen = {
+        culture = aimara
+        religion = animist
+        size = 675
+    }
+
+    soldiers = {
+        culture = aimara
+        religion = animist
+        size = 1800
+    }
+
+    farmers = {
+        culture = aimara
+        religion = animist
+        size = 18540
+    }
+
+    farmers = {
+        culture = aimara
+        religion = animist
+        size = 4500
+    }
+}
+#San Rafael (8000/2000 POPS)
+2390 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 25
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 50
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 125
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 1800
+    }
+}
+#Under the loose rule of Argentina 1836
+#Neuquen (12000/3000 POPS)
+2391 = {
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 25
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 75
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 900
+    }
+
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 50
+    }
+
+    soldiers = {
+        culture = patagonian
+        religion = animist
+        size = 125
+    }
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 1800
+    }
+}
+#Rio Negro-La Pampa Region (52000)
+#Under the loose rule of Argentina 1836
+#Viedma (12000/3000 POPS)
+2392 = {
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 75
+    }
+
+    soldiers = {
+        culture = patagonian
+        religion = animist
+        size = 175
+    }
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 2700
+    }
+}
+#Telen (12000/3000 POPS)
+2393 = {
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 350
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = protestant
+        size = 175
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = protestant
+        size = 1175
+    }
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 750
+    }
+}
+#Bariloche (16000/4000 POPS)
+2394 = {
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 25
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 75
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 900
+    }
+
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 75
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 50
+    }
+
+    soldiers = {
+        culture = patagonian
+        religion = animist
+        size = 250
+    }
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 3675
+    }
+}
+#Curaco (12000/3000 POPS)
+2395 = {
+    aristocrats = {
+        culture = platinean
+        religion = protestant
+        size = 350
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = protestant
+        size = 175
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = protestant
+        size = 975
+    }
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 1300
+    }
+}
+#Patagonia Region (20000)
+#Under the loose rule of Argentina 1836
+#Rawson (4000/1000 POPS)
+2396 = {
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 25
+    }
+
+    soldiers = {
+        culture = patagonian
+        religion = animist
+        size = 65
+    }
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 900
+    }
+}
+#Esquel (4000/1000 POPS)
+2397 = {
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 25
+    }
+
+    soldiers = {
+        culture = patagonian
+        religion = animist
+        size = 65
+    }
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 900
+    }
+}
+#Puerto Deseado (4000/1000 POPS)
+2398 = {
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 25
+    }
+
+    soldiers = {
+        culture = patagonian
+        religion = animist
+        size = 65
+    }
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 900
+    }
+}
+#Rio Gallegos (4000/1000 POPS)
+2399 = {
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 25
+    }
+
+    soldiers = {
+        culture = patagonian
+        religion = animist
+        size = 65
+    }
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 900
+    }
+}
+#Rio Grande (4000/1000 POPS)
+2400 = {
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 25
+    }
+
+    soldiers = {
+        culture = patagonian
+        religion = animist
+        size = 65
+    }
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 900
+    }
+}
+#Paraguay Region (16000) #see Paraguay.txt & Brazil.txt for balance of region
+#Under loose authority of Paraguay 1836
+#Posadas (16000/4000 POPS) #now part of Argentina
+2554 = {
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 23
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 8
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 272
+    }
+
+    aristocrats = {
+        culture = guarani
+        religion = animist
+        size = 1
+    }
+
+    clergymen = {
+        culture = guarani
+        religion = animist
+        size = 41
+    }
+
+    soldiers = {
+        culture = guarani
+        religion = animist
+        size = 96
+    }
+
+    farmers = {
+        culture = guarani
+        religion = animist
+        size = 1485
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 22
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 7
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 267
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 1
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 22
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 52
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 802
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 19
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 6
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 245
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 19
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 6
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 240
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 13
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 19
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 46
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 721
+    }
+
+    aristocrats = {
+        culture = brazilian
+        religion = sunni
+        size = 26
+    }
+
+    aristocrats = {
+        culture = brazilian
+        religion = sunni
+        size = 14
+    }
+}

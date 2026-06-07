@@ -1,0 +1,2565 @@
+#Yorubaland Region (1824000)
+#ruled by Oyo in 1836
+#Lagos (336000/84000 POPS)
+1923 = {
+    aristocrats = {
+        culture = yoruba
+        religion = sunni
+        size = 3100
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = sunni
+        size = 1600
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = sunni
+        size = 6400
+    }
+
+    soldiers = {
+        culture = yoruba
+        religion = sunni
+        size = 2100
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = sunni
+        size = 74800
+    }
+
+    slaves = {
+        culture = yoruba
+        religion = sunni
+        size = 72000
+    }
+
+    aristocrats = {
+        culture = east_kwa
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = east_kwa
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = east_kwa
+        religion = sunni
+        size = 400
+    }
+
+    soldiers = {
+        culture = east_kwa
+        religion = sunni
+        size = 100
+    }
+
+    farmers = {
+        culture = east_kwa
+        religion = sunni
+        size = 7200
+    }
+}
+#Abeokuta (784000/196000 POPS)
+1924 = {
+    aristocrats = {
+        culture = yoruba
+        religion = sunni
+        size = 7300
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = sunni
+        size = 3700
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = sunni
+        size = 15000
+    }
+
+    soldiers = {
+        culture = yoruba
+        religion = sunni
+        size = 4000
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = sunni
+        size = 266000
+    }
+
+    slaves = {
+        culture = yoruba
+        religion = sunni
+        size = 76000
+    }
+
+    aristocrats = {
+        culture = east_kwa
+        religion = sunni
+        size = 400
+    }
+
+    clergymen = {
+        culture = east_kwa
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = east_kwa
+        religion = sunni
+        size = 1000
+    }
+
+    soldiers = {
+        culture = east_kwa
+        religion = sunni
+        size = 200
+    }
+
+    farmers = {
+        culture = east_kwa
+        religion = sunni
+        size = 18200
+    }
+}
+#Ibadan (1160000/290000 POPS)
+1925 = {
+    aristocrats = {
+        culture = yoruba
+        religion = sunni
+        size = 11600
+    }
+
+    bureaucrats = {
+        culture = yoruba
+        religion = sunni
+        size = 600
+    }
+
+    officers = {
+        culture = yoruba
+        religion = sunni
+        size = 1800
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = sunni
+        size = 5800
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = sunni
+        size = 3400
+    }
+
+    soldiers = {
+        culture = yoruba
+        religion = sunni
+        size = 6000
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = sunni
+        size = 406800
+    }
+
+    slaves = {
+        culture = yoruba
+        religion = sunni
+        size = 124000
+    }
+}
+#Ife (872000/218000 POPS)
+1926 = {
+    aristocrats = {
+        culture = yoruba
+        religion = sunni
+        size = 8500
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = sunni
+        size = 4300
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = sunni
+        size = 1600
+    }
+
+    soldiers = {
+        culture = yoruba
+        religion = sunni
+        size = 4400
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = sunni
+        size = 317200
+    }
+
+    slaves = {
+        culture = yoruba
+        religion = sunni
+        size = 80000
+    }
+}
+#Ilorin (248000/62000 POPS) african_Minor includes Nupe
+1927 = {
+    aristocrats = {
+        culture = yoruba
+        religion = sunni
+        size = 1900
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = sunni
+        size = 1050
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = sunni
+        size = 5000
+    }
+
+    soldiers = {
+        culture = yoruba
+        religion = sunni
+        size = 2200
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = sunni
+        size = 78050
+    }
+
+    slaves = {
+        culture = yoruba
+        religion = sunni
+        size = 12000
+    }
+
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 500
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 350
+    }
+
+    artisans = {
+        culture = east_kwa
+        religion = sunni
+        size = 1000
+    }
+
+    soldiers = {
+        culture = east_kwa
+        religion = sunni
+        size = 250
+    }
+
+    farmers = {
+        culture = hausa
+        religion = sunni
+        size = 18100
+    }
+
+    slaves = {
+        culture = hausa
+        religion = sunni
+        size = 4000
+    }
+}
+#yoruba Region (1676000)
+#ruled by Benin in 1836
+#Benin (1144000/286000 POPS)
+1928 = {
+    aristocrats = {
+        culture = yoruba
+        religion = sunni
+        size = 8500
+    }
+
+    bureaucrats = {
+        culture = yoruba
+        religion = sunni
+        size = 400
+    }
+
+    officers = {
+        culture = yoruba
+        religion = sunni
+        size = 1400
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = sunni
+        size = 4300
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = sunni
+        size = 17200
+    }
+
+    soldiers = {
+        culture = yoruba
+        religion = sunni
+        size = 6000
+    }
+
+    soldiers = {
+        culture = yoruba
+        religion = sunni
+        size = 4000
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = sunni
+        size = 346200
+    }
+
+    slaves = {
+        culture = yoruba
+        religion = sunni
+        size = 40000
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = sunni
+        size = 2800
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = sunni
+        size = 1400
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = sunni
+        size = 5800
+    }
+
+    soldiers = {
+        culture = yoruba
+        religion = sunni
+        size = 1500
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = sunni
+        size = 88500
+    }
+
+    slaves = {
+        culture = yoruba
+        religion = sunni
+        size = 44000
+    }
+}
+#Lokoja (332000/83000 POPS)
+1930 = {
+    aristocrats = {
+        culture = yoruba
+        religion = sunni
+        size = 1150
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = sunni
+        size = 600
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = sunni
+        size = 2350
+    }
+
+    soldiers = {
+        culture = yoruba
+        religion = sunni
+        size = 600
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = sunni
+        size = 37300
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = sunni
+        size = 16000
+    }
+
+    aristocrats = {
+        culture = east_kwa
+        religion = sunni
+        size = 2200
+    }
+
+    clergymen = {
+        culture = east_kwa
+        religion = sunni
+        size = 1100
+    }
+
+    artisans = {
+        culture = east_kwa
+        religion = sunni
+        size = 4500
+    }
+
+    soldiers = {
+        culture = east_kwa
+        religion = sunni
+        size = 1150
+    }
+
+    farmers = {
+        culture = east_kwa
+        religion = sunni
+        size = 71050
+    }
+
+    slaves = {
+        culture = east_kwa
+        religion = sunni
+        size = 32000
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = sunni
+        size = 3100
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = sunni
+        size = 1550
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = sunni
+        size = 6250
+    }
+
+    soldiers = {
+        culture = yoruba
+        religion = sunni
+        size = 1600
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = sunni
+        size = 91500
+    }
+
+    slaves = {
+        culture = yoruba
+        religion = sunni
+        size = 52000
+    }
+}
+#Warri (1232000/308000 POPS) east_kwa includes Ijaw
+1931 = {
+    aristocrats = {
+        culture = yoruba
+        religion = sunni
+        size = 12300
+    }
+
+    bureaucrats = {
+        culture = yoruba
+        religion = sunni
+        size = 1200
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = sunni
+        size = 6200
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = sunni
+        size = 4700
+    }
+
+    soldiers = {
+        culture = yoruba
+        religion = sunni
+        size = 6000
+    }
+
+    soldiers = {
+        culture = yoruba
+        religion = sunni
+        size = 200
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = sunni
+        size = 410600
+    }
+
+    slaves = {
+        culture = yoruba
+        religion = sunni
+        size = 156000
+    }
+}
+#ruled by Benin in 1836
+#Akure (312000/78000 POPS) african_Minor includes Nupe
+1929 = {
+    aristocrats = {
+        culture = yoruba
+        religion = sunni
+        size = 1700
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = sunni
+        size = 900
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = sunni
+        size = 4400
+    }
+
+    soldiers = {
+        culture = yoruba
+        religion = sunni
+        size = 900
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = sunni
+        size = 68100
+    }
+
+    slaves = {
+        culture = yoruba
+        religion = sunni
+        size = 12000
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = sunni
+        size = 400
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = sunni
+        size = 1200
+    }
+
+    soldiers = {
+        culture = yoruba
+        religion = sunni
+        size = 2300
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = sunni
+        size = 19900
+    }
+
+    aristocrats = {
+        culture = east_kwa
+        religion = sunni
+        size = 800
+    }
+
+    clergymen = {
+        culture = east_kwa
+        religion = sunni
+        size = 400
+    }
+
+    artisans = {
+        culture = east_kwa
+        religion = sunni
+        size = 1800
+    }
+
+    soldiers = {
+        culture = east_kwa
+        religion = sunni
+        size = 500
+    }
+
+    farmers = {
+        culture = east_kwa
+        religion = sunni
+        size = 28500
+    }
+
+    slaves = {
+        culture = east_kwa
+        religion = sunni
+        size = 12000
+    }
+}
+#Oil Rivers Region (1580000)
+#uncolonized in 1836/ruled by Calabar and the yoruba States
+#Bonny (224000/56000 POPS) afrcan_minor includes Ijaw
+1932 = {
+    aristocrats = {
+        culture = yoruba
+        religion = sunni
+        size = 2200
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = sunni
+        size = 1100
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = sunni
+        size = 4500
+    }
+
+    soldiers = {
+        culture = yoruba
+        religion = sunni
+        size = 2200
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = sunni
+        size = 100000
+    }
+
+    slaves = {
+        culture = ibibio
+        religion = sunni
+        size = 28000
+    }
+}
+#Awka (1264000/316000 POPS)
+1933 = {
+    aristocrats = {
+        culture = yoruba
+        religion = sunni
+        size = 12600
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = sunni
+        size = 6300
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = sunni
+        size = 5300
+    }
+
+    soldiers = {
+        culture = yoruba
+        religion = sunni
+        size = 6000
+    }
+
+    soldiers = {
+        culture = yoruba
+        religion = sunni
+        size = 1800
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = sunni
+        size = 428000
+    }
+
+    slaves = {
+        culture = yoruba
+        religion = sunni
+        size = 152000
+    }
+}
+#Calabar (840000/210000 POPS)
+1934 = {
+    aristocrats = {
+        culture = ibibio
+        religion = sunni
+        size = 8300
+    }
+
+    bureaucrats = {
+        culture = ibibio
+        religion = sunni
+        size = 900
+    }
+
+    clergymen = {
+        culture = ibibio
+        religion = sunni
+        size = 4200
+    }
+
+    artisans = {
+        culture = ibibio
+        religion = sunni
+        size = 16800
+    }
+
+    soldiers = {
+        culture = ibibio
+        religion = sunni
+        size = 4200
+    }
+
+    farmers = {
+        culture = ibibio
+        religion = sunni
+        size = 298500
+    }
+
+    slaves = {
+        culture = east_kwa
+        religion = sunni
+        size = 88000
+    }
+}
+#Aruchukwu (832000/208000 POPS)
+1935 = {
+    aristocrats = {
+        culture = yoruba
+        religion = sunni
+        size = 8300
+    }
+
+    bureaucrats = {
+        culture = yoruba
+        religion = sunni
+        size = 900
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = sunni
+        size = 4200
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = sunni
+        size = 16700
+    }
+
+    soldiers = {
+        culture = yoruba
+        religion = sunni
+        size = 4800
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = sunni
+        size = 314000
+    }
+
+    slaves = {
+        culture = ibibio
+        religion = sunni
+        size = 68000
+    }
+}
+#Kwararafa Region (548000)
+#uncolonized in 1836
+#Makurdi (372000/93000 POPS)
+1936 = {
+    aristocrats = {
+        culture = east_kwa
+        religion = sunni
+        size = 3700
+    }
+
+    clergymen = {
+        culture = east_kwa
+        religion = sunni
+        size = 1850
+    }
+
+    artisans = {
+        culture = east_kwa
+        religion = sunni
+        size = 7450
+    }
+
+    soldiers = {
+        culture = east_kwa
+        religion = sunni
+        size = 1900
+    }
+
+    farmers = {
+        culture = east_kwa
+        religion = sunni
+        size = 125100
+    }
+
+    slaves = {
+        culture = yoruba
+        religion = sunni
+        size = 46000
+    }
+}
+#Tukari (176000/44000 POPS)
+1937 = {
+    aristocrats = {
+        culture = east_kwa
+        religion = sunni
+        size = 1750
+    }
+
+    clergymen = {
+        culture = east_kwa
+        religion = sunni
+        size = 900
+    }
+
+    artisans = {
+        culture = east_kwa
+        religion = sunni
+        size = 3550
+    }
+
+    soldiers = {
+        culture = east_kwa
+        religion = sunni
+        size = 900
+    }
+
+    farmers = {
+        culture = east_kwa
+        religion = sunni
+        size = 112500
+    }
+
+    slaves = {
+        culture = east_kwa
+        religion = sunni
+        size = 16000
+    }
+}
+#Borgu Region (56000) #see Benin.txt for balance of region
+#ruled by Sokoto in 1836
+#Bussa (56000/14000 POPS) #now part of Nigeria
+1938 = {
+    aristocrats = {
+        culture = east_kwa
+        religion = sunni
+        size = 50
+    }
+
+    clergymen = {
+        culture = east_kwa
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = east_kwa
+        religion = sunni
+        size = 200
+    }
+
+    soldiers = {
+        culture = east_kwa
+        religion = sunni
+        size = 50
+    }
+
+    farmers = {
+        culture = east_kwa
+        religion = sunni
+        size = 3600
+    }
+
+    slaves = {
+        culture = east_kwa
+        religion = sunni
+        size = 4000
+    }
+
+    aristocrats = {
+        culture = east_kwa
+        religion = sunni
+        size = 450
+    }
+
+    clergymen = {
+        culture = east_kwa
+        religion = sunni
+        size = 250
+    }
+
+    artisans = {
+        culture = east_kwa
+        religion = sunni
+        size = 1000
+    }
+
+    soldiers = {
+        culture = east_kwa
+        religion = sunni
+        size = 250
+    }
+
+    farmers = {
+        culture = east_kwa
+        religion = sunni
+        size = 18050
+    }
+}
+#Nupe-Jos Region (600000)
+#under rule of Sokoto in 1836
+#Zaria (216000/54000 POPS) #african_Minor includes Gwari
+1939 = {
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 750
+    }
+
+    bureaucrats = {
+        culture = hausa
+        religion = sunni
+        size = 50
+    }
+
+    officers = {
+        culture = hausa
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 400
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 2200
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 400
+    }
+
+    farmers = {
+        culture = hausa
+        religion = sunni
+        size = 82300
+    }
+
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 400
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 100
+    }
+
+    farmers = {
+        culture = hausa
+        religion = sunni
+        size = 7300
+    }
+
+    slaves = {
+        culture = hausa
+        religion = sunni
+        size = 6000
+    }
+
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 750
+    }
+
+    bureaucrats = {
+        culture = hausa
+        religion = sunni
+        size = 50
+    }
+
+    officers = {
+        culture = hausa
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 800
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 1550
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 2200
+    }
+
+    farmers = {
+        culture = hausa
+        religion = sunni
+        size = 20750
+    }
+
+    aristocrats = {
+        culture = east_kwa
+        religion = sunni
+        size = 400
+    }
+
+    clergymen = {
+        culture = east_kwa
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = east_kwa
+        religion = sunni
+        size = 1100
+    }
+
+    soldiers = {
+        culture = east_kwa
+        religion = sunni
+        size = 250
+    }
+
+    farmers = {
+        culture = east_kwa
+        religion = sunni
+        size = 20050
+    }
+
+    slaves = {
+        culture = east_kwa
+        religion = sunni
+        size = 6000
+    }
+}
+#Bida (68000/17000 POPS) #african_Minor includes Gwari
+1940 = {
+    aristocrats = {
+        culture = east_kwa
+        religion = sunni
+        size = 650
+    }
+
+    clergymen = {
+        culture = east_kwa
+        religion = sunni
+        size = 350
+    }
+
+    artisans = {
+        culture = east_kwa
+        religion = sunni
+        size = 1400
+    }
+
+    soldiers = {
+        culture = east_kwa
+        religion = sunni
+        size = 350
+    }
+
+    farmers = {
+        culture = east_kwa
+        religion = sunni
+        size = 21250
+    }
+
+    slaves = {
+        culture = east_kwa
+        religion = sunni
+        size = 10000
+    }
+}
+#Bida (68000/17000 POPS) #african_Minor includes Gwari
+3340 = {
+    aristocrats = {
+        culture = east_kwa
+        religion = sunni
+        size = 1050
+    }
+
+    clergymen = {
+        culture = east_kwa
+        religion = sunni
+        size = 470
+    }
+
+    artisans = {
+        culture = east_kwa
+        religion = sunni
+        size = 1800
+    }
+
+    soldiers = {
+        culture = east_kwa
+        religion = sunni
+        size = 400
+    }
+
+    farmers = {
+        culture = east_kwa
+        religion = sunni
+        size = 44600
+    }
+}
+#Abuja (64000/16000 POPS) #african_Minor includes Gwari and Chamba
+1941 = {
+    aristocrats = {
+        culture = east_kwa
+        religion = sunni
+        size = 600
+    }
+
+    clergymen = {
+        culture = east_kwa
+        religion = sunni
+        size = 300
+    }
+
+    artisans = {
+        culture = east_kwa
+        religion = sunni
+        size = 1300
+    }
+
+    soldiers = {
+        culture = east_kwa
+        religion = sunni
+        size = 350
+    }
+
+    farmers = {
+        culture = east_kwa
+        religion = sunni
+        size = 21450
+    }
+
+    slaves = {
+        culture = east_kwa
+        religion = sunni
+        size = 8000
+    }
+}
+#Bauchi (152000/38000 POPS) #african_Minor includes Chamba
+1942 = {
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 300
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 900
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 200
+    }
+
+    farmers = {
+        culture = hausa
+        religion = sunni
+        size = 16400
+    }
+
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 750
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 400
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 1550
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 2200
+    }
+
+    farmers = {
+        culture = hausa
+        religion = sunni
+        size = 25200
+    }
+
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 300
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 50
+    }
+
+    farmers = {
+        culture = hausa
+        religion = sunni
+        size = 5400
+    }
+
+    slaves = {
+        culture = hausa
+        religion = sunni
+        size = 4000
+    }
+
+    aristocrats = {
+        culture = east_kwa
+        religion = sunni
+        size = 250
+    }
+
+    clergymen = {
+        culture = east_kwa
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = east_kwa
+        religion = sunni
+        size = 700
+    }
+
+    soldiers = {
+        culture = east_kwa
+        religion = sunni
+        size = 150
+    }
+
+    farmers = {
+        culture = east_kwa
+        religion = sunni
+        size = 12750
+    }
+
+    slaves = {
+        culture = east_kwa
+        religion = sunni
+        size = 4000
+    }
+}
+#Jos (52000/13000 POPS) #african_Minor includes Chamba
+1943 = {
+    aristocrats = {
+        culture = east_kwa
+        religion = sunni
+        size = 250
+    }
+
+    clergymen = {
+        culture = east_kwa
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = east_kwa
+        religion = sunni
+        size = 600
+    }
+
+    soldiers = {
+        culture = east_kwa
+        religion = sunni
+        size = 150
+    }
+
+    farmers = {
+        culture = east_kwa
+        religion = sunni
+        size = 8850
+    }
+
+    aristocrats = {
+        culture = east_kwa
+        religion = sunni
+        size = 200
+    }
+
+    clergymen = {
+        culture = east_kwa
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = east_kwa
+        religion = sunni
+        size = 600
+    }
+
+    soldiers = {
+        culture = east_kwa
+        religion = sunni
+        size = 150
+    }
+
+    farmers = {
+        culture = east_kwa
+        religion = sunni
+        size = 10950
+    }
+
+    slaves = {
+        culture = east_kwa
+        religion = sunni
+        size = 4000
+    }
+}
+#Gombe (48000/12000 POPS)
+1944 = {
+    aristocrats = {
+        culture = east_kwa
+        religion = sunni
+        size = 350
+    }
+
+    clergymen = {
+        culture = east_kwa
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = east_kwa
+        religion = sunni
+        size = 800
+    }
+
+    soldiers = {
+        culture = east_kwa
+        religion = sunni
+        size = 200
+    }
+
+    farmers = {
+        culture = east_kwa
+        religion = sunni
+        size = 82450
+    }
+
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 50
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 200
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 50
+    }
+
+    farmers = {
+        culture = east_kwa
+        religion = sunni
+        size = 27600
+    }
+
+    slaves = {
+        culture = east_kwa
+        religion = sunni
+        size = 20000
+    }
+}
+#Hausaland Region (3056000)
+#under rule of Sokoto in 1836
+#Kano (852000/213000 POPS)
+1945 = {
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 5250
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 2650
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 13200
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 2650
+    }
+
+    farmers = {
+        culture = hausa
+        religion = sunni
+        size = 360250
+    }
+
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 1100
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 650
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 3000
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 600
+    }
+
+    farmers = {
+        culture = hausa
+        religion = sunni
+        size = 94650
+    }
+
+    slaves = {
+        culture = hausa
+        religion = sunni
+        size = 148000
+    }
+
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 2200
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 1000
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 4100
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 1050
+    }
+
+    farmers = {
+        culture = hausa
+        religion = sunni
+        size = 205850
+    }
+}
+#Kebbi (252000/63000 POPS)
+1946 = {
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 1600
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 800
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 4100
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 850
+    }
+
+    farmers = {
+        culture = hausa
+        religion = sunni
+        size = 74650
+    }
+
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 50
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 200
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 50
+    }
+
+    farmers = {
+        culture = hausa
+        religion = sunni
+        size = 3600
+    }
+
+    slaves = {
+        culture = hausa
+        religion = sunni
+        size = 2200
+    }
+
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 750
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 400
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 1600
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 2200
+    }
+
+    farmers = {
+        culture = hausa
+        religion = sunni
+        size = 33250
+    }
+}
+#Katsina (656000/164000 POPS)
+1947 = {
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 3850
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 1950
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 9800
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 2200
+    }
+
+    farmers = {
+        culture = hausa
+        religion = sunni
+        size = 300200
+    }
+
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 1050
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 550
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 2800
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 600
+    }
+
+    farmers = {
+        culture = hausa
+        religion = sunni
+        size = 91000
+    }
+
+    slaves = {
+        culture = hausa
+        religion = sunni
+        size = 108000
+    }
+
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 1450
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 750
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 3000
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 750
+    }
+
+    farmers = {
+        culture = hausa
+        religion = sunni
+        size = 200050
+    }
+}
+#Sokoto (888000/220000 POPS)
+1948 = {
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 4650
+    }
+
+    bureaucrats = {
+        culture = hausa
+        religion = sunni
+        size = 250
+    }
+
+    officers = {
+        culture = hausa
+        religion = sunni
+        size = 500
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 2350
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 11700
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 2350
+    }
+
+    farmers = {
+        culture = hausa
+        religion = sunni
+        size = 212050
+    }
+
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 1150
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 600
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 3000
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 600
+    }
+
+    farmers = {
+        culture = hausa
+        religion = sunni
+        size = 54650
+    }
+
+    slaves = {
+        culture = hausa
+        religion = sunni
+        size = 26000
+    }
+
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 2650
+    }
+
+    bureaucrats = {
+        culture = hausa
+        religion = sunni
+        size = 300
+    }
+
+    officers = {
+        culture = hausa
+        religion = sunni
+        size = 900
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 1350
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 5400
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 1350
+    }
+
+    farmers = {
+        culture = hausa
+        religion = sunni
+        size = 96050
+    }
+
+    aristocrats = {
+        culture = songhai
+        religion = sunni
+        size = 200
+    }
+
+    clergymen = {
+        culture = songhai
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = songhai
+        religion = sunni
+        size = 600
+    }
+
+    soldiers = {
+        culture = songhai
+        religion = sunni
+        size = 150
+    }
+
+    farmers = {
+        culture = songhai
+        religion = sunni
+        size = 10950
+    }
+}
+#Hadejia (416000/104000 POPS)
+1949 = {
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 2300
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 1200
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 5900
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 1200
+    }
+
+    farmers = {
+        culture = hausa
+        religion = sunni
+        size = 167400
+    }
+
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 450
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 250
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 1200
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 250
+    }
+
+    farmers = {
+        culture = hausa
+        religion = sunni
+        size = 71850
+    }
+
+    slaves = {
+        culture = hausa
+        religion = sunni
+        size = 94000
+    }
+
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 1300
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 650
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 2650
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 700
+    }
+
+    farmers = {
+        culture = hausa
+        religion = sunni
+        size = 156700
+    }
+}
+#Gusau (888000/220000 POPS)
+3339 = {
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 2500
+    }
+
+    bureaucrats = {
+        culture = hausa
+        religion = sunni
+        size = 150
+    }
+
+    officers = {
+        culture = hausa
+        religion = sunni
+        size = 200
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 1500
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 5600
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 1300
+    }
+
+    farmers = {
+        culture = hausa
+        religion = sunni
+        size = 163000
+    }
+
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 1450
+    }
+
+    bureaucrats = {
+        culture = hausa
+        religion = sunni
+        size = 150
+    }
+
+    officers = {
+        culture = hausa
+        religion = sunni
+        size = 350
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 850
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 2850
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 1350
+    }
+
+    farmers = {
+        culture = hausa
+        religion = sunni
+        size = 45000
+    }
+}
+#Adamawa Region (140000) #see Cameroun.txt for balance of region
+#under rule of Sokoto in 1836
+#Yola (140000/35000 POPS)
+1950 = {
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 400
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 100
+    }
+
+    farmers = {
+        culture = hausa
+        religion = sunni
+        size = 7300
+    }
+
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 50
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 200
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 50
+    }
+
+    farmers = {
+        culture = hausa
+        religion = sunni
+        size = 3600
+    }
+
+    slaves = {
+        culture = hausa
+        religion = sunni
+        size = 2200
+    }
+
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 450
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 250
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 1050
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 2200
+    }
+
+    farmers = {
+        culture = hausa
+        religion = sunni
+        size = 20250
+    }
+
+    aristocrats = {
+        culture = east_kwa
+        religion = sunni
+        size = 600
+    }
+
+    clergymen = {
+        culture = east_kwa
+        religion = sunni
+        size = 300
+    }
+
+    artisans = {
+        culture = east_kwa
+        religion = sunni
+        size = 1300
+    }
+
+    soldiers = {
+        culture = east_kwa
+        religion = sunni
+        size = 350
+    }
+
+    farmers = {
+        culture = east_kwa
+        religion = sunni
+        size = 21450
+    }
+
+    slaves = {
+        culture = east_kwa
+        religion = sunni
+        size = 8000
+    }
+}
+#Borno Region (2544000)
+#under rule of Kanem-Borno in 1836
+#Kuka (960000/240000 POPS)
+1951 = {
+    aristocrats = {
+        culture = kanuri
+        religion = sunni
+        size = 9200
+    }
+
+    bureaucrats = {
+        culture = kanuri
+        religion = sunni
+        size = 1600
+    }
+
+    officers = {
+        culture = kanuri
+        religion = sunni
+        size = 1400
+    }
+
+    clergymen = {
+        culture = kanuri
+        religion = sunni
+        size = 5000
+    }
+
+    artisans = {
+        culture = kanuri
+        religion = sunni
+        size = 19200
+    }
+
+    soldiers = {
+        culture = kanuri
+        religion = sunni
+        size = 4800
+    }
+
+    farmers = {
+        culture = kanuri
+        religion = sunni
+        size = 320000
+    }
+
+    slaves = {
+        culture = hausa
+        religion = sunni
+        size = 120000
+    }
+}
+#Nguru (768000/192000 POPS)
+1952 = {
+    aristocrats = {
+        culture = kanuri
+        religion = sunni
+        size = 4400
+    }
+
+    clergymen = {
+        culture = kanuri
+        religion = sunni
+        size = 2600
+    }
+
+    artisans = {
+        culture = kanuri
+        religion = sunni
+        size = 9600
+    }
+
+    soldiers = {
+        culture = kanuri
+        religion = sunni
+        size = 2400
+    }
+
+    farmers = {
+        culture = kanuri
+        religion = sunni
+        size = 149000
+    }
+
+    slaves = {
+        culture = hausa
+        religion = sunni
+        size = 72000
+    }
+
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 2600
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 1400
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 7200
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 1600
+    }
+
+    farmers = {
+        culture = hausa
+        religion = sunni
+        size = 131200
+    }
+}
+#Damaturu (575000/162000 POPS)
+3341 = {
+    aristocrats = {
+        culture = kanuri
+        religion = sunni
+        size = 2800
+    }
+
+    clergymen = {
+        culture = kanuri
+        religion = sunni
+        size = 1600
+    }
+
+    artisans = {
+        culture = kanuri
+        religion = sunni
+        size = 6200
+    }
+
+    soldiers = {
+        culture = kanuri
+        religion = sunni
+        size = 1800
+    }
+
+    farmers = {
+        culture = kanuri
+        religion = sunni
+        size = 126900
+    }
+
+    slaves = {
+        culture = hausa
+        religion = sunni
+        size = 60000
+    }
+
+    aristocrats = {
+        culture = hausa
+        religion = sunni
+        size = 1700
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = sunni
+        size = 1000
+    }
+
+    artisans = {
+        culture = hausa
+        religion = sunni
+        size = 6000
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = sunni
+        size = 1350
+    }
+
+    farmers = {
+        culture = hausa
+        religion = sunni
+        size = 97000
+    }
+}
+#Dikoa (816000/204000 POPS)
+1953 = {
+    aristocrats = {
+        culture = kanuri
+        religion = sunni
+        size = 7800
+    }
+
+    clergymen = {
+        culture = kanuri
+        religion = sunni
+        size = 4000
+    }
+
+    artisans = {
+        culture = kanuri
+        religion = sunni
+        size = 15800
+    }
+
+    soldiers = {
+        culture = kanuri
+        religion = sunni
+        size = 4000
+    }
+
+    farmers = {
+        culture = kanuri
+        religion = sunni
+        size = 288400
+    }
+
+    slaves = {
+        culture = hausa
+        religion = sunni
+        size = 72000
+    }
+
+    aristocrats = {
+        culture = east_kwa
+        religion = sunni
+        size = 200
+    }
+
+    clergymen = {
+        culture = east_kwa
+        religion = sunni
+        size = 400
+    }
+
+    artisans = {
+        culture = east_kwa
+        religion = sunni
+        size = 800
+    }
+
+    soldiers = {
+        culture = east_kwa
+        religion = sunni
+        size = 200
+    }
+
+    farmers = {
+        culture = east_kwa
+        religion = sunni
+        size = 14400
+    }
+}

@@ -1,0 +1,7 @@
+owner = SUC
+controller = SUC
+add_core = SUC
+add_core = AZA
+add_core = DAR
+trade_goods = tropical_wood
+life_rating = 35

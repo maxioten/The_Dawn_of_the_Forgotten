@@ -1,0 +1,45 @@
+leader = {
+    name = "Sapa Inca"
+    type = land
+    date="1836.1.1"
+    personality = heroic
+    background = politician
+}
+
+army = {
+    name = "Imperial Guard"
+    location = 2302
+    regiment = {
+        name= "1. Imperial Guards"
+        type = infantry
+	home = 2302
+    }    
+
+    regiment = {
+        name= "2. Imperial Guards"
+        type = infantry
+	home = 2302
+    }
+
+    regiment = {
+        name= "3. Imperial Guards"
+        type = infantry
+	home = 2310
+    }
+}
+
+army = {
+    name = "Army of the Collasuyo"
+    location = 2373
+    regiment = {
+        name= "1. Infantry"
+        type = infantry
+	home = 2324
+    }    
+
+    regiment = {
+        name= "2. Infantry"
+        type = infantry
+	home = 2311
+    }
+}

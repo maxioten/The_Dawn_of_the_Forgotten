@@ -1,0 +1,7 @@
+owner = KUB
+controller = KUB
+add_core = KUB
+
+
+trade_goods = precious_goods
+life_rating = 35

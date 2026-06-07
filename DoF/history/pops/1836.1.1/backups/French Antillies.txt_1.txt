@@ -1,0 +1,164 @@
+#French Antilles (319200)
+#Ruled by France 1836
+#Martinique (190800/27450 POPS)
+2228 = {
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 850
+    }
+
+    bureaucrats = {
+        culture = french
+        religion = catholic
+        size = 113
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 56
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 1020
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 283
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 453
+    }
+
+    clergymen = {
+        culture = afro_antillean
+        religion = catholic
+        size = 141
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 1417
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 283
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 3855
+    }
+
+    slaves = {
+        culture = afro_antillean
+        religion = catholic
+        size = 22680
+    }
+}
+#Guadeloupe (128400/32100 POPS)
+2230 = {
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 963
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 56
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 1474
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 340
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 680
+    }
+
+    clergymen = {
+        culture = afro_antillean
+        religion = catholic
+        size = 170
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 1701
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 340
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 3458
+    }
+
+    slaves = {
+        culture = afro_antillean
+        religion = catholic
+        size = 27216
+    }
+}
+#Marigot - Former Baffin Island (4000/1000 POPS)
+45 = {
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 11
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 28
+    }
+
+    artisans = {
+        culture = afro_caribbean
+        religion = catholic
+        size = 62
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 567
+    }
+
+    slaves = {
+        culture = afro_caribbean
+        religion = catholic
+        size = 135
+    }
+}

@@ -1,0 +1,8 @@
+owner = KAN
+controller = KAN
+add_core = KAN
+add_core = DAM
+add_core = DND
+trade_goods = cattle
+life_rating = 35
+terrain = semidesert

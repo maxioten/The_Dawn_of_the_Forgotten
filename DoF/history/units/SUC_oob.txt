@@ -1,0 +1,22 @@
+EGY = {
+    value = -400
+}
+
+DAR = {
+    value = -20
+}
+
+army = {
+    name = "Holy Sudd Army"
+    location = 1832
+
+regiment = {
+        name= "1st Sudd Warriors"
+        type = irregular
+        home = 1832    }
+
+regiment = {
+        name= "2nd Sudd Warriors"
+        type = irregular
+        home = 1832    }
+}

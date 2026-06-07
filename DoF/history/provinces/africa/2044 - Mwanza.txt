@@ -1,0 +1,6 @@
+owner = SUK
+controller = SUK
+add_core = SUK
+trade_goods = iron
+terrain = savanna
+life_rating = 35

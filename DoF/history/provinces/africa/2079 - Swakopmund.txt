@@ -1,0 +1,8 @@
+owner = HER
+controller = HER
+add_core = HER
+add_core = NMB
+terrain = desert
+trade_goods = fish
+life_rating = 35
+

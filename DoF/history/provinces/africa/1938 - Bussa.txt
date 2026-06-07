@@ -1,0 +1,6 @@
+owner = NUP
+controller = NUP
+add_core = NUP
+add_core = SOK
+trade_goods = fruit
+life_rating = 40

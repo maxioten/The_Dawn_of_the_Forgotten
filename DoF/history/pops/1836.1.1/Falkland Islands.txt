@@ -1,0 +1,34 @@
+#Falkland Islands (360)
+#Ruled by Britain 1836
+#Falkland Islands (300/75 POPS)
+2131 = {
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 21
+    }
+
+    farmers = {
+        culture = british
+        religion = protestant
+        size = 42
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 31
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 25
+    }
+
+    slaves = {
+        culture = boer
+        religion = protestant
+        size = 38
+    }
+}

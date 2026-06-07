@@ -1,0 +1,6 @@
+owner = KSB
+controller = KSB
+add_core = KSB
+add_core = URA
+trade_goods = coal
+life_rating = 35

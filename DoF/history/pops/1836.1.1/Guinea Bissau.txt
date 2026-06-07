@@ -1,0 +1,190 @@
+#Casamance Region (108000) #see Senegal.txt and Guinea.txt for balance of region
+#Uncolonized in 1836/Portuguese trade post
+#Bissau (32000/8000 POPS)
+1877 = {
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 100
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 100
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 100
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 100
+    }
+
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 100
+    }
+
+    officers = {
+        culture = fulbe
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 1375
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = catholic
+        size = 100
+    }
+
+    farmers = {
+        culture = fulbe
+        religion = sunni
+        size = 15300
+    }
+
+    slaves = {
+        culture = tuareg
+        religion = sunni
+        size = 2000
+    }
+
+        aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 300
+    }
+
+    officers = {
+        culture = fulbe
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 900
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 11000
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 3000
+    }
+
+    farmers = {
+        culture = fulbe
+        religion = sunni
+        size = 52048
+    }
+}
+#under the rule of Gabu in 1836
+#Gabu (152000/38000 POPS)
+1878 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 500
+    }
+
+    bureaucrats = {
+        culture = fulbe
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 1000
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 1100
+    }
+
+    farmers = {
+        culture = fulbe
+        religion = sunni
+        size = 13768
+    }
+
+
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 400
+    }
+
+    bureaucrats = {
+        culture = fulbe
+        religion = sunni
+        size = 500
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 900
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 11000
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 3200
+    }
+
+    farmers = {
+        culture = fulbe
+        religion = sunni
+        size = 51129
+    }
+
+    slaves = {
+        culture = tuareg
+        religion = sunni
+        size = 2000
+    }
+
+}

@@ -1,0 +1,492 @@
+#Nicaragua Region (292000)
+#Ruled by Central America 1836
+#Managua (192000/48000 POPS)
+2197 = {
+    aristocrats = {
+        culture = central_american
+        religion = sunni
+        size = 1890
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+
+    bureaucrats = {
+        culture = central_american
+        religion = sunni
+        size = 180
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+
+    officers = {
+        culture = central_american
+        religion = sunni
+        size = 88
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+
+    clergymen = {
+        culture = central_american
+        religion = sunni
+        size = 556
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+
+    artisans = {
+        culture = central_american
+        religion = sunni
+        size = 2808
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = sunni
+        size = 1726
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+
+    farmers = {
+        culture = central_american
+        religion = sunni
+        size = 50806
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+
+    officers = {
+        culture = dixie
+        religion = protestant
+        size = 14
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+
+    clergymen = {
+        culture = dixie
+        religion = protestant
+        size = 90
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+
+    artisans = {
+        culture = dixie
+        religion = protestant
+        size = 453
+    }
+
+    soldiers = {
+        culture = dixie
+        religion = protestant
+        size = 279
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 8208
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 32
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 208
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 1058
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 649
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 19150
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+}
+#Rivas (40000/10000 POPS)
+2198 = {
+    aristocrats = {
+        culture = central_american
+        religion = sunni
+        size = 495
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+
+    clergymen = {
+        culture = central_american
+        religion = sunni
+        size = 117
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+
+    artisans = {
+        culture = central_american
+        religion = sunni
+        size = 585
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = sunni
+        size = 117
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+
+    farmers = {
+        culture = central_american
+        religion = sunni
+        size = 10558
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+
+    clergymen = {
+        culture = dixie
+        religion = protestant
+        size = 18
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+
+    artisans = {
+        culture = dixie
+        religion = protestant
+        size = 93
+    }
+
+    soldiers = {
+        culture = dixie
+        religion = protestant
+        size = 18
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 1706
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 45
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 221
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 45
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 3979
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+}
+#Esteli (48000/12000 POPS)
+2199 = {
+    aristocrats = {
+        culture = central_american
+        religion = sunni
+        size = 585
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+
+    clergymen = {
+        culture = central_american
+        religion = sunni
+        size = 145
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+
+    artisans = {
+        culture = central_american
+        religion = sunni
+        size = 702
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = sunni
+        size = 145
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+
+    farmers = {
+        culture = central_american
+        religion = sunni
+        size = 13834
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+
+    clergymen = {
+        culture = dixie
+        religion = protestant
+        size = 23
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+
+    artisans = {
+        culture = dixie
+        religion = protestant
+        size = 113
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+
+    soldiers = {
+        culture = dixie
+        religion = protestant
+        size = 23
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 2235
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 55
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 264
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 55
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 5214
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
+}
+#Bluefields (12000/3000 POPS)
+2200 = {
+    aristocrats = {
+        culture = central_american
+        religion = sunni
+        size = 18
+    }
+
+    clergymen = {
+        culture = central_american
+        religion = sunni
+        size = 18
+    }
+
+    artisans = {
+        culture = central_american
+        religion = sunni
+        size = 18
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = sunni
+        size = 10
+    }
+
+    farmers = {
+        culture = central_american
+        religion = sunni
+        size = 140
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = sunni
+        size = 117
+    }
+
+    farmers = {
+        culture = afro_caribbean
+        religion = sunni
+        size = 315
+    }
+
+    farmers = {
+        culture = afro_caribbean
+        religion = animist
+        size = 221
+    }
+
+    farmers = {
+        culture = native_american_minor #native_american_minor
+        religion = animist
+        size = 2574
+    }
+
+    clergymen = {
+        culture = dixie
+        religion = protestant
+        size = 1
+    }
+
+    artisans = {
+        culture = dixie
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = dixie
+        religion = protestant
+        size = 1
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 23
+    }
+
+    soldiers = {
+        culture = dixie
+        religion = protestant
+        size = 18
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 36
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 415
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 7
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 7
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 5
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 52
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 45
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 120
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 84
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 970
+    }
+}

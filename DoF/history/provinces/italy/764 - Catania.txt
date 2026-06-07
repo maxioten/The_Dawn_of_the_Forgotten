@@ -1,0 +1,14 @@
+owner = ALD
+controller = ALD
+add_core = ALD
+add_core = CAT
+
+
+
+
+trade_goods = sulphur
+life_rating = 40
+1861.1.1 = {
+    
+    
+}

@@ -1,0 +1,8 @@
+owner = GAE
+controller = GAE
+add_core = GAE
+add_core = NMB
+terrain = semidesert
+trade_goods = grain
+life_rating = 35
+

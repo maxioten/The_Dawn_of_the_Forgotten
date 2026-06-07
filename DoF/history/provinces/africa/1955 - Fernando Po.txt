@@ -1,0 +1,6 @@
+owner = FAN
+controller = FAN
+add_core = FAN
+trade_goods = fruit
+life_rating = 35
+

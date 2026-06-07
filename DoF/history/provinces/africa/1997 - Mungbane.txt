@@ -1,0 +1,6 @@
+owner = CKV
+controller = CKV
+add_core = CKV
+add_core = AZA
+trade_goods = coal
+life_rating = 35

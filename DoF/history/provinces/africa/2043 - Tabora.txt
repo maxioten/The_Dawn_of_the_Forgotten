@@ -1,0 +1,6 @@
+owner = TNZ
+controller = TNZ
+add_core = TNZ
+trade_goods = iron
+terrain = savanna
+life_rating = 35

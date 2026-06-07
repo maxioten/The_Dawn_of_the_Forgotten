@@ -1,0 +1,498 @@
+#Mashonaland Region (296000)
+#uncolonized in 1836/dominated by Mutapa in 1836
+#Harare (68000/17000 POPS)
+2068 = {
+    aristocrats = {
+        culture = shona
+        religion = animist
+        size = 275
+    }
+
+    clergymen = {
+        culture = shona
+        religion = animist
+        size = 150
+    }
+
+    artisans = {
+        culture = shona
+        religion = animist
+        size = 750
+    }
+
+    soldiers = {
+        culture = shona
+        religion = animist
+        size = 150
+    }
+
+    farmers = {
+        culture = shona
+        religion = animist
+        size = 13675
+    }
+
+    aristocrats = {
+        culture = sena
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = sena
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = sena
+        religion = animist
+        size = 100
+    }
+
+    soldiers = {
+        culture = sena
+        religion = animist
+        size = 25
+    }
+
+    farmers = {
+        culture = sena
+        religion = animist
+        size = 1800
+    }
+}
+#Gweru (96000/24000 POPS)
+2069 = {
+    aristocrats = {
+        culture = shona
+        religion = animist
+        size = 900
+    }
+
+    clergymen = {
+        culture = shona
+        religion = animist
+        size = 500
+    }
+
+    artisans = {
+        culture = shona
+        religion = animist
+        size = 2400
+    }
+
+    soldiers = {
+        culture = shona
+        religion = animist
+        size = 500
+    }
+
+    farmers = {
+        culture = shona
+        religion = animist
+        size = 43700
+    }
+}
+#Mutare (96000/24000 POPS)
+2070 = {
+    aristocrats = {
+        culture = shona
+        religion = animist
+        size = 425
+    }
+
+    clergymen = {
+        culture = shona
+        religion = animist
+        size = 225
+    }
+
+    artisans = {
+        culture = shona
+        religion = animist
+        size = 1100
+    }
+
+    soldiers = {
+        culture = shona
+        religion = animist
+        size = 225
+    }
+
+    farmers = {
+        culture = shona
+        religion = animist
+        size = 20025
+    }
+
+    aristocrats = {
+        culture = shona
+        religion = protestant
+        size = 25
+    }
+
+    clergymen = {
+        culture = shona
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = shona
+        religion = protestant
+        size = 100
+    }
+
+    soldiers = {
+        culture = shona
+        religion = protestant
+        size = 25
+    }
+
+    farmers = {
+        culture = shona
+        religion = protestant
+        size = 1800
+    }
+}
+#Kariba (36000/9000 POPS)
+2635 = {
+    aristocrats = {
+        culture = shona
+        religion = protestant
+        size = 75
+    }
+
+    clergymen = {
+        culture = shona
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = shona
+        religion = protestant
+        size = 300
+    }
+
+    soldiers = {
+        culture = shona
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = shona
+        religion = protestant
+        size = 5525
+    }
+
+    aristocrats = {
+        culture = shona
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = shona
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = shona
+        religion = animist
+        size = 100
+    }
+
+    soldiers = {
+        culture = shona
+        religion = animist
+        size = 25
+    }
+
+    farmers = {
+        culture = shona
+        religion = animist
+        size = 1800
+    }
+
+    aristocrats = {
+        culture = sena
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = sena
+        religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = sena
+        religion = animist
+        size = 50
+    }
+
+    soldiers = {
+        culture = sena
+        religion = animist
+        size = 15
+    }
+
+    farmers = {
+        culture = sena
+        religion = animist
+        size = 900
+    }
+}
+#Matabeleland Region (188000)
+#under the rule of Matabele in 1836
+#Bulawayo (136000/34000 POPS)
+2071 = {
+    aristocrats = {
+        culture = shona
+        religion = protestant
+        size = 1000
+    }
+
+    bureaucrats = {
+        culture = shona
+        religion = protestant
+        size = 20
+    }
+
+    officers = {
+        culture = shona
+        religion = protestant
+        size = 80
+    }
+
+    clergymen = {
+        culture = shona
+        religion = protestant
+        size = 600
+    }
+
+    artisans = {
+        culture = shona
+        religion = protestant
+        size = 2400
+    }
+
+    soldiers = {
+        culture = shona
+        religion = protestant
+        size = 16100
+    }
+
+    farmers = {
+        culture = shona
+        religion = protestant
+        size = 58000
+    }
+
+    aristocrats = {
+        culture = shona
+        religion = animist
+        size = 200
+    }
+
+    clergymen = {
+        culture = shona
+        religion = animist
+        size = 300
+    }
+
+    artisans = {
+        culture = shona
+        religion = animist
+        size = 600
+    }
+
+    soldiers = {
+        culture = shona
+        religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = shona
+        religion = animist
+        size = 10800
+    }
+
+    artisans = {
+        culture = sotho
+        religion = animist
+        size = 400
+    }
+
+    soldiers = {
+        culture = sotho
+        religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = sotho
+        religion = animist
+        size = 13300
+    }
+}
+#Hwange (96000/24000 POPS)
+2072 = {
+    aristocrats = {
+        culture = shona
+        religion = animist
+        size = 400
+    }
+
+    clergymen = {
+        culture = shona
+        religion = animist
+        size = 200
+    }
+
+    artisans = {
+        culture = shona
+        religion = animist
+        size = 800
+    }
+
+    soldiers = {
+        culture = shona
+        religion = animist
+        size = 300
+    }
+
+    farmers = {
+        culture = shona
+        religion = animist
+        size = 21900
+    }
+
+    aristocrats = {
+        culture = shona
+        religion = protestant
+        size = 300
+    }
+
+    clergymen = {
+        culture = shona
+        religion = protestant
+        size = 200
+    }
+
+    artisans = {
+        culture = shona
+        religion = protestant
+        size = 1000
+    }
+
+    soldiers = {
+        culture = shona
+        religion = protestant
+        size = 200
+    }
+
+    farmers = {
+        culture = shona
+        religion = protestant
+        size = 18300
+    }
+
+    aristocrats = {
+        culture = shona
+        religion = protestant
+        size = 40
+    }
+
+    clergymen = {
+        culture = shona
+        religion = protestant
+        size = 60
+    }
+
+    artisans = {
+        culture = shona
+        religion = protestant
+        size = 200
+    }
+
+    soldiers = {
+        culture = shona
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = shona
+        religion = protestant
+        size = 4000
+    }
+}
+#Masvingo (72000/18000 POPS)
+2073 = {
+    aristocrats = {
+        culture = shona
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = shona
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = shona
+        religion = animist
+        size = 100
+    }
+
+    soldiers = {
+        culture = shona
+        religion = animist
+        size = 25
+    }
+
+    farmers = {
+        culture = shona
+        religion = animist
+        size = 1800
+    }
+
+    aristocrats = {
+        culture = shona
+        religion = protestant
+        size = 300
+    }
+
+    clergymen = {
+        culture = shona
+        religion = protestant
+        size = 150
+    }
+
+    artisans = {
+        culture = shona
+        religion = protestant
+        size = 800
+    }
+
+    soldiers = {
+        culture = shona
+        religion = protestant
+        size = 175
+    }
+
+    farmers = {
+        culture = shona
+        religion = protestant
+        size = 14575
+    }
+}

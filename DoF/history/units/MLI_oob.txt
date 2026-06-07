@@ -1,0 +1,63 @@
+army = {
+	name = "Imperial Army"
+	location = 2447	
+	regiment = {
+		name= "1.1"
+		type = hussar
+		home = 1887
+	}
+
+	regiment = {
+		name= "2.1"
+		type = infantry
+		home = 1889
+	}
+
+	regiment = {
+		name= "3.1"
+		type = infantry
+		home = 1890
+	}
+
+	regiment = {
+		name= "1.2"
+		type = infantry
+		home = 1890
+	}
+
+	regiment = {
+		name= "2.2"
+		type = infantry
+		home = 1891
+	}
+
+	regiment = {
+		name= "3.2"
+		type = artillery
+		home = 1888
+	}
+
+	regiment = {
+		name= "1.3"
+		type = artillery
+		home = 1883
+	}
+
+	regiment = {
+		name= "2.3"
+		type = artillery
+		home = 1882
+	}
+
+	regiment = {
+		name= "3.3"
+		type = artillery
+		home = 1794
+	}
+	
+	regiment = {
+		name= "1.10"
+		type = artillery
+		home = 1794
+	}
+}

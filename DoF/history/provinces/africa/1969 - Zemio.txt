@@ -1,0 +1,6 @@
+owner = SAN
+controller = SAN
+add_core = SAN
+add_core = AZA
+trade_goods = cattle
+life_rating = 35

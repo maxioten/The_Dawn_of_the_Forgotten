@@ -1,0 +1,14 @@
+owner = ETH
+controller = ETH
+add_core = ETH
+add_core = HAR
+add_core = SHW
+
+
+
+
+
+
+trade_goods = fruit
+naval_base = 1
+life_rating = 35

@@ -1,0 +1,8 @@
+owner = HUA
+controller = HUA
+add_core = HUA
+add_core = LUN
+terrain = savanna
+trade_goods = grain
+life_rating = 35
+

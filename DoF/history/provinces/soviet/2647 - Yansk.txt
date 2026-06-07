@@ -1,0 +1,7 @@
+owner = KON
+controller = KON
+add_core = TMR
+trade_goods = fish
+life_rating = 35
+colonial = 2
+terrain = hills

@@ -1,0 +1,9 @@
+owner = SHO
+controller = SHO
+add_core = SHO
+add_core = ZBW
+trade_goods = iron
+terrain = savanna
+life_rating = 35
+
+

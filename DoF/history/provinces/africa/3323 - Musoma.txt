@@ -1,0 +1,6 @@
+owner = SUK
+controller = SUK
+add_core = SUK
+trade_goods = precious_goods
+terrain = montane_forest
+life_rating = 35 

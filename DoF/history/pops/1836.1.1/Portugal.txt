@@ -1,0 +1,1504 @@
+#Duoro e Minho Region (1660000)
+#Oporto (768000/192000 POPS)
+518 = {
+    aristocrats = {
+        culture = spanish
+        religion = catholic
+        size = 636
+    }
+
+    officers = {
+        culture = spanish
+        religion = catholic
+        size = 212
+    }
+
+    bureaucrats = {
+        culture = spanish
+        religion = catholic
+        size = 339
+    }
+
+    clergymen = {
+        culture = spanish
+        religion = catholic
+        size = 465
+    }
+
+    artisans = {
+        culture = spanish
+        religion = catholic
+        size = 4239
+    }
+
+    soldiers = {
+        culture = spanish
+        religion = catholic
+        size = 1059
+    }
+
+    farmers = {
+        culture = spanish
+        religion = catholic
+        size = 63676
+    }
+
+    aristocrats = {
+        culture = spanish
+        religion = catholic
+        size = 112
+    }
+
+    officers = {
+        culture = spanish
+        religion = catholic
+        size = 37
+    }
+
+    bureaucrats = {
+        culture = spanish
+        religion = catholic
+        size = 60
+    }
+
+    clergymen = {
+        culture = spanish
+        religion = catholic
+        size = 83
+    }
+
+    artisans = {
+        culture = spanish
+        religion = catholic
+        size = 749
+    }
+
+    soldiers = {
+        culture = spanish
+        religion = catholic
+        size = 187
+    }
+
+    farmers = {
+        culture = spanish
+        religion = catholic
+        size = 11237
+    }
+
+    aristocrats = {
+        culture = basque
+        religion = catholic
+        size = 33
+    }
+
+    officers = {
+        culture = basque
+        religion = catholic
+        size = 11
+    }
+
+    bureaucrats = {
+        culture = basque
+        religion = catholic
+        size = 18
+    }
+
+    clergymen = {
+        culture = basque
+        religion = catholic
+        size = 25
+    }
+
+    artisans = {
+        culture = basque
+        religion = catholic
+        size = 223
+    }
+
+    soldiers = {
+        culture = basque
+        religion = catholic
+        size = 56
+    }
+
+    farmers = {
+        culture = basque
+        religion = catholic
+        size = 3351
+    }
+
+    aristocrats = {
+        culture = basque
+        religion = catholic
+        size = 6
+    }
+
+    officers = {
+        culture = basque
+        religion = catholic
+        size = 2
+    }
+
+    bureaucrats = {
+        culture = basque
+        religion = catholic
+        size = 3
+    }
+
+    clergymen = {
+        culture = basque
+        religion = catholic
+        size = 4
+    }
+
+    artisans = {
+        culture = basque
+        religion = catholic
+        size = 39
+    }
+
+    soldiers = {
+        culture = basque
+        religion = catholic
+        size = 10
+    }
+
+    farmers = {
+        culture = basque
+        religion = catholic
+        size = 591
+    }
+}
+#Vila Real (324000/81000) POPS
+519 = {
+    aristocrats = {
+        culture = spanish
+        religion = catholic
+        size = 784
+    }
+
+    clergymen = {
+        culture = spanish
+        religion = catholic
+        size = 264
+    }
+
+    artisans = {
+        culture = spanish
+        religion = catholic
+        size = 1377
+    }
+
+    soldiers = {
+        culture = spanish
+        religion = catholic
+        size = 465
+    }
+
+    farmers = {
+        culture = spanish
+        religion = catholic
+        size = 29368
+    }
+
+    aristocrats = {
+        culture = spanish
+        religion = catholic
+        size = 139
+    }
+
+    clergymen = {
+        culture = spanish
+        religion = catholic
+        size = 47
+    }
+
+    artisans = {
+        culture = spanish
+        religion = catholic
+        size = 243
+    }
+
+    soldiers = {
+        culture = spanish
+        religion = catholic
+        size = 83
+    }
+
+    farmers = {
+        culture = spanish
+        religion = catholic
+        size = 5182
+    }
+
+    aristocrats = {
+        culture = basque
+        religion = catholic
+        size = 41
+    }
+
+    clergymen = {
+        culture = basque
+        religion = catholic
+        size = 14
+    }
+
+    artisans = {
+        culture = basque
+        religion = catholic
+        size = 73
+    }
+
+    soldiers = {
+        culture = basque
+        religion = catholic
+        size = 25
+    }
+
+    farmers = {
+        culture = basque
+        religion = catholic
+        size = 1546
+    }
+
+    aristocrats = {
+        culture = basque
+        religion = catholic
+        size = 7
+    }
+
+    clergymen = {
+        culture = basque
+        religion = catholic
+        size = 2
+    }
+
+    artisans = {
+        culture = basque
+        religion = catholic
+        size = 13
+    }
+
+    soldiers = {
+        culture = basque
+        religion = catholic
+        size = 4
+    }
+
+    farmers = {
+        culture = basque
+        religion = catholic
+        size = 273
+    }
+}
+#Covilha (568000/142000 POPS)
+520 = {
+    aristocrats = {
+        culture = spanish
+        religion = catholic
+        size = 530
+    }
+
+    clergymen = {
+        culture = spanish
+        religion = catholic
+        size = 636
+    }
+
+    artisans = {
+        culture = spanish
+        religion = catholic
+        size = 3073
+    }
+
+    soldiers = {
+        culture = spanish
+        religion = catholic
+        size = 636
+    }
+
+    farmers = {
+        culture = spanish
+        religion = catholic
+        size = 36670
+    }
+
+    aristocrats = {
+        culture = spanish
+        religion = catholic
+        size = 93
+    }
+
+    clergymen = {
+        culture = spanish
+        religion = catholic
+        size = 112
+    }
+
+    artisans = {
+        culture = spanish
+        religion = catholic
+        size = 542
+    }
+
+    soldiers = {
+        culture = spanish
+        religion = catholic
+        size = 112
+    }
+
+    farmers = {
+        culture = spanish
+        religion = catholic
+        size = 6471
+    }
+
+    aristocrats = {
+        culture = basque
+        religion = catholic
+        size = 28
+    }
+
+    clergymen = {
+        culture = basque
+        religion = catholic
+        size = 33
+    }
+
+    artisans = {
+        culture = basque
+        religion = catholic
+        size = 162
+    }
+
+    soldiers = {
+        culture = basque
+        religion = catholic
+        size = 33
+    }
+
+    farmers = {
+        culture = basque
+        religion = catholic
+        size = 1930
+    }
+
+    aristocrats = {
+        culture = basque
+        religion = catholic
+        size = 5
+    }
+
+    clergymen = {
+        culture = basque
+        religion = catholic
+        size = 6
+    }
+
+    artisans = {
+        culture = basque
+        religion = catholic
+        size = 29
+    }
+
+    soldiers = {
+        culture = basque
+        religion = catholic
+        size = 6
+    }
+
+    farmers = {
+        culture = basque
+        religion = catholic
+        size = 341
+    }
+}
+#Beira-Estremadura Region (1060000)
+#Lisbon (348000/87000 POPS)
+521 = {
+    aristocrats = {
+        culture = portuguese
+        religion = sunni
+        size = 932
+    }
+
+    officers = {
+        culture = portuguese
+        religion = sunni
+        size = 295
+    }
+
+    bureaucrats = {
+        culture = portuguese
+        religion = sunni
+        size = 551
+    }
+
+    clergymen = {
+        culture = portuguese
+        religion = sunni
+        size = 932
+    }
+
+    artisans = {
+        culture = portuguese
+        religion = sunni
+        size = 7206
+    }
+
+    soldiers = {
+        culture = portuguese
+        religion = sunni
+        size = 2543
+    }
+
+    farmers = {
+        culture = portuguese
+        religion = sunni
+        size = 58078
+    }
+
+    aristocrats = {
+        culture = spanish
+        religion = catholic
+        size = 164
+    }
+
+    officers = {
+        culture = spanish
+        religion = catholic
+        size = 52
+    }
+
+    bureaucrats = {
+        culture = spanish
+        religion = catholic
+        size = 97
+    }
+
+    clergymen = {
+        culture = spanish
+        religion = catholic
+        size = 164
+    }
+
+    artisans = {
+        culture = spanish
+        religion = catholic
+        size = 1272
+    }
+
+    soldiers = {
+        culture = spanish
+        religion = catholic
+        size = 449
+    }
+
+    farmers = {
+        culture = spanish
+        religion = catholic
+        size = 10250
+    }
+
+    aristocrats = {
+        culture = basque
+        religion = catholic
+        size = 49
+    }
+
+    officers = {
+        culture = basque
+        religion = catholic
+        size = 16
+    }
+
+    bureaucrats = {
+        culture = basque
+        religion = catholic
+        size = 29
+    }
+
+    clergymen = {
+        culture = basque
+        religion = catholic
+        size = 49
+    }
+
+    artisans = {
+        culture = basque
+        religion = catholic
+        size = 379
+    }
+
+    soldiers = {
+        culture = basque
+        religion = catholic
+        size = 134
+    }
+
+    farmers = {
+        culture = basque
+        religion = catholic
+        size = 3057
+    }
+
+    aristocrats = {
+        culture = basque
+        religion = catholic
+        size = 9
+    }
+
+    officers = {
+        culture = basque
+        religion = catholic
+        size = 3
+    }
+
+    bureaucrats = {
+        culture = basque
+        religion = catholic
+        size = 5
+    }
+
+    clergymen = {
+        culture = basque
+        religion = catholic
+        size = 9
+    }
+
+    artisans = {
+        culture = basque
+        religion = catholic
+        size = 67
+    }
+
+    soldiers = {
+        culture = basque
+        religion = catholic
+        size = 24
+    }
+
+    farmers = {
+        culture = basque
+        religion = catholic
+        size = 539
+    }
+}
+#Coimbra (460000/115000 POPS)
+522 = {
+    aristocrats = {
+        culture = portuguese
+        religion = sunni
+        size = 153
+    }
+
+    clergymen = {
+        culture = portuguese
+        religion = sunni
+        size = 153
+    }
+
+    artisans = {
+        culture = portuguese
+        religion = sunni
+        size = 1272
+    }
+
+    artisans = {
+        culture = portuguese
+        religion = sunni
+        size = 102
+    }
+
+    soldiers = {
+        culture = portuguese
+        religion = sunni
+        size = 254
+    }
+
+    farmers = {
+        culture = portuguese
+        religion = sunni
+        size = 12693
+    }
+
+    aristocrats = {
+        culture = spanish
+        religion = catholic
+        size = 180
+    }
+
+    clergymen = {
+        culture = spanish
+        religion = catholic
+        size = 180
+    }
+
+    artisans = {
+        culture = spanish
+        religion = catholic
+        size = 1496
+    }
+
+    artisans = {
+        culture = spanish
+        religion = catholic
+        size = 120
+    }
+
+    soldiers = {
+        culture = spanish
+        religion = catholic
+        size = 299
+    }
+
+    farmers = {
+        culture = spanish
+        religion = catholic
+        size = 14933
+    }
+
+    aristocrats = {
+        culture = basque
+        religion = catholic
+        size = 54
+    }
+
+    clergymen = {
+        culture = basque
+        religion = catholic
+        size = 54
+    }
+
+    artisans = {
+        culture = basque
+        religion = catholic
+        size = 446
+    }
+
+    artisans = {
+        culture = basque
+        religion = catholic
+        size = 36
+    }
+
+    soldiers = {
+        culture = basque
+        religion = catholic
+        size = 89
+    }
+
+    farmers = {
+        culture = basque
+        religion = catholic
+        size = 4454
+    }
+
+    aristocrats = {
+        culture = basque
+        religion = catholic
+        size = 9
+    }
+
+    clergymen = {
+        culture = basque
+        religion = catholic
+        size = 9
+    }
+
+    artisans = {
+        culture = basque
+        religion = catholic
+        size = 79
+    }
+
+    artisans = {
+        culture = basque
+        religion = catholic
+        size = 6
+    }
+
+    soldiers = {
+        culture = basque
+        religion = catholic
+        size = 16
+    }
+
+    farmers = {
+        culture = basque
+        religion = catholic
+        size = 786
+    }
+
+    aristocrats = {
+        culture = spanish
+        religion = catholic
+        size = 864
+    }
+
+    clergymen = {
+        culture = spanish
+        religion = catholic
+        size = 864
+    }
+
+    artisans = {
+        culture = spanish
+        religion = catholic
+        size = 7207
+    }
+
+    artisans = {
+        culture = spanish
+        religion = catholic
+        size = 576
+    }
+
+    soldiers = {
+        culture = spanish
+        religion = catholic
+        size = 1442
+    }
+
+    farmers = {
+        culture = spanish
+        religion = catholic
+        size = 71924
+    }
+}
+#Abrantes (140000/35000 POPS)
+523 = {
+    aristocrats = {
+        culture = portuguese
+        religion = sunni
+        size = 381
+    }
+
+    clergymen = {
+        culture = portuguese
+        religion = sunni
+        size = 295
+    }
+
+    artisans = {
+        culture = portuguese
+        religion = sunni
+        size = 1908
+    }
+
+    soldiers = {
+        culture = portuguese
+        religion = sunni
+        size = 339
+    }
+
+    farmers = {
+        culture = portuguese
+        religion = sunni
+        size = 35228
+    }
+
+    aristocrats = {
+        culture = spanish
+        religion = catholic
+        size = 67
+    }
+
+    clergymen = {
+        culture = spanish
+        religion = catholic
+        size = 52
+    }
+
+    artisans = {
+        culture = spanish
+        religion = catholic
+        size = 336
+    }
+
+    soldiers = {
+        culture = spanish
+        religion = catholic
+        size = 60
+    }
+
+    farmers = {
+        culture = spanish
+        religion = catholic
+        size = 6217
+    }
+
+    aristocrats = {
+        culture = basque
+        religion = catholic
+        size = 20
+    }
+
+    clergymen = {
+        culture = basque
+        religion = catholic
+        size = 16
+    }
+
+    artisans = {
+        culture = basque
+        religion = catholic
+        size = 100
+    }
+
+    soldiers = {
+        culture = basque
+        religion = catholic
+        size = 18
+    }
+
+    farmers = {
+        culture = basque
+        religion = catholic
+        size = 1854
+    }
+
+    aristocrats = {
+        culture = basque
+        religion = catholic
+        size = 4
+    }
+
+    clergymen = {
+        culture = basque
+        religion = catholic
+        size = 3
+    }
+
+    artisans = {
+        culture = basque
+        religion = catholic
+        size = 18
+    }
+
+    soldiers = {
+        culture = basque
+        religion = catholic
+        size = 3
+    }
+
+    farmers = {
+        culture = basque
+        religion = catholic
+        size = 327
+    }
+}
+#Setubal (112000/28000 POPS)
+524 = {
+    aristocrats = {
+        culture = portuguese
+        religion = sunni
+        size = 339
+    }
+
+    clergymen = {
+        culture = portuguese
+        religion = sunni
+        size = 254
+    }
+
+    artisans = {
+        culture = portuguese
+        religion = sunni
+        size = 2543
+    }
+
+    soldiers = {
+        culture = portuguese
+        religion = sunni
+        size = 1271
+    }
+
+    farmers = {
+        culture = portuguese
+        religion = sunni
+        size = 36289
+    }
+
+    aristocrats = {
+        culture = spanish
+        religion = catholic
+        size = 60
+    }
+
+    clergymen = {
+        culture = spanish
+        religion = catholic
+        size = 45
+    }
+
+    artisans = {
+        culture = spanish
+        religion = catholic
+        size = 449
+    }
+
+    soldiers = {
+        culture = spanish
+        religion = catholic
+        size = 224
+    }
+
+    farmers = {
+        culture = spanish
+        religion = catholic
+        size = 6404
+    }
+
+    aristocrats = {
+        culture = basque
+        religion = catholic
+        size = 18
+    }
+
+    clergymen = {
+        culture = basque
+        religion = catholic
+        size = 13
+    }
+
+    artisans = {
+        culture = basque
+        religion = catholic
+        size = 134
+    }
+
+    soldiers = {
+        culture = basque
+        religion = catholic
+        size = 67
+    }
+
+    farmers = {
+        culture = basque
+        religion = catholic
+        size = 1910
+    }
+
+    aristocrats = {
+        culture = basque
+        religion = catholic
+        size = 3
+    }
+
+    clergymen = {
+        culture = basque
+        religion = catholic
+        size = 2
+    }
+
+    artisans = {
+        culture = basque
+        religion = catholic
+        size = 24
+    }
+
+    soldiers = {
+        culture = basque
+        religion = catholic
+        size = 12
+    }
+
+    farmers = {
+        culture = basque
+        religion = catholic
+        size = 337
+    }
+}
+#Alentejo-Algarve Region (372000)
+#Evora (156000/39000 POPS)
+525 = {
+    aristocrats = {
+        culture = portuguese
+        religion = sunni
+        size = 720
+    }
+
+    officers = {
+        culture = portuguese
+        religion = sunni
+        size = 84
+    }
+
+    bureaucrats = {
+        culture = portuguese
+        religion = sunni
+        size = 126
+    }
+
+    clergymen = {
+        culture = portuguese
+        religion = sunni
+        size = 358
+    }
+
+    artisans = {
+        culture = portuguese
+        religion = sunni
+        size = 1908
+    }
+
+    soldiers = {
+        culture = portuguese
+        religion = sunni
+        size = 932
+    }
+
+    farmers = {
+        culture = portuguese
+        religion = sunni
+        size = 37518
+    }
+
+    aristocrats = {
+        culture = spanish
+        religion = catholic
+        size = 127
+    }
+
+    officers = {
+        culture = spanish
+        religion = catholic
+        size = 15
+    }
+
+    bureaucrats = {
+        culture = spanish
+        religion = catholic
+        size = 22
+    }
+
+    clergymen = {
+        culture = spanish
+        religion = catholic
+        size = 64
+    }
+
+    artisans = {
+        culture = spanish
+        religion = catholic
+        size = 336
+    }
+
+    soldiers = {
+        culture = spanish
+        religion = catholic
+        size = 164
+    }
+
+    farmers = {
+        culture = spanish
+        religion = catholic
+        size = 6621
+    }
+
+    aristocrats = {
+        culture = basque
+        religion = catholic
+        size = 38
+    }
+
+    officers = {
+        culture = basque
+        religion = catholic
+        size = 4
+    }
+
+    bureaucrats = {
+        culture = basque
+        religion = catholic
+        size = 7
+    }
+
+    clergymen = {
+        culture = basque
+        religion = catholic
+        size = 19
+    }
+
+    artisans = {
+        culture = basque
+        religion = catholic
+        size = 100
+    }
+
+    soldiers = {
+        culture = basque
+        religion = catholic
+        size = 49
+    }
+
+    farmers = {
+        culture = basque
+        religion = catholic
+        size = 1975
+    }
+
+    aristocrats = {
+        culture = basque
+        religion = catholic
+        size = 7
+    }
+
+    officers = {
+        culture = basque
+        religion = catholic
+        size = 1
+    }
+
+    bureaucrats = {
+        culture = basque
+        religion = catholic
+        size = 1
+    }
+
+    clergymen = {
+        culture = basque
+        religion = catholic
+        size = 3
+    }
+
+    artisans = {
+        culture = basque
+        religion = catholic
+        size = 18
+    }
+
+    soldiers = {
+        culture = basque
+        religion = catholic
+        size = 9
+    }
+
+    farmers = {
+        culture = basque
+        religion = catholic
+        size = 348
+    }
+}
+#Beja (96000/24000 POPS)
+526 = {
+    aristocrats = {
+        culture = portuguese
+        religion = sunni
+        size = 423
+    }
+
+    clergymen = {
+        culture = portuguese
+        religion = sunni
+        size = 212
+    }
+
+    artisans = {
+        culture = portuguese
+        religion = sunni
+        size = 1059
+    }
+
+    soldiers = {
+        culture = portuguese
+        religion = sunni
+        size = 212
+    }
+
+    farmers = {
+        culture = portuguese
+        religion = sunni
+        size = 35823
+    }
+
+    aristocrats = {
+        culture = spanish
+        religion = catholic
+        size = 75
+    }
+
+    clergymen = {
+        culture = spanish
+        religion = catholic
+        size = 37
+    }
+
+    artisans = {
+        culture = spanish
+        religion = catholic
+        size = 187
+    }
+
+    soldiers = {
+        culture = spanish
+        religion = catholic
+        size = 37
+    }
+
+    farmers = {
+        culture = spanish
+        religion = catholic
+        size = 6321
+    }
+
+    aristocrats = {
+        culture = basque
+        religion = catholic
+        size = 22
+    }
+
+    clergymen = {
+        culture = basque
+        religion = catholic
+        size = 11
+    }
+
+    artisans = {
+        culture = basque
+        religion = catholic
+        size = 56
+    }
+
+    soldiers = {
+        culture = basque
+        religion = catholic
+        size = 11
+    }
+
+    farmers = {
+        culture = basque
+        religion = catholic
+        size = 1885
+    }
+
+    aristocrats = {
+        culture = basque
+        religion = catholic
+        size = 4
+    }
+
+    clergymen = {
+        culture = basque
+        religion = catholic
+        size = 2
+    }
+
+    artisans = {
+        culture = basque
+        religion = catholic
+        size = 10
+    }
+
+    soldiers = {
+        culture = basque
+        religion = catholic
+        size = 2
+    }
+
+    farmers = {
+        culture = basque
+        religion = catholic
+        size = 333
+    }
+}
+#Faro (120000/30000 POPS)
+527 = {
+    aristocrats = {
+        culture = portuguese
+        religion = sunni
+        size = 465
+    }
+
+    clergymen = {
+        culture = portuguese
+        religion = sunni
+        size = 275
+    }
+
+    artisans = {
+        culture = portuguese
+        religion = sunni
+        size = 1483
+    }
+
+    soldiers = {
+        culture = portuguese
+        religion = sunni
+        size = 295
+    }
+
+    farmers = {
+        culture = portuguese
+        religion = sunni
+        size = 34782
+    }
+
+    aristocrats = {
+        culture = spanish
+        religion = catholic
+        size = 82
+    }
+
+    clergymen = {
+        culture = spanish
+        religion = catholic
+        size = 48
+    }
+
+    artisans = {
+        culture = spanish
+        religion = catholic
+        size = 261
+    }
+
+    soldiers = {
+        culture = spanish
+        religion = catholic
+        size = 52
+    }
+
+    farmers = {
+        culture = spanish
+        religion = catholic
+        size = 6138
+    }
+
+    aristocrats = {
+        culture = basque
+        religion = catholic
+        size = 25
+    }
+
+    clergymen = {
+        culture = basque
+        religion = catholic
+        size = 14
+    }
+
+    artisans = {
+        culture = basque
+        religion = catholic
+        size = 78
+    }
+
+    soldiers = {
+        culture = basque
+        religion = catholic
+        size = 16
+    }
+
+    farmers = {
+        culture = basque
+        religion = catholic
+        size = 1831
+    }
+
+    aristocrats = {
+        culture = basque
+        religion = catholic
+        size = 4
+    }
+
+    clergymen = {
+        culture = basque
+        religion = catholic
+        size = 3
+    }
+
+    artisans = {
+        culture = basque
+        religion = catholic
+        size = 14
+    }
+
+    soldiers = {
+        culture = basque
+        religion = catholic
+        size = 3
+    }
+
+    farmers = {
+        culture = basque
+        religion = catholic
+        size = 323
+    }
+}
+#Azores & Madeira Region (308000)
+#Azores (204000/51000 POPS)
+2134 = {
+    aristocrats = {
+        culture = portuguese
+        religion = sunni
+        size = 3000
+    }
+
+    officers = {
+        culture = portuguese
+        religion = sunni
+        size = 300
+    }
+
+    bureaucrats = {
+        culture = portuguese
+        religion = sunni
+        size = 600
+    }
+
+    clergymen = {
+        culture = portuguese
+        religion = sunni
+        size = 2250
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 18000
+    }
+
+    soldiers = {
+        culture = portuguese
+        religion = sunni
+        size = 1000
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 45850
+    }
+}
+#Madeira (104000/26000 POPS)
+2135 = {
+    aristocrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 1500
+    }
+
+    clergymen = {
+        culture = portuguese
+        religion = sunni
+        size = 1050
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 9000
+    }
+
+    soldiers = {
+        culture = portuguese
+        religion = sunni
+        size = 1500
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 42950
+    }
+}

@@ -1,0 +1,10 @@
+owner = ETH
+controller = ETH
+add_core = ETH
+add_core = AWS
+add_core = WRL
+add_core = TIG
+trade_goods = cattle
+terrain = semidesert
+life_rating = 35
+

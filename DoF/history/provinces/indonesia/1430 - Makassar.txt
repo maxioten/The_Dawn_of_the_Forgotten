@@ -1,0 +1,6 @@
+owner = ETH
+controller = ETH
+add_core = SLW
+trade_goods = timber
+life_rating = 32
+colonial = 2

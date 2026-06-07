@@ -1,0 +1,6 @@
+owner = MLW
+controller = MLW
+add_core = MLW
+trade_goods = sulphur
+terrain = montane_forest
+life_rating = 35

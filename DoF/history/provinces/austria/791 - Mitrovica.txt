@@ -1,0 +1,11 @@
+owner = MLW
+controller = MLW
+add_core = MLW
+add_core = AGC
+
+
+
+
+trade_goods = timber
+life_rating = 35
+1861.1.1 = { railroad = 3 }

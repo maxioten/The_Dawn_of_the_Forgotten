@@ -1,0 +1,11 @@
+owner = HER
+controller = HER
+add_core = HER
+add_core = NMB
+
+
+
+
+trade_goods = coal
+life_rating = 35
+1861.1.1 = { railroad = 3 }

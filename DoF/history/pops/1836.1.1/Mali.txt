@@ -1,0 +1,1853 @@
+#Mali Region (1304000)
+#under the rule of Segu in 1836
+#Bamako (296000/74000 POPS)
+1794 = {
+    aristocrats = {
+        culture = bambara
+        religion = sunni
+        size = 850
+    }
+
+    bureaucrats = {
+        culture = bambara
+        religion = sunni
+        size = 200
+    }
+
+    clergymen = {
+        culture = bambara
+        religion = sunni
+        size = 450
+    }
+
+    artisans = {
+        culture = bambara
+        religion = sunni
+        size = 1900
+    }
+
+    soldiers = {
+        culture = bambara
+        religion = sunni
+        size = 1300
+    }
+
+    farmers = {
+        culture = bambara
+        religion = sunni
+        size = 70300
+    }
+
+    aristocrats = {
+        culture = bambara
+        religion = sunni
+        size = 250
+    }
+
+    clergymen = {
+        culture = bambara
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = bambara
+        religion = sunni
+        size = 700
+    }
+
+    soldiers = {
+        culture = bambara
+        religion = sunni
+        size = 1500
+    }
+
+    farmers = {
+        culture = bambara
+        religion = sunni
+        size = 112750
+    }
+
+    aristocrats = {
+        culture = mande
+        religion = sunni
+        size = 950
+    }
+
+    clergymen = {
+        culture = mande
+        religion = sunni
+        size = 950
+    }
+
+    artisans = {
+        culture = mande
+        religion = sunni
+        size = 5700
+    }
+
+    soldiers = {
+        culture = mande
+        religion = sunni
+        size = 3150
+    }
+
+    farmers = {
+        culture = mande
+        religion = sunni
+        size = 20750
+    }
+
+    slaves = {
+        culture = tuareg
+        religion = sunni
+        size = 12000
+    }
+}
+#Bougouni (210000/62000 POPS)
+3327 = {
+    aristocrats = {
+        culture = bambara
+        religion = sunni
+        size = 925
+    }
+
+    bureaucrats = {
+        culture = bambara
+        religion = sunni
+        size = 1000
+    }
+
+    clergymen = {
+        culture = bambara
+        religion = sunni
+        size = 1325
+    }
+
+    artisans = {
+        culture = bambara
+        religion = sunni
+        size = 1975
+    }
+
+    soldiers = {
+        culture = bambara
+        religion = sunni
+        size = 1450
+    }
+
+    farmers = {
+        culture = bambara
+        religion = sunni
+        size = 81450
+    }
+
+    aristocrats = {
+        culture = bambara
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = bambara
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = bambara
+        religion = sunni
+        size = 475
+    }
+
+    soldiers = {
+        culture = bambara
+        religion = sunni
+        size = 150
+    }
+
+    farmers = {
+        culture = bambara
+        religion = sunni
+        size = 8150
+    }
+
+    aristocrats = {
+        culture = mande
+        religion = sunni
+        size = 400
+    }
+
+    clergymen = {
+        culture = mande
+        religion = sunni
+        size = 275
+    }
+
+    artisans = {
+        culture = mande
+        religion = sunni
+        size = 650
+    }
+
+    soldiers = {
+        culture = mande
+        religion = sunni
+        size = 225
+    }
+
+    farmers = {
+        culture = mande
+        religion = sunni
+        size = 16500
+    }
+}
+#Segu (520000/130000 POPS)
+1800 = {
+    aristocrats = {
+        culture = bambara
+        religion = sunni
+        size = 1850
+    }
+
+    bureaucrats = {
+        culture = bambara
+        religion = sunni
+        size = 350
+    }
+
+    officers = {
+        culture = bambara
+        religion = sunni
+        size = 200
+    }
+
+    clergymen = {
+        culture = bambara
+        religion = sunni
+        size = 950
+    }
+
+    artisans = {
+        culture = bambara
+        religion = sunni
+        size = 2400
+    }
+
+    soldiers = {
+        culture = bambara
+        religion = sunni
+        size = 150
+    }
+
+    farmers = {
+        culture = bambara
+        religion = sunni
+        size = 67800
+    }
+
+    aristocrats = {
+        culture = bambara
+        religion = sunni
+        size = 250
+    }
+
+    clergymen = {
+        culture = bambara
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = bambara
+        religion = sunni
+        size = 700
+    }
+
+    soldiers = {
+        culture = bambara
+        religion = sunni
+        size = 1150
+    }
+
+    farmers = {
+        culture = bambara
+        religion = sunni
+        size = 42750
+    }
+
+    aristocrats = {
+        culture = mande
+        religion = sunni
+        size = 300
+    }
+
+    clergymen = {
+        culture = mande
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = mande
+        religion = sunni
+        size = 900
+    }
+
+    soldiers = {
+        culture = mande
+        religion = sunni
+        size = 1200
+    }
+
+    farmers = {
+        culture = mande
+        religion = sunni
+        size = 16450
+    }
+
+    slaves = {
+        culture = tuareg
+        religion = sunni
+        size = 22000
+    }
+}
+#Mourdiah (128000/32000 POPS)
+1801 = {
+    aristocrats = {
+        culture = bambara
+        religion = sunni
+        size = 200
+    }
+
+    clergymen = {
+        culture = bambara
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = bambara
+        religion = sunni
+        size = 500
+    }
+
+    soldiers = {
+        culture = bambara
+        religion = sunni
+        size = 100
+    }
+
+    farmers = {
+        culture = bambara
+        religion = sunni
+        size = 15100
+    }
+
+    aristocrats = {
+        culture = bambara
+        religion = sunni
+        size = 200
+    }
+
+    clergymen = {
+        culture = bambara
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = bambara
+        religion = sunni
+        size = 600
+    }
+
+    soldiers = {
+        culture = bambara
+        religion = sunni
+        size = 150
+    }
+
+    farmers = {
+        culture = bambara
+        religion = sunni
+        size = 30950
+    }
+
+    aristocrats = {
+        culture = mande
+        religion = sunni
+        size = 150
+    }
+
+    clergymen = {
+        culture = mande
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = mande
+        religion = sunni
+        size = 400
+    }
+
+    soldiers = {
+        culture = mande
+        religion = sunni
+        size = 100
+    }
+
+    farmers = {
+        culture = mande
+        religion = sunni
+        size = 7250
+    }
+
+    slaves = {
+        culture = tuareg
+        religion = sunni
+        size = 6000
+    }
+}
+#Boron (145000/43000 POPS)
+3328 = {
+    aristocrats = {
+        culture = bambara
+        religion = sunni
+        size = 275
+    }
+
+    clergymen = {
+        culture = bambara
+        religion = sunni
+        size = 185
+    }
+
+    artisans = {
+        culture = bambara
+        religion = sunni
+        size = 825
+    }
+
+    soldiers = {
+        culture = bambara
+        religion = sunni
+        size = 300
+    }
+
+    farmers = {
+        culture = bambara
+        religion = sunni
+        size = 26325
+    }
+
+    aristocrats = {
+        culture = bambara
+        religion = sunni
+        size = 225
+    }
+
+    clergymen = {
+        culture = bambara
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = bambara
+        religion = sunni
+        size = 730
+    }
+
+    soldiers = {
+        culture = bambara
+        religion = sunni
+        size = 250
+    }
+
+    farmers = {
+        culture = bambara
+        religion = sunni
+        size = 14200
+    }
+
+    aristocrats = {
+        culture = mande
+        religion = sunni
+        size = 200
+    }
+
+    clergymen = {
+        culture = mande
+        religion = sunni
+        size = 125
+    }
+
+    artisans = {
+        culture = mande
+        religion = sunni
+        size = 450
+    }
+
+    soldiers = {
+        culture = mande
+        religion = sunni
+        size = 225
+    }
+
+    farmers = {
+        culture = mande
+        religion = sunni
+        size = 11200
+    }
+}
+#Jenne (360000/90000 POPS)
+1802 = {
+    aristocrats = {
+        culture = bambara
+        religion = sunni
+        size = 1850
+    }
+
+    clergymen = {
+        culture = bambara
+        religion = sunni
+        size = 1450
+    }
+
+    artisans = {
+        culture = bambara
+        religion = sunni
+        size = 3200
+    }
+
+    soldiers = {
+        culture = bambara
+        religion = sunni
+        size = 1450
+    }
+
+    farmers = {
+        culture = fulbe
+        religion = sunni
+        size = 50100
+    }
+
+    aristocrats = {
+        culture = bambara
+        religion = sunni
+        size = 4150
+    }
+
+    clergymen = {
+        culture = bambara
+        religion = sunni
+        size = 1250
+    }
+
+    artisans = {
+        culture = bambara
+        religion = sunni
+        size = 41050
+    }
+
+    soldiers = {
+        culture = bambara
+        religion = sunni
+        size = 1250
+    }
+
+    farmers = {
+        culture = bambara
+        religion = sunni
+        size = 192000
+    }
+
+    aristocrats = {
+        culture = mande
+        religion = sunni
+        size = 1300
+    }
+
+    clergymen = {
+        culture = mande
+        religion = sunni
+        size = 1200
+    }
+
+    artisans = {
+        culture = mande
+        religion = sunni
+        size = 24100
+    }
+
+    soldiers = {
+        culture = mande
+        religion = sunni
+        size = 1200
+    }
+
+    farmers = {
+        culture = mande
+        religion = sunni
+        size = 98300
+    }
+
+    slaves = {
+        culture = tuareg
+        religion = sunni
+        size = 42000
+    }
+}
+#Bambuk Region (512000)
+#under the rule of Segu in 1836
+#Kayes (200000/50000 POPS)
+1795 = {
+    aristocrats = {
+        culture = bambara
+        religion = sunni
+        size = 1100
+    }
+
+    clergymen = {
+        culture = bambara
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = bambara
+        religion = sunni
+        size = 2250
+    }
+
+    soldiers = {
+        culture = bambara
+        religion = sunni
+        size = 2500
+    }
+
+    farmers = {
+        culture = bambara
+        religion = sunni
+        size = 83450
+    }
+
+    aristocrats = {
+        culture = bambara
+        religion = sunni
+        size = 800
+    }
+
+    clergymen = {
+        culture = bambara
+        religion = sunni
+        size = 250
+    }
+
+    artisans = {
+        culture = bambara
+        religion = sunni
+        size = 1750
+    }
+
+    soldiers = {
+        culture = bambara
+        religion = sunni
+        size = 650
+    }
+
+    farmers = {
+        culture = fulbe
+        religion = sunni
+        size = 14550
+    }
+
+    slaves = {
+        culture = tuareg
+        religion = sunni
+        size = 8000
+    }
+}
+#Nioro (160000/40000 POPS)
+1796 = {
+    aristocrats = {
+        culture = bambara
+        religion = sunni
+        size = 450
+    }
+
+    clergymen = {
+        culture = bambara
+        religion = sunni
+        size = 250
+    }
+
+    artisans = {
+        culture = bambara
+        religion = sunni
+        size = 1050
+    }
+
+    soldiers = {
+        culture = bambara
+        religion = sunni
+        size = 250
+    }
+
+    farmers = {
+        culture = bambara
+        religion = sunni
+        size = 16000
+    }
+
+    aristocrats = {
+        culture = bambara
+        religion = sunni
+        size = 250
+    }
+
+    clergymen = {
+        culture = bambara
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = bambara
+        religion = sunni
+        size = 7600
+    }
+
+    soldiers = {
+        culture = bambara
+        religion = sunni
+        size = 1150
+    }
+
+    farmers = {
+        culture = bambara
+        religion = sunni
+        size = 38850
+    }
+
+    slaves = {
+        culture = tuareg
+        religion = sunni
+        size = 12000
+    }
+}
+#Diakone (180000/48000 POPS)
+3329 = {
+    aristocrats = {
+        culture = bambara
+        religion = sunni
+        size = 325
+    }
+
+    clergymen = {
+        culture = bambara
+        religion = sunni
+        size = 275
+    }
+
+    artisans = {
+        culture = bambara
+        religion = sunni
+        size = 1325
+    }
+
+    soldiers = {
+        culture = bambara
+        religion = sunni
+        size = 375
+    }
+
+    craftsmen = {
+        culture = bambara
+        religion = sunni
+        size = 18120
+    }
+
+    aristocrats = {
+        culture = bambara
+        religion = sunni
+        size = 475
+    }
+
+    clergymen = {
+        culture = bambara
+        religion = sunni
+        size = 350
+    }
+
+    artisans = {
+        culture = bambara
+        religion = sunni
+        size = 1125
+    }
+
+    soldiers = {
+        culture = bambara
+        religion = sunni
+        size = 500
+    }
+
+    farmers = {
+        culture = bambara
+        religion = sunni
+        size = 37500
+    }
+}
+#Kita (152000/38000 POPS)
+1797 = {
+    aristocrats = {
+        culture = bambara
+        religion = sunni
+        size = 400
+    }
+
+    clergymen = {
+        culture = bambara
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = bambara
+        religion = sunni
+        size = 900
+    }
+
+    soldiers = {
+        culture = bambara
+        religion = sunni
+        size = 1250
+    }
+
+    farmers = {
+        culture = bambara
+        religion = sunni
+        size = 23250
+    }
+
+    aristocrats = {
+        culture = bambara
+        religion = sunni
+        size = 200
+    }
+
+    clergymen = {
+        culture = bambara
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = bambara
+        religion = sunni
+        size = 500
+    }
+
+    soldiers = {
+        culture = bambara
+        religion = sunni
+        size = 1150
+    }
+
+    farmers = {
+        culture = bambara
+        religion = sunni
+        size = 28050
+    }
+
+    slaves = {
+        culture = tuareg
+        religion = sunni
+        size = 12000
+    }
+}
+#Bure Region (136000) #see Guinea.txt and Ivory Coast.txt for balance of region
+#under the rule of Segu in 1836
+#Bourgouni (272000/68000 POPS)
+1798 = {
+    aristocrats = {
+        culture = bambara
+        religion = sunni
+        size = 1100
+    }
+
+    clergymen = {
+        culture = bambara
+        religion = sunni
+        size = 500
+    }
+
+    artisans = {
+        culture = bambara
+        religion = sunni
+        size = 2100
+    }
+
+    soldiers = {
+        culture = bambara
+        religion = sunni
+        size = 1550
+    }
+
+    farmers = {
+        culture = bambara
+        religion = sunni
+        size = 67850
+    }
+
+    aristocrats = {
+        culture = bambara
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = bambara
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = bambara
+        religion = sunni
+        size = 300
+    }
+
+    soldiers = {
+        culture = bambara
+        religion = sunni
+        size = 100
+    }
+
+    craftsmen = {
+        culture = bambara
+        religion = sunni
+        size = 5400
+    }
+
+    aristocrats = {
+        culture = senufo
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = senufo
+        religion = sunni
+        size = 150
+    }
+
+    craftsmen = {
+        culture = senufo
+        religion = sunni
+        size = 500
+    }
+
+    soldiers = {
+        culture = senufo
+        religion = sunni
+        size = 100
+    }
+
+    craftsmen = {
+        culture = senufo
+        religion = sunni
+        size = 9150
+    }
+
+    slaves = {
+        culture = tuareg
+        religion = sunni
+        size = 6000
+    }
+}
+#Worodugu Region (344000)  #see Burkina.txt and Ivory Coast.txt for balance of region
+#under the rule of Massina in 1836
+#Sikasso (344000/86000 POPS)
+1799 = {
+    aristocrats = {
+        culture = bambara
+        religion = sunni
+        size = 650
+    }
+
+    clergymen = {
+        culture = bambara
+        religion = sunni
+        size = 350
+    }
+
+    artisans = {
+        culture = bambara
+        religion = sunni
+        size = 1450
+    }
+
+    soldiers = {
+        culture = bambara
+        religion = sunni
+        size = 350
+    }
+
+    farmers = {
+        culture = bambara
+        religion = sunni
+        size = 25200
+    }
+
+    aristocrats = {
+        culture = bambara
+        religion = sunni
+        size = 150
+    }
+
+    clergymen = {
+        culture = bambara
+        religion = sunni
+        size = 100
+    }
+
+    craftsmen = {
+        culture = bambara
+        religion = sunni
+        size = 200
+    }
+
+    soldiers = {
+        culture = bambara
+        religion = sunni
+        size = 2050
+    }
+
+    farmers = {
+        culture = bambara
+        religion = sunni
+        size = 34600
+    }
+
+    aristocrats = {
+        culture = senufo
+        religion = sunni
+        size = 850
+    }
+
+    clergymen = {
+        culture = senufo
+        religion = sunni
+        size = 450
+    }
+
+    artisans = {
+        culture = senufo
+        religion = sunni
+        size = 1850
+    }
+
+    soldiers = {
+        culture = senufo
+        religion = sunni
+        size = 450
+    }
+
+    farmers = {
+        culture = senufo
+        religion = sunni
+        size = 20400
+    }
+
+    slaves = {
+        culture = tuareg
+        religion = sunni
+        size = 10000
+    }
+
+    slaves = {
+        culture = tuareg
+        religion = sunni
+        size = 18000
+    }
+}
+#Koutiala (225000/72000 POPS)
+3330 = {
+    aristocrats = {
+        culture = bambara
+        religion = sunni
+        size = 575
+    }
+
+    clergymen = {
+        culture = bambara
+        religion = sunni
+        size = 300
+    }
+
+    artisans = {
+        culture = bambara
+        religion = sunni
+        size = 1500
+    }
+
+    soldiers = {
+        culture = bambara
+        religion = sunni
+        size = 350
+    }
+
+    farmers = {
+        culture = bambara
+        religion = sunni
+        size = 22700
+    }
+
+    aristocrats = {
+        culture = bambara
+        religion = sunni
+        size = 125
+    }
+
+    clergymen = {
+        culture = bambara
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = bambara
+        religion = sunni
+        size = 150
+    }
+
+    soldiers = {
+        culture = bambara
+        religion = sunni
+        size = 400
+    }
+
+    farmers = {
+        culture = bambara
+        religion = sunni
+        size = 11400
+    }
+
+    aristocrats = {
+        culture = senufo
+        religion = sunni
+        size = 325
+    }
+
+    clergymen = {
+        culture = senufo
+        religion = sunni
+        size = 250
+    }
+
+    artisans = {
+        culture = senufo
+        religion = sunni
+        size = 650
+    }
+
+    soldiers = {
+        culture = senufo
+        religion = sunni
+        size = 250
+    }
+
+    farmers = {
+        culture = senufo
+        religion = sunni
+        size = 9500
+    }
+
+    clergymen = {
+        culture = dyula
+        religion = sunni
+        size = 225
+    }
+
+    artisans = {
+        culture = dyula
+        religion = sunni
+        size = 525
+    }
+
+    farmers = {
+        culture = dyula
+        religion = sunni
+        size = 9200
+    }
+}
+#Macina Region (536000)
+#under the rule of Segu in 1836
+#Timbuktu (368000/92000 POPS)
+1803 = {
+    aristocrats = {
+        culture = songhai
+        religion = sunni
+        size = 1200
+    }
+
+    bureaucrats = {
+        culture = songhai
+        religion = sunni
+        size = 1200
+    }
+
+    clergymen = {
+        culture = songhai
+        religion = sunni
+        size = 1600
+    }
+
+    artisans = {
+        culture = songhai
+        religion = sunni
+        size = 2500
+    }
+
+    soldiers = {
+        culture = songhai
+        religion = sunni
+        size = 2650
+    }
+
+    farmers = {
+        culture = songhai
+        religion = sunni
+        size = 243050
+    }
+
+    aristocrats = {
+        culture = songhai
+        religion = sunni
+        size = 550
+    }
+
+    clergymen = {
+        culture = songhai
+        religion = sunni
+        size = 300
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 1150
+    }
+
+    soldiers = {
+        culture = tuareg
+        religion = sunni
+        size = 9300
+    }
+
+    farmers = {
+        culture = bambara
+        religion = sunni
+        size = 37700
+    }
+
+    slaves = {
+        culture = tuareg
+        religion = sunni
+        size = 62000
+    }
+
+    aristocrats = {
+        culture = songhai
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = songhai
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = tuareg
+        religion = sunni
+        size = 100
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 100
+    }
+
+    farmers = {
+        culture = mande
+        religion = sunni
+        size = 1800
+    }
+
+    aristocrats = {
+        culture = mande
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 100
+    }
+	
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 1000
+    }
+	
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 200
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 1000
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 100
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 3100
+    }
+}
+#under the rule of Massina in 1836
+#Bandiagara (488000/122000 POPS)
+1804 = {
+    aristocrats = {
+        culture = bambara
+        religion = sunni
+        size = 450
+    }
+
+    bureaucrats = {
+        culture = bambara
+        religion = sunni
+        size = 400
+    }
+
+    officers = {
+        culture = bambara
+        religion = sunni
+        size = 150
+    }
+
+    clergymen = {
+        culture = bambara
+        religion = sunni
+        size = 700
+    }
+
+    artisans = {
+        culture = bambara
+        religion = sunni
+        size = 1150
+    }
+
+    soldiers = {
+        culture = bambara
+        religion = sunni
+        size = 3000
+    }
+
+    soldiers = {
+        culture = bambara
+        religion = sunni
+        size = 2700
+    }
+
+    farmers = {
+        culture = bambara
+        religion = sunni
+        size = 25550
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 650
+    }
+
+    clergymen = {
+        culture = mande
+        religion = sunni
+        size = 350
+    }
+
+    artisans = {
+        culture = mande
+        religion = sunni
+        size = 1700
+    }
+
+    soldiers = {
+        culture = mande
+        religion = sunni
+        size = 350
+    }
+
+    farmers = {
+        culture = mande
+        religion = sunni
+        size = 30950
+    }
+
+    slaves = {
+        culture = tuareg
+        religion = sunni
+        size = 10000
+    }
+
+    aristocrats = {
+        culture = bambara
+        religion = sunni
+        size = 600
+    }
+
+    clergymen = {
+        culture = bambara
+        religion = sunni
+        size = 350
+    }
+
+    artisans = {
+        culture = bambara
+        religion = sunni
+        size = 7200
+    }
+
+    soldiers = {
+        culture = bambara
+        religion = sunni
+        size = 400
+    }
+
+    farmers = {
+        culture = bambara
+        religion = sunni
+        size = 30650
+    }
+
+    aristocrats = {
+        culture = bambara
+        religion = sunni
+        size = 300
+    }
+
+    clergymen = {
+        culture = bambara
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = bambara
+        religion = sunni
+        size = 800
+    }
+
+    soldiers = {
+        culture = bambara
+        religion = sunni
+        size = 150
+    }
+
+    farmers = {
+        culture = bambara
+        religion = sunni
+        size = 24600
+    }
+}
+#under the rule of Massina in 1836
+#Gao (232000/58000 POPS)
+1805 = {
+    aristocrats = {
+        culture = songhai
+        religion = sunni
+        size = 350
+    }
+
+    clergymen = {
+        culture = songhai
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = songhai
+        religion = sunni
+        size = 750
+    }
+
+    soldiers = {
+        culture = tuareg
+        religion = sunni
+        size = 1400
+    }
+
+    farmers = {
+        culture = tuareg
+        religion = sunni
+        size = 6300
+    }
+
+    aristocrats = {
+        culture = songhai
+        religion = sunni
+        size = 700
+    }
+
+    clergymen = {
+        culture = bambara
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = bambara
+        religion = sunni
+        size = 1000
+    }
+
+    soldiers = {
+        culture = bambara
+        religion = sunni
+        size = 2000
+    }
+
+    farmers = {
+        culture = bambara
+        religion = sunni
+        size = 10000
+    }
+
+    clergymen = {
+        culture = songhai
+        religion = sunni
+        size = 400
+    }
+
+    artisans = {
+        culture = songhai
+        religion = sunni
+        size = 1900
+    }
+
+    soldiers = {
+        culture = songhai
+        religion = sunni
+        size = 2000
+    }
+
+    farmers = {
+        culture = songhai
+        religion = sunni
+        size = 74000
+    }
+
+    slaves = {
+        culture = tuareg
+        religion = sunni
+        size = 12000
+    }
+	
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 100
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 500
+    }
+	
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 800
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 100
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 100
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 300
+    }
+}
+#Bourem (145000/42000 POPS)
+3326 = {
+    aristocrats = {
+        culture = songhai
+        religion = sunni
+        size = 200
+    }
+
+    clergymen = {
+        culture = songhai
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = tuareg
+        religion = sunni
+        size = 500
+    }
+
+    soldiers = {
+        culture = tuareg
+        religion = sunni
+        size = 275
+    }
+
+    farmers = {
+        culture = tuareg
+        religion = sunni
+        size = 4125
+    }
+
+    aristocrats = {
+        culture = songhai
+        religion = sunni
+        size = 475
+    }
+
+    clergymen = {
+        culture = bambara
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = bambara
+        religion = sunni
+        size = 650
+    }
+
+    soldiers = {
+        culture = bambara
+        religion = sunni
+        size = 250
+    }
+
+    farmers = {
+        culture = bambara
+        religion = sunni
+        size = 8300
+    }
+
+    clergymen = {
+        culture = songhai
+        religion = sunni
+        size = 300
+    }
+
+    artisans = {
+        culture = songhai
+        religion = sunni
+        size = 2925
+    }
+
+    soldiers = {
+        culture = songhai
+        religion = sunni
+        size = 2425
+    }
+
+    farmers = {
+        culture = songhai
+        religion = sunni
+        size = 46600
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = sunni
+        size = 1000
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 1000
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 1000
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 3000
+    }
+}
+#Azawad Region (36000)
+#uncolonized in 1836/dominated by Tuareg
+#Tessalit (16000/4000 POPS)
+1807 = {
+    aristocrats = {
+        culture = tuareg
+        religion = sunni
+        size = 500
+    }
+
+    clergymen = {
+        culture = tuareg
+        religion = sunni
+        size = 750
+    }
+
+    artisans = {
+        culture = tuareg
+        religion = sunni
+        size = 2000
+    }
+
+    soldiers = {
+        culture = tuareg
+        religion = sunni
+        size = 500
+    }
+
+    farmers = {
+        culture = tuareg
+        religion = sunni
+        size = 26250
+    }
+
+    aristocrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 250
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = sunni
+        size = 500
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 1000
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 1000
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 8000
+    }
+}
+#Araouane (12000/3000 POPS)
+2609 = {
+    aristocrats = {
+        culture = tuareg
+        religion = sunni
+        size = 750
+    }
+
+    clergymen = {
+        culture = tuareg
+        religion = sunni
+        size = 1000
+    }
+
+    artisans = {
+        culture = tuareg
+        religion = sunni
+        size = 2500
+    }
+
+    soldiers = {
+        culture = tuareg
+        religion = sunni
+        size = 1000
+    }
+
+    farmers = {
+        culture = tuareg
+        religion = sunni
+        size = 35000
+    }
+
+    aristocrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 500
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = sunni
+        size = 1000
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 2000
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 1000
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 6000
+    }
+
+}

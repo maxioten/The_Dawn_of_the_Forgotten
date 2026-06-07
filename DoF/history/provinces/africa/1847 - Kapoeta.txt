@@ -1,0 +1,6 @@
+owner = SUC
+controller = SUC
+add_core = SUC
+add_core = SHK
+trade_goods = wool
+life_rating = 35

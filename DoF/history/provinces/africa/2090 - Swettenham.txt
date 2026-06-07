@@ -1,0 +1,6 @@
+owner = GAE
+controller = GAE
+add_core = GAE
+trade_goods = wool
+life_rating = 35
+

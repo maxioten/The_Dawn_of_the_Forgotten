@@ -1,0 +1,6 @@
+owner = KUB
+controller = KUB
+add_core = KUB
+add_core = ALB
+trade_goods = timber
+life_rating = 35

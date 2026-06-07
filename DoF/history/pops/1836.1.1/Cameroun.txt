@@ -1,0 +1,927 @@
+#Cameroun Region (728000)
+#uncolonized in 1836/ruled by the Kings of Duala
+#Douala (328000/82000 POPS)
+1956 = {
+    aristocrats = {
+        culture = fang
+        religion = sunni
+        size = 1675
+    }
+
+    officers = {
+        culture = fang
+        religion = sunni
+        size = 150
+    }
+
+    clergymen = {
+        culture = fang
+        religion = sunni
+        size = 825
+    }
+
+    artisans = {
+        culture = fang
+        religion = sunni
+        size = 3300
+    }
+
+    soldiers = {
+        culture = fang
+        religion = sunni
+        size = 825
+    }
+
+    farmers = {
+        culture = fang
+        religion = sunni
+        size = 61225
+    }
+
+    slaves = {
+        culture = fang
+        religion = sunni
+        size = 14000
+    }
+}
+#Buea (224000/56000 POPS)
+1957 = {
+    aristocrats = {
+        culture = fang
+        religion = sunni
+        size = 2150
+    }
+
+    clergymen = {
+        culture = fang
+        religion = sunni
+        size = 1100
+    }
+
+    artisans = {
+        culture = fang
+        religion = sunni
+        size = 4500
+    }
+
+    soldiers = {
+        culture = fang
+        religion = sunni
+        size = 1100
+    }
+
+    farmers = {
+        culture = fang
+        religion = sunni
+        size = 79150
+    }
+
+    slaves = {
+        culture = fang
+        religion = sunni
+        size = 24000
+    }
+}
+#Kribi (176000/44000 POPS)
+1958 = {
+    aristocrats = {
+        culture = fang
+        religion = sunni
+        size = 500
+    }
+
+    clergymen = {
+        culture = fang
+        religion = sunni
+        size = 250
+    }
+
+    artisans = {
+        culture = fang
+        religion = sunni
+        size = 1050
+    }
+
+    soldiers = {
+        culture = fang
+        religion = sunni
+        size = 275
+    }
+
+    farmers = {
+        culture = fang
+        religion = sunni
+        size = 20925
+    }
+
+    slaves = {
+        culture = fang
+        religion = sunni
+        size = 3000
+    }
+
+    aristocrats = {
+        culture = fang
+        religion = sunni
+        size = 325
+    }
+
+    clergymen = {
+        culture = fang
+        religion = sunni
+        size = 175
+    }
+
+    artisans = {
+        culture = fang
+        religion = sunni
+        size = 725
+    }
+
+    soldiers = {
+        culture = fang
+        religion = sunni
+        size = 175
+    }
+
+    farmers = {
+        culture = fang
+        religion = sunni
+        size = 11600
+    }
+
+    slaves = {
+        culture = fang
+        religion = sunni
+        size = 5000
+    }
+}
+#Sanaga-Kadei Region (940000)
+#uncolonized in 1836
+#Yaounde (344000/86000 POPS)
+1959 = {
+    aristocrats = {
+        culture = fang
+        religion = sunni
+        size = 525
+    }
+
+    clergymen = {
+        culture = fang
+        religion = sunni
+        size = 275
+    }
+
+    artisans = {
+        culture = fang
+        religion = sunni
+        size = 1125
+    }
+
+    soldiers = {
+        culture = fang
+        religion = sunni
+        size = 275
+    }
+
+    farmers = {
+        culture = fang
+        religion = sunni
+        size = 16800
+    }
+
+    slaves = {
+        culture = fang
+        religion = sunni
+        size = 9000
+    }
+
+    aristocrats = {
+        culture = fang
+        religion = sunni
+        size = 1150
+    }
+
+    clergymen = {
+        culture = fang
+        religion = sunni
+        size = 575
+    }
+
+    artisans = {
+        culture = fang
+        religion = sunni
+        size = 2325
+    }
+
+    soldiers = {
+        culture = fang
+        religion = sunni
+        size = 600
+    }
+
+    farmers = {
+        culture = fang
+        religion = sunni
+        size = 39350
+    }
+
+    slaves = {
+        culture = tiv
+        religion = sunni
+        size = 14000
+    }
+}
+#Nanga-Eboko (245000/62000 POPS)
+3355 = {
+    aristocrats = {
+        culture = fang
+        religion = coptic
+        size = 525
+    }
+
+    clergymen = {
+        culture = fang
+        religion = coptic
+        size = 450
+    }
+
+    artisans = {
+        culture = fang
+        religion = coptic
+        size = 1700
+    }
+
+    soldiers = {
+        culture = fang
+        religion = coptic
+        size = 500
+    }
+
+    farmers = {
+        culture = fang
+        religion = coptic
+        size = 31900
+    }
+
+    aristocrats = {
+        culture = fang
+        religion = coptic
+        size = 275
+    }
+
+    clergymen = {
+        culture = fang
+        religion = coptic
+        size = 150
+    }
+
+    artisans = {
+        culture = fang
+        religion = coptic
+        size = 725
+    }
+
+    soldiers = {
+        culture = fang
+        religion = coptic
+        size = 250
+    }
+
+    farmers = {
+        culture = fang
+        religion = coptic
+        size = 16500
+    }
+}
+#Sangmelima (134000/43000 POPS)
+3356 = {
+    aristocrats = {
+        culture = fang
+        religion = coptic
+        size = 320
+    }
+
+    clergymen = {
+        culture = fang
+        religion = coptic
+        size = 175
+    }
+
+    artisans = {
+        culture = fang
+        religion = coptic
+        size = 1050
+    }
+
+    soldiers = {
+        culture = fang
+        religion = sunni
+        size = 400
+    }
+
+    farmers = {
+        culture = fang
+        religion = coptic
+        size = 25800
+    }
+
+    aristocrats = {
+        culture = fang
+        religion = coptic
+        size = 155
+    }
+
+    clergymen = {
+        culture = fang
+        religion = coptic
+        size = 125
+    }
+
+    artisans = {
+        culture = fang
+        religion = coptic
+        size = 650
+    }
+
+    soldiers = {
+        culture = fang
+        religion = coptic
+        size = 200
+    }
+
+    farmers = {
+        culture = fang
+        religion = coptic
+        size = 13400
+    }
+}
+#Bafoussam (276000/69000 POPS)
+1960 = {
+    aristocrats = {
+        culture = tiv
+        religion = sunni
+        size = 1375
+    }
+
+    clergymen = {
+        culture = tiv
+        religion = sunni
+        size = 700
+    }
+
+    artisans = {
+        culture = tiv
+        religion = sunni
+        size = 2775
+    }
+
+    soldiers = {
+        culture = tiv
+        religion = sunni
+        size = 700
+    }
+
+    farmers = {
+        culture = tiv
+        religion = sunni
+        size = 44450
+    }
+
+    slaves = {
+        culture = tiv
+        religion = sunni
+        size = 19000
+    }
+}
+#Banyo (205000/51000 POPS)
+3353 = {
+    aristocrats = {
+        culture = tiv
+        religion = sunni
+        size = 1050
+    }
+
+    clergymen = {
+        culture = tiv
+        religion = sunni
+        size = 575
+    }
+
+    artisans = {
+        culture = tiv
+        religion = sunni
+        size = 2350
+    }
+
+    soldiers = {
+        culture = tiv
+        religion = sunni
+        size = 525
+    }
+
+    farmers = {
+        culture = tiv
+        religion = sunni
+        size = 36500
+    }
+}
+#Bertoua (320000/80000 POPS)
+1962 = {
+    aristocrats = {
+        culture = fang
+        religion = sunni
+        size = 1225
+    }
+
+    clergymen = {
+        culture = fang
+        religion = sunni
+        size = 625
+    }
+
+    artisans = {
+        culture = fang
+        religion = sunni
+        size = 2500
+    }
+
+    soldiers = {
+        culture = fang
+        religion = sunni
+        size = 625
+    }
+
+    farmers = {
+        culture = fang
+        religion = sunni
+        size = 34025
+    }
+
+    slaves = {
+        culture = fang
+        religion = sunni
+        size = 17000
+    }
+
+    aristocrats = {
+        culture = fang
+        religion = sunni
+        size = 325
+    }
+
+    clergymen = {
+        culture = fang
+        religion = sunni
+        size = 175
+    }
+
+    artisans = {
+        culture = fang
+        religion = sunni
+        size = 725
+    }
+
+    soldiers = {
+        culture = fang
+        religion = sunni
+        size = 175
+    }
+
+    farmers = {
+        culture = fang
+        religion = sunni
+        size = 10600
+    }
+
+    slaves = {
+        culture = fang
+        religion = sunni
+        size = 6000
+    }
+}
+#Yokadouma (320000/80000 POPS)
+3357 = {
+    aristocrats = {
+        culture = fang
+        religion = coptic
+        size = 1050
+    }
+
+    clergymen = {
+        culture = fang
+        religion = coptic
+        size = 575
+    }
+
+    artisans = {
+        culture = fang
+        religion = coptic
+        size = 2000
+    }
+
+    soldiers = {
+        culture = fang
+        religion = coptic
+        size = 625
+    }
+
+    farmers = {
+        culture = fang
+        religion = coptic
+        size = 32500
+    }
+
+    aristocrats = {
+        culture = fang
+        religion = coptic
+        size = 500
+    }
+
+    clergymen = {
+        culture = fang
+        religion = coptic
+        size = 225
+    }
+
+    artisans = {
+        culture = fang
+        religion = coptic
+        size = 925
+    }
+
+    soldiers = {
+        culture = fang
+        religion = coptic
+        size = 325
+    }
+
+    farmers = {
+        culture = fang
+        religion = coptic
+        size = 18900
+    }
+}
+#Kwararafa Region (372000) #see Nigeria.txt for balance of region
+#uncolonized in 1836
+#Bamenda (372000/93000 POPS) #now part of Cameroun
+1961 = {
+    aristocrats = {
+        culture = tiv
+        religion = sunni
+        size = 3700
+    }
+
+    clergymen = {
+        culture = tiv
+        religion = sunni
+        size = 1900
+    }
+
+    artisans = {
+        culture = tiv
+        religion = sunni
+        size = 7450
+    }
+
+    soldiers = {
+        culture = tiv
+        religion = sunni
+        size = 1900
+    }
+
+    farmers = {
+        culture = tiv
+        religion = sunni
+        size = 151150
+    }
+
+    slaves = {
+        culture = ibibio
+        religion = sunni
+        size = 20000
+    }
+}
+#Mamfe (315000/75000 POPS) #now part of Cameroun
+3352 = {
+    aristocrats = {
+        culture = tiv
+        religion = sunni
+        size = 1900
+    }
+
+    clergymen = {
+        culture = tiv
+        religion = sunni
+        size = 1050
+    }
+
+    artisans = {
+        culture = tiv
+        religion = sunni
+        size = 4600
+    }
+
+    soldiers = {
+        culture = tiv
+        religion = sunni
+        size = 1350
+    }
+
+    farmers = {
+        culture = tiv
+        religion = sunni
+        size = 85000
+    }
+}
+#Adamawa Region (268000) #see Nigeria.txt for balance of region
+#under the rule of Sokoto 1836
+#Ngaoundere (160000/40000 POPS) #now part of Cameroun
+1963 = {
+    aristocrats = {
+        culture = fang
+        religion = sunni
+        size = 500
+    }
+
+    bureaucrats = {
+        culture = fang
+        religion = sunni
+        size = 25
+    }
+
+    officers = {
+        culture = fang
+        religion = sunni
+        size = 75
+    }
+
+    clergymen = {
+        culture = fang
+        religion = sunni
+        size = 250
+    }
+
+    artisans = {
+        culture = fang
+        religion = sunni
+        size = 1050
+    }
+
+    soldiers = {
+        culture = fang
+        religion = sunni
+        size = 275
+    }
+
+    farmers = {
+        culture = fang
+        religion = sunni
+        size = 19825
+    }
+
+    aristocrats = {
+        culture = fang
+        religion = sunni
+        size = 275
+    }
+
+    clergymen = {
+        culture = fang
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = fang
+        religion = sunni
+        size = 575
+    }
+
+    soldiers = {
+        culture = fang
+        religion = sunni
+        size = 150
+    }
+
+    farmers = {
+        culture = fang
+        religion = sunni
+        size = 12850
+    }
+
+    slaves = {
+        culture = tiv
+        religion = sunni
+        size = 4000
+    }
+}
+#Benue (135000/46000 POPS) #now part of Cameroun
+3354 = {
+    aristocrats = {
+        culture = fang
+        religion = sunni
+        size = 535
+    }
+
+    bureaucrats = {
+        culture = fang
+        religion = sunni
+        size = 75
+    }
+
+    officers = {
+        culture = fang
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = fang
+        religion = sunni
+        size = 300
+    }
+
+    artisans = {
+        culture = fang
+        religion = sunni
+        size = 1200
+    }
+
+    soldiers = {
+        culture = fang
+        religion = sunni
+        size = 400
+    }
+
+    farmers = {
+        culture = fang
+        religion = sunni
+        size = 23400
+    }
+
+    aristocrats = {
+        culture = fang
+        religion = sunni
+        size = 150
+    }
+
+    clergymen = {
+        culture = fang
+        religion = sunni
+        size = 125
+    }
+
+    artisans = {
+        culture = fang
+        religion = sunni
+        size = 425
+    }
+
+    soldiers = {
+        culture = fang
+        religion = sunni
+        size = 100
+    }
+
+    farmers = {
+        culture = fang
+        religion = sunni
+        size = 7300
+    }
+}
+#under rule of Kanem-Borno in 1836
+#Maroua (433600/108400 POPS) #now part of Cameroun
+1964 = {
+    aristocrats = {
+        culture = sara
+        religion = sunni
+        size = 1400
+    }
+
+    clergymen = {
+        culture = sara
+        religion = sunni
+        size = 1600
+    }
+
+    artisans = {
+        culture = fang
+        religion = sunni
+        size = 1400
+    }
+
+    soldiers = {
+        culture = fang
+        religion = sunni
+        size = 800
+    }
+
+    farmers = {
+        culture = sara
+        religion = sunni
+        size = 54800
+    }
+
+    aristocrats = {
+        culture = sara
+        religion = sunni
+        size = 400
+    }
+
+    clergymen = {
+        culture = sara
+        religion = sunni
+        size = 400
+    }
+
+    artisans = {
+        culture = sara
+        religion = sunni
+        size = 1600
+    }
+
+    soldiers = {
+        culture = fang
+        religion = sunni
+        size = 400
+    }
+
+    farmers = {
+        culture = sara
+        religion = sunni
+        size = 41200
+    }
+
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 600
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 400
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 2200
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 400
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 36600
+    }
+
+    aristocrats = {
+        culture = sara
+        religion = sunni
+        size = 1400
+    }
+
+    clergymen = {
+        culture = sara
+        religion = sunni
+        size = 800
+    }
+
+    artisans = {
+        culture = sara
+        religion = sunni
+        size = 3600
+    }
+
+    soldiers = {
+        culture = sara
+        religion = sunni
+        size = 800
+    }
+
+    farmers = {
+        culture = sara
+        religion = sunni
+        size = 46200
+    }
+
+    slaves = {
+        culture = fang
+        religion = sunni
+        size = 12000
+    }
+
+    slaves = {
+        culture = fang
+        religion = sunni
+        size = 12000
+    }
+}

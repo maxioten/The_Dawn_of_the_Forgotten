@@ -1,0 +1,372 @@
+#Dahomey Region (512000)
+#under the rule of Dahomey in 1836
+#Cotonou (544000/136000 POPS)
+1919 = {
+    aristocrats = {
+        culture = fon
+        religion = sunni
+        size = 3900
+    }
+
+    clergymen = {
+        culture = fon
+        religion = sunni
+        size = 2200
+    }
+
+    artisans = {
+        culture = fon
+        religion = sunni
+        size = 8200
+    }
+
+    soldiers = {
+        culture = fon
+        religion = sunni
+        size = 2000
+    }
+
+    farmers = {
+        culture = fon
+        religion = sunni
+        size = 119900
+    }
+
+    slaves = {
+        culture = fon
+        religion = sunni
+        size = 8000
+    }
+
+    aristocrats = {
+        culture = fon
+        religion = sunni
+        size = 1100
+    }
+
+    clergymen = {
+        culture = fon
+        religion = sunni
+        size = 600
+    }
+
+    artisans = {
+        culture = fon
+        religion = sunni
+        size = 3000
+    }
+
+    soldiers = {
+        culture = fon
+        religion = sunni
+        size = 600
+    }
+
+    farmers = {
+        culture = fon
+        religion = sunni
+        size = 54700
+    }
+
+    slaves = {
+        culture = fon
+        religion = sunni
+        size = 52000
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = sunni
+        size = 400
+    }
+
+    soldiers = {
+        culture = yoruba
+        religion = sunni
+        size = 100
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = sunni
+        size = 7200
+    }
+
+    slaves = {
+        culture = yoruba
+        religion = sunni
+        size = 8000
+    }
+}
+#Abomey (480000/120000 POPS)
+1920 = {
+    aristocrats = {
+        culture = fon
+        religion = sunni
+        size = 4200
+    }
+
+    bureaucrats = {
+        culture = fon
+        religion = sunni
+        size = 200
+    }
+
+    officers = {
+        culture = fon
+        religion = sunni
+        size = 400
+    }
+
+    clergymen = {
+        culture = fon
+        religion = sunni
+        size = 2200
+    }
+
+    artisans = {
+        culture = fon
+        religion = sunni
+        size = 8500
+    }
+
+    soldiers = {
+        culture = fon
+        religion = sunni
+        size = 6000
+    }
+
+    soldiers = {
+        culture = fon
+        religion = sunni
+        size = 200
+    }
+
+    farmers = {
+        culture = fon
+        religion = sunni
+        size = 166500
+    }
+
+    slaves = {
+        culture = fon
+        religion = sunni
+        size = 16000
+    }
+
+    aristocrats = {
+        culture = yoruba
+        religion = sunni
+        size = 200
+    }
+
+    clergymen = {
+        culture = yoruba
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = yoruba
+        religion = sunni
+        size = 800
+    }
+
+    soldiers = {
+        culture = yoruba
+        religion = sunni
+        size = 200
+    }
+
+    farmers = {
+        culture = yoruba
+        religion = sunni
+        size = 14600
+    }
+
+    slaves = {
+        culture = yoruba
+        religion = sunni
+        size = 4000
+    }
+
+    aristocrats = {
+        culture = fon
+        religion = sunni
+        size = 200
+    }
+
+    clergymen = {
+        culture = fon
+        religion = sunni
+        size = 300
+    }
+
+    artisans = {
+        culture = fon
+        religion = sunni
+        size = 600
+    }
+
+    soldiers = {
+        culture = fon
+        religion = sunni
+        size = 100
+    }
+
+    farmers = {
+        culture = fon
+        religion = sunni
+        size = 10800
+    }
+
+    slaves = {
+        culture = fon
+        religion = sunni
+        size = 4000
+    }
+}
+#Borgu Region (76000) #see Nigeria.txt for balance of region
+#ruled by Sokoto in 1836
+#Nikki (48000/12000 POPS)
+1921 = {
+    aristocrats = {
+        culture = fon
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = fon
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = fon
+        religion = sunni
+        size = 300
+    }
+
+    soldiers = {
+        culture = fon
+        religion = sunni
+        size = 200
+    }
+
+    farmers = {
+        culture = fon
+        religion = sunni
+        size = 5400
+    }
+
+    slaves = {
+        culture = yoruba
+        religion = sunni
+        size = 2200
+    }
+
+    aristocrats = {
+        culture = fon
+        religion = sunni
+        size = 350
+    }
+
+    clergymen = {
+        culture = fon
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = fon
+        religion = sunni
+        size = 750
+    }
+
+    soldiers = {
+        culture = fon
+        religion = sunni
+        size = 200
+    }
+
+    farmers = {
+        culture = fon
+        religion = sunni
+        size = 14500
+    }
+}
+#Jugu (28000/7000 POPS)
+1922 = {
+    aristocrats = {
+        culture = fon
+        religion = sunni
+        size = 200
+    }
+
+    clergymen = {
+        culture = fon
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = fon
+        religion = sunni
+        size = 500
+    }
+
+    soldiers = {
+        culture = fon
+        religion = sunni
+        size = 200
+    }
+
+    farmers = {
+        culture = fon
+        religion = sunni
+        size = 9150
+    }
+
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 200
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 200
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 200
+    }
+
+    farmers = {
+        culture = fulbe
+        religion = sunni
+        size = 3600
+    }
+}

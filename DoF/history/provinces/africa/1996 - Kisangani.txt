@@ -1,0 +1,6 @@
+owner = CKV
+controller = CKV
+add_core = CKV
+trade_goods = tropical_wood
+life_rating = 40
+

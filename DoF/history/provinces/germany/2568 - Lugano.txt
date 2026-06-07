@@ -1,0 +1,7 @@
+owner = CKV
+controller = CKV
+add_core = CKV
+trade_goods = wool
+life_rating = 32
+
+

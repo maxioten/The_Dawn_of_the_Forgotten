@@ -1,0 +1,5 @@
+owner = FAN
+controller = FAN
+add_core = FAN
+trade_goods = grain
+life_rating = 35

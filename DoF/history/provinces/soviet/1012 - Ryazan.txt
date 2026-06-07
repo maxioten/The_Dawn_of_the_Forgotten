@@ -1,0 +1,3 @@
+add_core = SAX
+trade_goods = timber
+life_rating = 20

@@ -1,0 +1,833 @@
+#Senegambia.txt includes modern Senegal and Gambia
+#Senegambia Region (444000)
+#uncolonized in 1836/ruled by Damel of Wolof
+#Dakar (8000/2000 POPS)
+1783 = {
+    aristocrats = {
+        culture = wolof
+        religion = sunni
+        size = 100
+    }
+
+    officers = {
+        culture = wolof
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = wolof
+        religion = sunni
+        size = 11100
+    }
+
+    clergymen = {
+        culture = wolof
+        religion = sunni
+        size = 1100
+    }
+
+    soldiers = {
+        culture = wolof
+        religion = sunni
+        size = 1100
+    }
+
+    farmers = {
+        culture = wolof
+        religion = sunni
+        size = 37800
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 5100
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 1100
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 1100
+    }
+
+}
+#Linguere (216000/54000 POPS)
+1786 = {
+    aristocrats = {
+        culture = wolof
+        religion = sunni
+        size = 950
+    }
+
+    clergymen = {
+        culture = wolof
+        religion = sunni
+        size = 225
+    }
+
+    artisans = {
+        culture = wolof
+        religion = sunni
+        size = 1075
+    }
+
+    soldiers = {
+        culture = wolof
+        religion = sunni
+        size = 750
+    }
+
+    farmers = {
+        culture = wolof
+        religion = sunni
+        size = 68500
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 550
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 1225
+    }
+
+    artisans = {
+        culture = wolof
+        religion = sunni
+        size = 11075
+    }
+
+    soldiers = {
+        culture = wolof
+        religion = sunni
+        size = 3750
+    }
+
+    farmers = {
+        culture = wolof
+        religion = sunni
+        size = 15500
+    }
+
+    slaves = {
+        culture = cushitic
+        religion = sunni
+        size = 8000
+    }
+}
+#Diourbel (88000/22000 POPS)
+1787 = {
+    aristocrats = {
+        culture = wolof
+        religion = sunni
+        size = 800
+    }
+
+    clergymen = {
+        culture = wolof
+        religion = sunni
+        size = 600
+    }
+
+    artisans = {
+        culture = wolof
+        religion = sunni
+        size = 5900
+    }
+
+    soldiers = {
+        culture = wolof
+        religion = sunni
+        size = 1250
+    }
+
+    farmers = {
+        culture = wolof
+        religion = sunni
+        size = 26250
+    }
+
+    slaves = {
+        culture = tuareg
+        religion = sunni
+        size = 4000
+    }
+}
+#Kaolack (160000/40000 POPS) #kingdom of the Sereer
+1788 = {
+    aristocrats = {
+        culture = wolof
+        religion = sunni
+        size = 900
+    }
+
+    clergymen = {
+        culture = wolof
+        religion = sunni
+        size = 1000
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 1000
+    }
+
+    soldiers = {
+        culture = wolof
+        religion = sunni
+        size = 2000
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 1000
+    }
+
+    slaves = {
+        culture = tuareg
+        religion = sunni
+        size = 8000
+    }
+
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 250
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 650
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 100
+    }
+
+    farmers = {
+        culture = wolof
+        religion = sunni
+        size = 65400
+    }
+}
+#Mboul (144000/36000 POPS)
+2573 = {
+    aristocrats = {
+        culture = wolof
+        religion = sunni
+        size = 950
+    }
+
+    bureaucrats = {
+        culture = wolof
+        religion = sunni
+        size = 500
+    }
+
+    officers = {
+        culture = wolof
+        religion = sunni
+        size = 1000
+    }
+
+    clergymen = {
+        culture = wolof
+        religion = sunni
+        size = 3500
+    }
+
+    farmers = {
+        culture = wolof
+        religion = sunni
+        size = 1500
+    }
+
+    soldiers = {
+        culture = wolof
+        religion = sunni
+        size = 3400
+    }
+
+    farmers = {
+        culture = wolof
+        religion = sunni
+        size = 71300
+    }
+
+    slaves = {
+        culture = tuareg
+        religion = sunni
+        size = 7000
+    }
+}
+#uncolonized/sephardic have trade post in 1836
+#Saint-Louis (24000/6000 POPS)
+1784 = {
+    aristocrats = {
+        culture = wolof
+        religion = sunni
+        size = 500
+    }
+
+    artisans = {
+        culture = wolof
+        religion = sunni
+        size = 1500
+    }
+
+    soldiers = {
+        culture = wolof
+        religion = sunni
+        size = 100
+    }
+
+    farmers = {
+        culture = wolof
+        religion = sunni
+        size = 23700
+    }
+
+    slaves = {
+        culture = tuareg
+        religion = sunni
+        size = 1100
+    }
+
+    aristocrats = {
+        culture = wolof
+        religion = sunni
+        size = 150
+    }
+
+    clergymen = {
+        culture = wolof
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = wolof
+        religion = sunni
+        size = 150
+    }
+
+    soldiers = {
+        culture = wolof
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = wolof
+        religion = sunni
+        size = 1000
+    }
+
+    farmers = {
+        culture = wolof
+        religion = sunni
+        size = 7000
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 1000
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 1000
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 9500
+    }
+}
+#uncolonized/British have trade post in 1836
+#Banjul (108000/27000 POPS) #now part of Gambia
+1785 = {
+    aristocrats = {
+        culture = mande
+        religion = sunni
+        size = 1100
+    }
+
+    officers = {
+        culture = mande
+        religion = sunni
+        size = 1000
+    }
+
+    clergymen = {
+        culture = mande
+        religion = sunni
+        size = 1000
+    }
+
+    artisans = {
+        culture = mande
+        religion = sunni
+        size = 5000
+    }
+
+    soldiers = {
+        culture = mande
+        religion = sunni
+        size = 2000
+    }
+
+    farmers = {
+        culture = mande
+        religion = sunni
+        size = 32446
+    }
+
+    aristocrats = {
+        culture = wolof
+        religion = sunni
+        size = 900
+    }
+
+    officers = {
+        culture = wolof
+        religion = sunni
+        size = 1000
+    }
+
+    clergymen = {
+        culture = wolof
+        religion = sunni
+        size = 800
+    }
+
+    artisans = {
+        culture = wolof
+        religion = sunni
+        size = 1500
+    }
+
+    soldiers = {
+        culture = wolof
+        religion = sunni
+        size = 2200
+    }
+
+    farmers = {
+        culture = wolof
+        religion = sunni
+        size = 34000
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 100
+    }
+
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 100
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 5000
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 200
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 3834
+    }
+
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 800
+    }
+
+    officers = {
+        culture = mande
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = mande
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = mande
+        religion = sunni
+        size = 1100
+    }
+
+    soldiers = {
+        culture = bambara
+        religion = sunni
+        size = 1100
+    }
+
+    farmers = {
+        culture = songhai
+        religion = sunni
+        size = 1850
+    }
+
+    aristocrats = {
+        culture = mande
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = mande
+        religion = protestant
+        size = 1500
+    }
+
+    soldiers = {
+        culture = wolof
+        religion = protestant
+        size = 1200
+    }
+
+    farmers = {
+        culture = wolof
+        religion = protestant
+        size = 9549
+    }
+}
+#Futa Region (328000)
+#uncolonized in 1836/ruled by Emir of Tukulor
+#Podor (348000/87000 POPS)
+1789 = {
+    aristocrats = {
+        culture = wolof
+        religion = sunni
+        size = 1650
+    }
+
+    bureaucrats = {
+        culture = wolof
+        religion = sunni
+        size = 715
+    }
+
+    officers = {
+        culture = wolof
+        religion = sunni
+        size = 1150
+    }
+
+    clergymen = {
+        culture = wolof
+        religion = sunni
+        size = 1900
+    }
+
+    artisans = {
+        culture = wolof
+        religion = sunni
+        size = 13525
+    }
+
+    soldiers = {
+        culture = wolof
+        religion = sunni
+        size = 3700
+    }
+
+    farmers = {
+        culture = wolof
+        religion = sunni
+        size = 84000
+    }
+
+    slaves = {
+        culture = tuareg
+        religion = sunni
+        size = 12000
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 1100
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 1100
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 1100
+    }
+
+    soldiers = {
+		culture = sephardic
+        religion = jewish
+        size = 1700
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 7000
+    }
+}
+#Matam (216000/54000 POPS)
+1790 = {
+    aristocrats = {
+        culture = wolof
+        religion = sunni
+        size = 975
+    }
+
+    clergymen = {
+        culture = wolof
+        religion = sunni
+        size = 525
+    }
+
+    artisans = {
+        culture = wolof
+        religion = sunni
+        size = 12175
+    }
+
+    soldiers = {
+        culture = wolof
+        religion = sunni
+        size = 1325
+    }
+
+    farmers = {
+        culture = wolof
+        religion = sunni
+        size = 64000
+    }
+
+    slaves = {
+        culture = tuareg
+        religion = sunni
+        size = 35000
+    }
+}
+#Bakel (140000/35000 POPS)
+1791 = {
+    aristocrats = {
+        culture = wolof
+        religion = sunni
+        size = 875
+    }
+
+    clergymen = {
+        culture = wolof
+        religion = sunni
+        size = 700
+    }
+
+    artisans = {
+        culture = wolof
+        religion = sunni
+        size = 1175
+    }
+
+    soldiers = {
+        culture = wolof
+        religion = sunni
+        size = 1300
+    }
+
+    farmers = {
+        culture = wolof
+        religion = sunni
+        size = 38650
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 100
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 5300
+    }
+
+    soldiers = {
+        culture = wolof
+        religion = sunni
+        size = 100
+    }
+
+    farmers = {
+        culture = wolof
+        religion = sunni
+        size = 42575
+    }
+
+    slaves = {
+        culture = tuareg
+        religion = sunni
+        size = 6000
+    }
+}
+#Casamance Region (224000) #see Guinea Bissau.txt and Guinea.txt for balance of Region
+#under the rule of Gabu in 1836
+#Ziguinchour (240000/60000 POPS)
+1792 = {
+    aristocrats = {
+        culture = wolof
+        religion = sunni
+        size = 4150
+    }
+
+    clergymen = {
+        culture = wolof
+        religion = sunni
+        size = 1100
+    }
+
+    artisans = {
+        culture = wolof
+        religion = sunni
+        size = 8500
+    }
+
+    soldiers = {
+        culture = wolof
+        religion = sunni
+        size = 1100
+    }
+
+    farmers = {
+        culture = wolof
+        religion = sunni
+        size = 61625
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 800
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 100
+    }
+
+    artisans = {
+        culture = wolof
+        religion = sunni
+        size = 500
+    }
+
+    soldiers = {
+        culture = wolof
+        religion = sunni
+        size = 1300
+    }
+
+    farmers = {
+        culture = wolof
+        religion = sunni
+        size = 60000
+    }
+
+    slaves = {
+        culture = tuareg
+        religion = sunni
+        size = 9475
+    }
+}
+#Velingara (104000/26000 POPS
+1793 = {
+    aristocrats = {
+        culture = wolof
+        religion = sunni
+        size = 1500
+    }
+
+    clergymen = {
+        culture = wolof
+        religion = sunni
+        size = 850
+    }
+
+    artisans = {
+        culture = wolof
+        religion = sunni
+        size = 1050
+    }
+
+    soldiers = {
+        culture = wolof
+        religion = sunni
+        size = 1275
+    }
+
+    farmers = {
+        culture = wolof
+        religion = sunni
+        size = 39925
+    }
+
+    slaves = {
+        culture = tuareg
+        religion = sunni
+        size = 4000
+    }
+
+}

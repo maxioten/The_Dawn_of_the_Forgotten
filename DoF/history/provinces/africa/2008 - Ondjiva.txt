@@ -1,0 +1,7 @@
+owner = HUA
+controller = HUA
+add_core = HUA
+terrain = savanna
+trade_goods = fruit
+life_rating = 35
+

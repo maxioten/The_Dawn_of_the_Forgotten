@@ -1,0 +1,12 @@
+owner = MOR
+controller = MOR
+
+trade_goods = fish
+life_rating = 40
+naval_base = 1
+1861.1.1 = {
+    railroad = 3
+    naval_base = 3
+}
+
+add_core = MOR

@@ -1,0 +1,6 @@
+owner = KUB
+controller = KUB
+add_core = KUB
+add_core = LBA
+trade_goods = cattle
+life_rating = 35

@@ -1,0 +1,7 @@
+owner = KBO
+controller = KBO
+add_core = KBO
+trade_goods = precious_goods
+terrain = semidesert
+life_rating = 35
+

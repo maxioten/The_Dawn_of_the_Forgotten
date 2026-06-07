@@ -1,0 +1,969 @@
+#Uruguay Region (200000)
+#Under rule of Uruguay 1836
+#Montevideo (112000/28000 POPS)
+2344 = {
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 9
+        militancy = 9
+    }
+
+    bureaucrats = {
+        culture = boer
+        religion = protestant
+        size = 30
+        militancy = 9
+    }
+
+    officers = {
+        culture = boer
+        religion = protestant
+        size = 15
+        militancy = 9
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 296
+        militancy = 9
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 1512
+        militancy = 9
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 5474
+        militancy = 9
+    }
+
+    clergymen = {
+        culture = brazilian
+        religion = catholic
+        size = 27
+    }
+
+    artisans = {
+        culture = brazilian
+        religion = catholic
+        size = 137
+        militancy = 9
+    }
+
+    soldiers = {
+        culture = brazilian
+        religion = catholic
+        size = 275
+        militancy = 9
+    }
+
+    farmers = {
+        culture = brazilian
+        religion = catholic
+        size = 1732
+        militancy = 9
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 1925
+        militancy = 9
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 8
+        militancy = 9
+    }
+
+    bureaucrats = {
+        culture = boer
+        religion = protestant
+        size = 30
+        militancy = 9
+    }
+
+    officers = {
+        culture = boer
+        religion = protestant
+        size = 15
+        militancy = 9
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 74
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 291
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 1485
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 5374
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 15
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 74
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 148
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 936
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 1039
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 156
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 27
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 13
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 68
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 267
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 1361
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 4925
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 154
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 26
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 13
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 67
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 261
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 1336
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 4836
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 13
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 67
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 134
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 841
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 936
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
+
+    aristocrats = {
+        culture = brazilian
+        religion = sunni
+        size = 165
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
+
+    aristocrats = {
+        culture = brazilian
+        religion = sunni
+        size = 162
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
+}
+#Paysandu (36000/9000 POPS)
+2345 = {
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = boer
+        religion = protestant
+        size = 3
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 15
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 30
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 30
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 544
+    }
+
+    artisans = {
+        culture = brazilian
+        religion = catholic
+        size = 55
+    }
+
+    soldiers = {
+        culture = brazilian
+        religion = catholic
+        size = 55
+    }
+
+    farmers = {
+        culture = brazilian
+        religion = catholic
+        size = 462
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = boer
+        religion = protestant
+        size = 3
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 15
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 30
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 30
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 535
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 30
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 30
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 249
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 6
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 2
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 13
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 27
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 27
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 490
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 6
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 3
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 13
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 26
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 26
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 480
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 26
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 26
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 224
+    }
+
+    aristocrats = {
+        culture = brazilian
+        religion = sunni
+        size = 8
+    }
+
+    aristocrats = {
+        culture = brazilian
+        religion = sunni
+        size = 7
+    }
+}
+#Tacumba (12000/3000 POPS)
+2346 = {
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 3
+    }
+
+    bureaucrats = {
+        culture = boer
+        religion = protestant
+        size = 6
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 23
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 136
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 302
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 454
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 2201
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 3
+    }
+
+    bureaucrats = {
+        culture = boer
+        religion = protestant
+        size = 5
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 22
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 134
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 297
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 445
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 2160
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 55
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 5
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 19
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 122
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 272
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 408
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 1980
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 53
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 5
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 19
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 119
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 267
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 401
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 1944
+    }
+
+    aristocrats = {
+        culture = brazilian
+        religion = sunni
+        size = 57
+    }
+
+    aristocrats = {
+        culture = brazilian
+        religion = sunni
+        size = 56
+    }
+}
+#Melo (40000/10000 POPS)
+2347 = {
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 2
+    }
+
+    bureaucrats = {
+        culture = boer
+        religion = protestant
+        size = 3
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 15
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 106
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 121
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 1648
+    }
+
+    clergymen = {
+        culture = brazilian
+        religion = catholic
+        size = 27
+    }
+
+    artisans = {
+        culture = brazilian
+        religion = catholic
+        size = 82
+    }
+
+    soldiers = {
+        culture = brazilian
+        religion = catholic
+        size = 55
+    }
+
+    farmers = {
+        culture = brazilian
+        religion = catholic
+        size = 1526
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 2
+    }
+
+    bureaucrats = {
+        culture = boer
+        religion = protestant
+        size = 3
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 15
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 104
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 119
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 1619
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 15
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 45
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 30
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 824
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 40
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 2
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 13
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 94
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 108
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 1483
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 39
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 3
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 13
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 93
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 106
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 1456
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 13
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 39
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 26
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 741
+    }
+
+    aristocrats = {
+        culture = brazilian
+        religion = sunni
+        size = 43
+    }
+
+    aristocrats = {
+        culture = brazilian
+        religion = sunni
+        size = 43
+    }
+}

@@ -1,0 +1,4 @@
+add_core = SAX
+trade_goods = cattle
+life_rating = 20
+

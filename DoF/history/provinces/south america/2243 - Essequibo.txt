@@ -1,0 +1,7 @@
+owner = GCO
+controller = GCO
+add_core = GCO
+add_core = GUY
+trade_goods = fruit
+terrain = jungle
+life_rating = 35

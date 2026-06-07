@@ -1,0 +1,12 @@
+owner = GAZ
+controller = GAZ
+add_core = GAZ
+
+
+trade_goods = cattle
+life_rating = 35
+state_building = {
+    level = 1
+    building = ammunition_factory
+    upgrade = yes
+}

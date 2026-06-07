@@ -1,0 +1,6 @@
+owner = NEW
+controller = NEW
+add_core = NEW
+add_core = NEN
+trade_goods = tobacco
+life_rating = 35

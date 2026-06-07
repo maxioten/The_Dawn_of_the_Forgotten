@@ -1,0 +1,6 @@
+owner = HUA
+controller = HUA
+add_core = HUA
+trade_goods = coal
+life_rating = 35
+terrain = mining_district

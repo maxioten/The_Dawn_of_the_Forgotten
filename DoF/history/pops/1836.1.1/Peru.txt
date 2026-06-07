@@ -1,0 +1,2595 @@
+#http://pages.uoregon.edu/caguirre/Ramirez_Agentes.pdf
+#41,000 registered slaves in 1821, that means 10250 slave pops.
+#Loreto Region (96000)
+#Ruled by Peru 1836
+#Iquitos (60000/15000 POPS)
+2286 = {
+    aristocrats = {
+        culture = north_andean
+        religion = sunni
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = north_andean
+        religion = sunni
+        size = 4
+    }
+
+    officers = {
+        culture = north_andean
+        religion = sunni
+        size = 4
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = sunni
+        size = 151
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = sunni
+        size = 100
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = sunni
+        size = 2594
+    }
+
+    aristocrats = {
+        culture = quechua
+        religion = sunni
+        size = 140
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = sunni
+        size = 140
+    }
+
+    artisans = {
+        culture = quechua
+        religion = sunni
+        size = 140
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = sunni
+        size = 140
+    }
+
+    farmers = {
+        culture = quechua
+        religion = sunni
+        size = 980
+    }
+
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 245
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 140
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 700
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 140
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 12775
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 26
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 2
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 2
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 26
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 39
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 26
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 687
+    }
+
+    aristocrats = {
+        culture = north_andean
+        religion = sunni
+        size = 18
+    }
+
+    bureaucrats = {
+        culture = north_andean
+        religion = sunni
+        size = 0
+    }
+
+    officers = {
+        culture = north_andean
+        religion = sunni
+        size = 0
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = sunni
+        size = 18
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = sunni
+        size = 26
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = sunni
+        size = 18
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = sunni
+        size = 457
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 10
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 0
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 0
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 10
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 14
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 10
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 242
+    }
+}
+#"Ruled" by Ecuador 1836
+#Yurimagues (12000/3000 POPS)
+2287 = {
+    aristocrats = {
+        culture = quechua
+        religion = animist
+        size = 70
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = animist
+        size = 105
+    }
+
+    artisans = {
+        culture = quechua
+        religion = animist
+        size = 210
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = animist
+        size = 35
+    }
+
+    farmers = {
+        culture = quechua
+        religion = animist
+        size = 3780
+    }
+}
+#Yuncos (12000/3000 POPS)
+2288 = {
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 70
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 245
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 3885
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = sunni
+        size = 4
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = sunni
+        size = 4
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = sunni
+        size = 4
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = sunni
+        size = 20
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 2
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 2
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 2
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 5
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = sunni
+        size = 0
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = sunni
+        size = 0
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = sunni
+        size = 0
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = sunni
+        size = 3
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 0
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 0
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 0
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 2
+    }
+}
+#Puca Urco (12000/3000 POPS)
+2289 = {
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 70
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 35
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 4095
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = sunni
+        size = 4
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = sunni
+        size = 4
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = sunni
+        size = 4
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = sunni
+        size = 20
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 2
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 2
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 2
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 5
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = sunni
+        size = 0
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = sunni
+        size = 0
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = sunni
+        size = 0
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = sunni
+        size = 3
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 0
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 0
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 0
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 2
+    }
+}
+#Cajamarca Region (296000)
+#Ruled by Peru 1836
+#Cajamarca (144000/38000 POPS)
+2290 = {
+    aristocrats = {
+        culture = north_andean
+        religion = sunni
+        size = 809
+    }
+
+    bureaucrats = {
+        culture = north_andean
+        religion = sunni
+        size = 100
+    }
+
+    officers = {
+        culture = north_andean
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = sunni
+        size = 252
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = sunni
+        size = 606
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = sunni
+        size = 1137
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = sunni
+        size = 14211
+    }
+
+    aristocrats = {
+        culture = quechua
+        religion = sunni
+        size = 175
+    }
+
+    officers = {
+        culture = quechua
+        religion = sunni
+        size = 140
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = sunni
+        size = 175
+    }
+
+    artisans = {
+        culture = quechua
+        religion = sunni
+        size = 1820
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = sunni
+        size = 350
+    }
+
+    farmers = {
+        culture = quechua
+        religion = sunni
+        size = 27055
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 214
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 26
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 26
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 66
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 161
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 301
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 3761
+    }
+
+    aristocrats = {
+        culture = north_andean
+        religion = sunni
+        size = 142
+    }
+
+    bureaucrats = {
+        culture = north_andean
+        religion = sunni
+        size = 18
+    }
+
+    officers = {
+        culture = north_andean
+        religion = sunni
+        size = 18
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = sunni
+        size = 44
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = sunni
+        size = 107
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = sunni
+        size = 200
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = sunni
+        size = 2508
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 76
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 10
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 10
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 24
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 56
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 106
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 1328
+    }
+}
+#Piura (60000/15000 POPS)
+2291 = {
+    aristocrats = {
+        culture = north_andean
+        religion = sunni
+        size = 328
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = sunni
+        size = 151
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = sunni
+        size = 100
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = sunni
+        size = 2351
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = sunni
+        size = 140
+    }
+
+    artisans = {
+        culture = quechua
+        religion = sunni
+        size = 700
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = sunni
+        size = 140
+    }
+
+    farmers = {
+        culture = quechua
+        religion = sunni
+        size = 13300
+    }
+
+    clergymen = {
+        culture = afro_caribeno
+        religion = sunni
+        size = 140
+    }
+
+    artisans = {
+        culture = afro_caribeno
+        religion = sunni
+        size = 140
+    }
+
+    soldiers = {
+        culture = afro_caribeno
+        religion = sunni
+        size = 140
+    }
+
+    farmers = {
+        culture = afro_caribeno
+        religion = sunni
+        size = 1400
+    }
+
+    slaves = {
+        culture = afro_caribeno
+        religion = sunni
+        size = 1400
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 87
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 26
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 39
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 26
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 622
+    }
+
+    aristocrats = {
+        culture = north_andean
+        religion = sunni
+        size = 58
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = sunni
+        size = 18
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = sunni
+        size = 26
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = sunni
+        size = 18
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = sunni
+        size = 415
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 30
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 10
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 14
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 10
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 220
+    }
+}
+#Trujillo (68000/17000 POPS)
+2292 = {
+    aristocrats = {
+        culture = north_andean
+        religion = sunni
+        size = 378
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = sunni
+        size = 126
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = sunni
+        size = 303
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = sunni
+        size = 100
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = sunni
+        size = 5107
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = sunni
+        size = 140
+    }
+
+    artisans = {
+        culture = quechua
+        religion = sunni
+        size = 630
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = sunni
+        size = 140
+    }
+
+    farmers = {
+        culture = quechua
+        religion = sunni
+        size = 11690
+    }
+
+    clergymen = {
+        culture = afro_caribeno
+        religion = sunni
+        size = 140
+    }
+
+    artisans = {
+        culture = afro_caribeno
+        religion = sunni
+        size = 140
+    }
+
+    soldiers = {
+        culture = afro_caribeno
+        religion = sunni
+        size = 140
+    }
+
+    farmers = {
+        culture = afro_caribeno
+        religion = sunni
+        size = 1540
+    }
+
+    slaves = {
+        culture = afro_caribeno
+        religion = sunni
+        size = 840
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 100
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 33
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 80
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 26
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 1351
+    }
+
+    aristocrats = {
+        culture = north_andean
+        religion = sunni
+        size = 67
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = sunni
+        size = 22
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = sunni
+        size = 53
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = sunni
+        size = 18
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = sunni
+        size = 901
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 36
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 12
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 28
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 10
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 478
+    }
+}
+#Moyobamba (24000/6000 POPS)
+2294 = {
+    aristocrats = {
+        culture = north_andean
+        religion = sunni
+        size = 50
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = sunni
+        size = 100
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = sunni
+        size = 100
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = sunni
+        size = 1668
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = sunni
+        size = 140
+    }
+
+    artisans = {
+        culture = quechua
+        religion = sunni
+        size = 140
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = sunni
+        size = 140
+    }
+
+    farmers = {
+        culture = quechua
+        religion = sunni
+        size = 1281
+    }
+
+    artisans = {
+        culture = quechua
+        religion = animist
+        size = 210
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = animist
+        size = 350
+    }
+
+    farmers = {
+        culture = quechua
+        religion = animist
+        size = 3780
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 13
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 26
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 26
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 26
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 441
+    }
+
+    aristocrats = {
+        culture = north_andean
+        religion = sunni
+        size = 9
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = sunni
+        size = 18
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = sunni
+        size = 18
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = sunni
+        size = 18
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = sunni
+        size = 294
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 4
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 10
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 10
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 10
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 156
+    }
+}
+#Junin Region (204000)
+#Ruled by Peru 1836
+#Huanuco (36000/9000 POPS)
+2293 = {
+    aristocrats = {
+        culture = north_andean
+        religion = sunni
+        size = 202
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = sunni
+        size = 100
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = sunni
+        size = 100
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = sunni
+        size = 1516
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = sunni
+        size = 140
+    }
+
+    artisans = {
+        culture = quechua
+        religion = sunni
+        size = 490
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = sunni
+        size = 210
+    }
+
+    farmers = {
+        culture = quechua
+        religion = sunni
+        size = 22960
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 54
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 26
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 26
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 26
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 401
+    }
+
+    aristocrats = {
+        culture = north_andean
+        religion = sunni
+        size = 35
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = sunni
+        size = 18
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = sunni
+        size = 18
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = sunni
+        size = 18
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = sunni
+        size = 268
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 18
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 10
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 10
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 10
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 142
+    }
+}
+#Jauja (60000/15000 POPS)
+2296 = {
+    aristocrats = {
+        culture = north_andean
+        religion = sunni
+        size = 328
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = sunni
+        size = 100
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = sunni
+        size = 126
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = sunni
+        size = 1365
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = sunni
+        size = 140
+    }
+
+    artisans = {
+        culture = quechua
+        religion = sunni
+        size = 910
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = sunni
+        size = 175
+    }
+
+    farmers = {
+        culture = quechua
+        religion = sunni
+        size = 16975
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 87
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 26
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 26
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 33
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 360
+    }
+
+    aristocrats = {
+        culture = north_andean
+        religion = sunni
+        size = 58
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = sunni
+        size = 18
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = sunni
+        size = 18
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = sunni
+        size = 22
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = sunni
+        size = 240
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 30
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 10
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 10
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 12
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 128
+    }
+}
+#Ayacucho (108000/27000 POPS)
+2299 = {
+    aristocrats = {
+        culture = aimara
+        religion = animist
+        size = 575
+    }
+
+    bureaucrats = {
+        culture = aimara
+        religion = animist
+        size = 75
+    }
+
+    officers = {
+        culture = aimara
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = aimara
+        religion = animist
+        size = 175
+    }
+
+    artisans = {
+        culture = aimara
+        religion = animist
+        size = 200
+    }
+
+    soldiers = {
+        culture = aimara
+        religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = aimara
+        religion = animist
+        size = 2825
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = animist
+        size = 150
+    }
+
+    artisans = {
+        culture = quechua
+        religion = animist
+        size = 1725
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = animist
+        size = 337
+    }
+
+    farmers = {
+        culture = quechua
+        religion = animist
+        size = 32287
+    }
+}
+#Lima Region (484000)
+#Ruled by Peru 1836
+#Lima (324000/81000 POPS)
+2295 = {
+    aristocrats = {
+        culture = north_andean
+        religion = sunni
+        size = 1694
+    }
+
+    bureaucrats = {
+        culture = north_andean
+        religion = sunni
+        size = 202
+    }
+
+    officers = {
+        culture = north_andean
+        religion = sunni
+        size = 151
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = sunni
+        size = 505
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = sunni
+        size = 10115
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = sunni
+        size = 2427
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = sunni
+        size = 3034
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = sunni
+        size = 2023
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = sunni
+        size = 41547
+    }
+
+    aristocrats = {
+        culture = quechua
+        religion = sunni
+        size = 280
+    }
+
+    officers = {
+        culture = quechua
+        religion = sunni
+        size = 140
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = sunni
+        size = 140
+    }
+
+    artisans = {
+        culture = quechua
+        religion = sunni
+        size = 1120
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = sunni
+        size = 210
+    }
+
+    farmers = {
+        culture = quechua
+        religion = sunni
+        size = 20930
+    }
+
+    clergymen = {
+        culture = afro_caribeno
+        religion = sunni
+        size = 140
+    }
+
+    artisans = {
+        culture = afro_caribeno
+        religion = sunni
+        size = 2800
+    }
+
+    soldiers = {
+        culture = afro_caribeno
+        religion = sunni
+        size = 140
+    }
+
+    farmers = {
+        culture = afro_caribeno
+        religion = sunni
+        size = 1960
+    }
+
+    slaves = {
+        culture = afro_caribeno
+        religion = sunni
+        size = 2100
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 448
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 54
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 39
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 133
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 2677
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 643
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 803
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 535
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 10997
+    }
+
+    aristocrats = {
+        culture = north_andean
+        religion = sunni
+        size = 298
+    }
+
+    bureaucrats = {
+        culture = north_andean
+        religion = sunni
+        size = 35
+    }
+
+    officers = {
+        culture = north_andean
+        religion = sunni
+        size = 26
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = sunni
+        size = 89
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = sunni
+        size = 1785
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = sunni
+        size = 428
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = sunni
+        size = 535
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = sunni
+        size = 357
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = sunni
+        size = 7331
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 158
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 18
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 14
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 48
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 946
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 226
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 284
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 190
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 3882
+    }
+}
+#Ica (60000/15000 POPS)
+2297 = {
+    aristocrats = {
+        culture = aimara
+        religion = animist
+        size = 325
+    }
+
+    clergymen = {
+        culture = aimara
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = aimara
+        religion = animist
+        size = 200
+    }
+
+    soldiers = {
+        culture = aimara
+        religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = aimara
+        religion = animist
+        size = 3250
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = animist
+        size = 150
+    }
+
+    artisans = {
+        culture = quechua
+        religion = animist
+        size = 750
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = animist
+        size = 150
+    }
+
+    farmers = {
+        culture = quechua
+        religion = animist
+        size = 15000
+    }
+
+    clergymen = {
+        culture = afro_caribeno
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = afro_caribeno
+        religion = animist
+        size = 100
+    }
+
+    soldiers = {
+        culture = afro_caribeno
+        religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = afro_caribeno
+        religion = animist
+        size = 300
+    }
+}
+#Huaraz (100000/25000 POPS)
+2298 = {
+    aristocrats = {
+        culture = north_andean
+        religion = sunni
+        size = 530
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = sunni
+        size = 151
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = sunni
+        size = 303
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = sunni
+        size = 100
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = sunni
+        size = 4981
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = sunni
+        size = 140
+    }
+
+    artisans = {
+        culture = quechua
+        religion = sunni
+        size = 1190
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = sunni
+        size = 210
+    }
+
+    farmers = {
+        culture = quechua
+        religion = sunni
+        size = 22260
+    }
+
+    clergymen = {
+        culture = afro_caribeno
+        religion = sunni
+        size = 140
+    }
+
+    artisans = {
+        culture = afro_caribeno
+        religion = sunni
+        size = 140
+    }
+
+    soldiers = {
+        culture = afro_caribeno
+        religion = sunni
+        size = 140
+    }
+
+    farmers = {
+        culture = afro_caribeno
+        religion = sunni
+        size = 1540
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 140
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 39
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 80
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 26
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 1318
+    }
+
+    aristocrats = {
+        culture = north_andean
+        religion = sunni
+        size = 93
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = sunni
+        size = 26
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = sunni
+        size = 53
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = sunni
+        size = 18
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = sunni
+        size = 879
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 14
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 28
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 10
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 466
+    }
+}
+#Ucayali Region (32000)
+#Ruled by Peru 1836
+#Pucallpa (20000/5000 POPS)
+2300 = {
+    aristocrats = {
+        culture = north_andean
+        religion = sunni
+        size = 14
+    }
+
+    bureaucrats = {
+        culture = north_andean
+        religion = sunni
+        size = 1
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = sunni
+        size = 25
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = sunni
+        size = 50
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = sunni
+        size = 9
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = sunni
+        size = 910
+    }
+
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 140
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 420
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 22715
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 3
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 0
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 7
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 13
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 2
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 241
+    }
+
+    aristocrats = {
+        culture = north_andean
+        religion = sunni
+        size = 2
+    }
+
+    bureaucrats = {
+        culture = north_andean
+        religion = sunni
+        size = 0
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = sunni
+        size = 4
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = sunni
+        size = 9
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = sunni
+        size = 2
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = sunni
+        size = 161
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 2
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 0
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 2
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 4
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 0
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 84
+    }
+}
+#Puerto Maldonado (12000/3000 POPS)
+2301 = {
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 150
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 25
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 2700
+    }
+}
+#Cusco Region (404000)
+#Ruled by Peru 1836
+#Cusco (228000/57000 POPS)
+2302 = {
+    aristocrats = {
+        culture = aimara
+        religion = animist
+        size = 1150
+    }
+
+    bureaucrats = {
+        culture = aimara
+        religion = animist
+        size = 25
+    }
+
+    officers = {
+        culture = aimara
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = aimara
+        religion = animist
+        size = 375
+    }
+
+    artisans = {
+        culture = aimara
+        religion = animist
+        size = 750
+    }
+
+    soldiers = {
+        culture = aimara
+        religion = animist
+        size = 1100
+    }
+
+    farmers = {
+        culture = aimara
+        religion = animist
+        size = 11625
+    }
+
+    aristocrats = {
+        culture = quechua
+        religion = animist
+        size = 300
+    }
+
+    officers = {
+        culture = quechua
+        religion = animist
+        size = 150
+    }
+
+    bureaucrats = {
+        culture = quechua
+        religion = animist
+        size = 150
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = animist
+        size = 300
+    }
+
+    artisans = {
+        culture = quechua
+        religion = animist
+        size = 3150
+    }
+
+    farmers = {
+        culture = quechua
+        religion = animist
+        size = 51412
+    }
+
+    farmers = {
+        culture = quechua
+        religion = animist
+        size = 7500
+    }
+}
+#Puno (104000/26000 POPS)
+2303 = {
+    aristocrats = {
+        culture = aimara
+        religion = animist
+        size = 575
+    }
+
+    clergymen = {
+        culture = aimara
+        religion = animist
+        size = 150
+    }
+
+    artisans = {
+        culture = aimara
+        religion = animist
+        size = 150
+    }
+
+    soldiers = {
+        culture = aimara
+        religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = aimara
+        religion = animist
+        size = 2025
+    }
+
+    clergymen = {
+        culture = aimara
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = aimara
+        religion = animist
+        size = 1150
+    }
+
+    soldiers = {
+        culture = aimara
+        religion = animist
+        size = 250
+    }
+
+    farmers = {
+        culture = aimara
+        religion = animist
+        size = 21500
+    }
+}
+#Arequipa (72000/18000 POPS)
+2304 = {
+    aristocrats = {
+        culture = aimara
+        religion = animist
+        size = 375
+    }
+
+    clergymen = {
+        culture = aimara
+        religion = animist
+        size = 125
+    }
+
+    artisans = {
+        culture = aimara
+        religion = animist
+        size = 200
+    }
+
+    soldiers = {
+        culture = aimara
+        religion = animist
+        size = 1050
+    }
+
+    farmers = {
+        culture = aimara
+        religion = animist
+        size = 3250
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = animist
+        size = 150
+    }
+
+    artisans = {
+        culture = quechua
+        religion = animist
+        size = 1050
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = animist
+        size = 225
+    }
+
+    farmers = {
+        culture = quechua
+        religion = animist
+        size = 19650
+    }
+}
+#Atacama Region (100000) #see Chile.txt for balance of Region
+#Ruled by Peru 1836
+#Tacna (100000/25000 POPS)
+2578 = {
+    aristocrats = {
+        culture = aimara
+        religion = animist
+        size = 550
+    }
+
+    bureaucrats = {
+        culture = aimara
+        religion = animist
+        size = 25
+    }
+
+    officers = {
+        culture = aimara
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = aimara
+        religion = animist
+        size = 150
+    }
+
+    artisans = {
+        culture = aimara
+        religion = animist
+        size = 250
+    }
+
+    soldiers = {
+        culture = aimara
+        religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = aimara
+        religion = animist
+        size = 3925
+    }
+
+    clergymen = {
+        culture = aimara
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = aimara
+        religion = animist
+        size = 1100
+    }
+
+    soldiers = {
+        culture = aimara
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = aimara
+        religion = animist
+        size = 16700
+    }
+
+    farmers = {
+        culture = quechua
+        religion = animist
+        size = 3000
+    }
+}

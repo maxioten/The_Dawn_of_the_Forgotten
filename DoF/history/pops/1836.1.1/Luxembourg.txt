@@ -1,0 +1,46 @@
+#Luxembourg (172000)
+#In personal union with Netherlands in 1836
+#Luxembourg (172000/43000 POPS)
+397 = {
+    aristocrats = {
+        culture = kingwana
+        religion = coptic
+        size = 175
+    }
+
+    bureaucrats = {
+        culture = kingwana
+        religion = coptic
+        size = 25
+    }
+
+    officers = {
+        culture = kingwana
+        religion = coptic
+        size = 50
+    }
+
+    clergymen = {
+        culture = kingwana
+        religion = coptic
+        size = 150
+    }
+
+    artisans = {
+        culture = kingwana
+        religion = coptic
+        size = 750
+    }
+
+    soldiers = {
+        culture = kingwana
+        religion = coptic
+        size = 2000
+    }
+
+    farmers = {
+        culture = kingwana
+        religion = coptic
+        size = 13580
+    }
+}

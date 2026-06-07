@@ -1,0 +1,10 @@
+owner = ETH
+controller = ETH
+add_core = ETH
+add_core = KAF
+add_core = SHW
+add_core = SHK
+
+
+trade_goods = iron
+life_rating = 35

@@ -1,0 +1,1274 @@
+#Macedonia Region (192000) #see Greece.txt and Macedonia.txt for balance of region
+#under the rule of Ottoman Empire in 1836
+#Petrich (192000/48000 POPS) #now part of Bulgaria
+808 = {
+    aristocrats = {
+        culture = tatar
+        religion = sunni
+        size = 550
+    }
+
+    soldiers = {
+        culture = tatar
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = tatar
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = tatar
+        religion = sunni
+        size = 750
+    }
+
+    farmers = {
+        culture = tatar
+        religion = sunni
+        size = 5300
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = orthodox
+        size = 250
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = orthodox
+        size = 312
+    }
+
+    artisans = {
+        culture = south_german
+        religion = orthodox
+        size = 450
+    }
+
+    farmers = {
+        culture = south_german
+        religion = orthodox
+        size = 14037
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = sunni
+        size = 150
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = south_german
+        religion = sunni
+        size = 150
+    }
+
+    farmers = {
+        culture = south_german
+        religion = orthodox
+        size = 2050
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 150
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 150
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 150
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 250
+    }
+}
+#Bulgaria Region (1132000)
+#under the rule of Ottoman Empire in 1836
+#Sofia (260000/65000 POPS)
+######Jews
+########
+809 = {
+    aristocrats = {
+        culture = tatar
+        religion = sunni
+        size = 725
+    }
+
+    bureaucrats = {
+        culture = tatar
+        religion = sunni
+        size = 200
+    }
+
+    officers = {
+        culture = tatar
+        religion = sunni
+        size = 150
+    }
+
+    clergymen = {
+        culture = tatar
+        religion = sunni
+        size = 62
+    }
+
+    artisans = {
+        culture = tatar
+        religion = sunni
+        size = 1250
+    }
+
+    soldiers = {
+        culture = tatar
+        religion = sunni
+        size = 250
+    }
+
+    farmers = {
+        culture = tatar
+        religion = sunni
+        size = 3691
+    }
+
+    aristocrats = {
+        culture = south_german
+        religion = sunni
+        size = 50
+    }
+
+    officers = {
+        culture = south_german
+        religion = sunni
+        size = 50
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = sunni
+        size = 300
+    }
+
+    artisans = {
+        culture = south_german
+        religion = sunni
+        size = 250
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = sunni
+        size = 250
+    }
+
+    farmers = {
+        culture = south_german
+        religion = sunni
+        size = 2721
+    }
+
+    aristocrats = {
+        culture = south_german
+        religion = orthodox
+        size = 75
+    }
+
+    officers = {
+        culture = south_german
+        religion = orthodox
+        size = 55
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = orthodox
+        size = 187
+    }
+
+    artisans = {
+        culture = south_german
+        religion = orthodox
+        size = 1200
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = orthodox
+        size = 1000
+    }
+
+    farmers = {
+        culture = south_german
+        religion = orthodox
+        size = 24212
+    }
+
+    aristocrats = {
+        culture = greek
+        religion = orthodox
+        size = 55
+    }
+
+    officers = {
+        culture = greek
+        religion = orthodox
+        size = 55
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 75
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 75
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 100
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 250
+    }
+
+    aristocrats = {
+        culture = tatar
+        religion = sunni
+        size = 50
+    }
+
+    officers = {
+        culture = tatar
+        religion = sunni
+        size = 50
+    }
+
+    soldiers = {
+        culture = tatar
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = tatar
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = tatar
+        religion = sunni
+        size = 500
+    }
+
+    farmers = {
+        culture = tatar
+        religion = sunni
+        size = 250
+    }
+}
+#Vidin (124000/31000 POPS)
+######Jews
+########
+810 = {
+    aristocrats = {
+        culture = tatar
+        religion = sunni
+        size = 325
+    }
+
+    clergymen = {
+        culture = tatar
+        religion = sunni
+        size = 55
+    }
+
+    artisans = {
+        culture = tatar
+        religion = sunni
+        size = 400
+    }
+
+    soldiers = {
+        culture = tatar
+        religion = sunni
+        size = 250
+    }
+
+    farmers = {
+        culture = tatar
+        religion = sunni
+        size = 562
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = sunni
+        size = 250
+    }
+
+    artisans = {
+        culture = south_german
+        religion = sunni
+        size = 400
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = sunni
+        size = 250
+    }
+
+    farmers = {
+        culture = south_german
+        religion = sunni
+        size = 5062
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = orthodox
+        size = 75
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = orthodox
+        size = 250
+    }
+
+    artisans = {
+        culture = south_german
+        religion = orthodox
+        size = 250
+    }
+
+    farmers = {
+        culture = south_german
+        religion = orthodox
+        size = 18075
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = orthodox
+        size = 55
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = orthodox
+        size = 55
+    }
+
+    artisans = {
+        culture = south_german
+        religion = orthodox
+        size = 250
+    }
+
+    farmers = {
+        culture = south_german
+        religion = orthodox
+        size = 640
+    }
+
+    soldiers = {
+        culture = tatar
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = tatar
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = tatar
+        religion = sunni
+        size = 50
+    }
+
+    farmers = {
+        culture = tatar
+        religion = sunni
+        size = 50
+    }
+}
+#Ruse (188000/47000 POPS)
+######Jews
+########
+811 = {
+    aristocrats = {
+        culture = tatar
+        religion = sunni
+        size = 525
+    }
+
+    clergymen = {
+        culture = tatar
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = tatar
+        religion = sunni
+        size = 425
+    }
+
+    soldiers = {
+        culture = tatar
+        religion = sunni
+        size = 500
+    }
+
+    farmers = {
+        culture = tatar
+        religion = sunni
+        size = 1625
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = south_german
+        religion = sunni
+        size = 125
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = sunni
+        size = 125
+    }
+
+    farmers = {
+        culture = south_german
+        religion = sunni
+        size = 750
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = south_german
+        religion = orthodox
+        size = 375
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = orthodox
+        size = 250
+    }
+
+    farmers = {
+        culture = south_german
+        religion = orthodox
+        size = 23025
+    }
+
+    soldiers = {
+        culture = tatar
+        religion = sunni
+        size = 50
+    }
+
+    clergymen = {
+        culture = tatar
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = tatar
+        religion = sunni
+        size = 150
+    }
+
+    farmers = {
+        culture = tatar
+        religion = sunni
+        size = 125
+    }
+}
+#Pleven (196000/49000 POPS)
+812 = {
+    aristocrats = {
+        culture = tatar
+        religion = sunni
+        size = 437
+    }
+
+    clergymen = {
+        culture = tatar
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = tatar
+        religion = sunni
+        size = 675
+    }
+
+    soldiers = {
+        culture = tatar
+        religion = sunni
+        size = 500
+    }
+
+    farmers = {
+        culture = tatar
+        religion = sunni
+        size = 1969
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = south_german
+        religion = sunni
+        size = 250
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = sunni
+        size = 150
+    }
+
+    farmers = {
+        culture = tatar
+        religion = sunni
+        size = 868
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = orthodox
+        size = 250
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = orthodox
+        size = 250
+    }
+
+    artisans = {
+        culture = south_german
+        religion = orthodox
+        size = 550
+    }
+
+    farmers = {
+        culture = south_german
+        religion = orthodox
+        size = 23825
+    }
+}
+#Shumen (144000/36000 POPS)
+813 = {
+    aristocrats = {
+        culture = tatar
+        religion = sunni
+        size = 325
+    }
+
+    clergymen = {
+        culture = tatar
+        religion = sunni
+        size = 62
+    }
+
+    artisans = {
+        culture = tatar
+        religion = sunni
+        size = 475
+    }
+
+    soldiers = {
+        culture = tatar
+        religion = sunni
+        size = 550
+    }
+
+    farmers = {
+        culture = tatar
+        religion = sunni
+        size = 2637
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = sunni
+        size = 125
+    }
+
+    artisans = {
+        culture = south_german
+        religion = sunni
+        size = 250
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = sunni
+        size = 125
+    }
+
+    farmers = {
+        culture = south_german
+        religion = sunni
+        size = 1500
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = orthodox
+        size = 250
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = orthodox
+        size = 250
+    }
+
+    artisans = {
+        culture = south_german
+        religion = orthodox
+        size = 375
+    }
+
+    farmers = {
+        culture = south_german
+        religion = orthodox
+        size = 21350
+    }
+}
+#Varna (220000/55000 POPS)
+814 = {
+    aristocrats = {
+        culture = tatar
+        religion = sunni
+        size = 350
+    }
+
+    clergymen = {
+        culture = tatar
+        religion = sunni
+        size = 87
+    }
+
+    artisans = {
+        culture = tatar
+        religion = sunni
+        size = 1050
+    }
+
+    soldiers = {
+        culture = tatar
+        religion = sunni
+        size = 1000
+    }
+
+    farmers = {
+        culture = tatar
+        religion = sunni
+        size = 3212
+    }
+
+    aristocrats = {
+        culture = south_german
+        religion = sunni
+        size = 350
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = south_german
+        religion = sunni
+        size = 250
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = sunni
+        size = 250
+    }
+
+    farmers = {
+        culture = south_german
+        religion = sunni
+        size = 2000
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = orthodox
+        size = 200
+    }
+
+    artisans = {
+        culture = south_german
+        religion = orthodox
+        size = 950
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = orthodox
+        size = 250
+    }
+
+    farmers = {
+        culture = south_german
+        religion = orthodox
+        size = 17937
+    }
+}
+#Rumelia Region (396000)
+#under the rule of Ottoman Empire in 1836
+#Plovdiv (120000/30000 POPS)
+######Jews
+########
+815 = {
+    aristocrats = {
+        culture = tatar
+        religion = sunni
+        size = 400
+    }
+
+    bureaucrats = {
+        culture = tatar
+        religion = sunni
+        size = 275
+    }
+
+    officers = {
+        culture = tatar
+        religion = sunni
+        size = 50
+    }
+
+    clergymen = {
+        culture = tatar
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = tatar
+        religion = sunni
+        size = 550
+    }
+
+    soldiers = {
+        culture = tatar
+        religion = sunni
+        size = 137
+    }
+
+    farmers = {
+        culture = tatar
+        religion = sunni
+        size = 3212
+    }
+
+    aristocrats = {
+        culture = south_german
+        religion = orthodox
+        size = 200
+    }
+
+    aristocrats = {
+        culture = south_german
+        religion = orthodox
+        size = 100
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = orthodox
+        size = 400
+    }
+
+    artisans = {
+        culture = south_german
+        religion = orthodox
+        size = 300
+    }
+
+    farmers = {
+        culture = south_german
+        religion = orthodox
+        size = 16737
+    }
+
+    aristocrats = {
+        culture = south_german
+        religion = sunni
+        size = 150
+    }
+
+    officers = {
+        culture = south_german
+        religion = sunni
+        size = 50
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = south_german
+        religion = sunni
+        size = 100
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = sunni
+        size = 150
+    }
+
+    farmers = {
+        culture = south_german
+        religion = sunni
+        size = 4850
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 150
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 150
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 300
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 1100
+    }
+
+    aristocrats = {
+        culture = tatar
+        religion = sunni
+        size = 50
+    }
+
+    soldiers = {
+        culture = tatar
+        religion = sunni
+        size = 50
+    }
+
+    clergymen = {
+        culture = tatar
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = tatar
+        religion = sunni
+        size = 125
+    }
+
+    farmers = {
+        culture = tatar
+        religion = sunni
+        size = 100
+    }
+}
+#Stara Zagora (80000/20000 POPS)
+816 = {
+    aristocrats = {
+        culture = tatar
+        religion = sunni
+        size = 162
+    }
+
+    clergymen = {
+        culture = tatar
+        religion = sunni
+        size = 55
+    }
+
+    artisans = {
+        culture = tatar
+        religion = sunni
+        size = 275
+    }
+
+    soldiers = {
+        culture = tatar
+        religion = sunni
+        size = 87
+    }
+
+    farmers = {
+        culture = tatar
+        religion = sunni
+        size = 2450
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = orthodox
+        size = 100
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = orthodox
+        size = 87
+    }
+
+    artisans = {
+        culture = south_german
+        religion = orthodox
+        size = 225
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = orthodox
+        size = 112
+    }
+
+    farmers = {
+        culture = south_german
+        religion = orthodox
+        size = 15737
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = sunni
+        size = 150
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = south_german
+        religion = sunni
+        size = 250
+    }
+
+    farmers = {
+        culture = south_german
+        religion = sunni
+        size = 2425
+    }
+}
+#Burgas (196000/49000 POPS)
+817 = {
+    aristocrats = {
+        culture = tatar
+        religion = sunni
+        size = 550
+    }
+
+    clergymen = {
+        culture = tatar
+        religion = sunni
+        size = 62
+    }
+
+    artisans = {
+        culture = tatar
+        religion = sunni
+        size = 450
+    }
+
+    soldiers = {
+        culture = tatar
+        religion = sunni
+        size = 225
+    }
+
+    farmers = {
+        culture = tatar
+        religion = sunni
+        size = 4212
+    }
+
+    aristocrats = {
+        culture = south_german
+        religion = orthodox
+        size = 55
+    }
+
+    officers = {
+        culture = south_german
+        religion = orthodox
+        size = 55
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = orthodox
+        size = 250
+    }
+
+    artisans = {
+        culture = south_german
+        religion = orthodox
+        size = 275
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = orthodox
+        size = 275
+    }
+
+    farmers = {
+        culture = south_german
+        religion = orthodox
+        size = 12637
+    }
+
+    artisans = {
+        culture = south_german
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = sunni
+        size = 100
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = sunni
+        size = 150
+    }
+
+    farmers = {
+        culture = south_german
+        religion = sunni
+        size = 2837
+    }
+
+    farmers = {
+        culture = circassian
+        religion = sunni
+        size = 75
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 100
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 150
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 450
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 2475
+    }
+}
+#Dobruja Region (84000) #see Romania.txt for balance of Region
+#under the rule of the Ottoman Empire in 1836
+#Silistre (84000/21000 POPS) #now part of Bulgaria
+818 = {
+    aristocrats = {
+        culture = south_german
+        religion = orthodox
+        size = 250
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = south_german
+        religion = orthodox
+        size = 225
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = orthodox
+        size = 250
+    }
+
+    farmers = {
+        culture = south_german
+        religion = orthodox
+        size = 12125
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = orthodox
+        size = 375
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = orthodox
+        size = 50
+    }
+
+    artisans = {
+        culture = south_german
+        religion = orthodox
+        size = 100
+    }
+
+    farmers = {
+        culture = south_german
+        religion = orthodox
+        size = 9812
+    }
+
+    aristocrats = {
+        culture = tatar
+        religion = sunni
+        size = 200
+    }
+
+    clergymen = {
+        culture = tatar
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = tatar
+        religion = sunni
+        size = 225
+    }
+
+    soldiers = {
+        culture = tatar
+        religion = sunni
+        size = 550
+    }
+
+    farmers = {
+        culture = tatar
+        religion = sunni
+        size = 2050
+    }
+
+    aristocrats = {
+        culture = south_german
+        religion = sunni
+        size = 200
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = south_german
+        religion = sunni
+        size = 225
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = sunni
+        size = 550
+    }
+
+    farmers = {
+        culture = south_german
+        religion = sunni
+        size = 2050
+    }
+}

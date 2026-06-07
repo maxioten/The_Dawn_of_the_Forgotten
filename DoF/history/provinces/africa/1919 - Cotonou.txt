@@ -1,0 +1,5 @@
+owner = DAH
+controller = DAH
+add_core = DAH
+trade_goods = coal
+life_rating = 45

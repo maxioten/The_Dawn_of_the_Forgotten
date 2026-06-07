@@ -1,0 +1,386 @@
+#Liberia Region (880000)
+#under the rule of Liberia in 1836
+#Monrovia (252000/63000 POPS)
+1887 = {
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 500
+    }
+
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 100
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 100
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 1010
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 300
+    }
+
+    soldiers = {
+        culture = kru
+        religion = protestant
+        size = 1100
+    }
+
+    farmers = {
+        culture = kru
+        religion = protestant
+        size = 12775
+    }
+
+    aristocrats = {
+        culture = kru
+        religion = sunni
+        size = 875
+    }
+
+    clergymen = {
+        culture = kru
+        religion = sunni
+        size = 450
+    }
+
+    artisans = {
+        culture = kru
+        religion = sunni
+        size = 2350
+    }
+
+    soldiers = {
+        culture = kru
+        religion = sunni
+        size = 450
+    }
+
+    farmers = {
+        culture = kru
+        religion = sunni
+        size = 85875
+    }
+
+    aristocrats = {
+        culture = kru
+        religion = sunni
+        size = 150
+    }
+
+    clergymen = {
+        culture = kru
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = kru
+        religion = sunni
+        size = 450
+    }
+
+    soldiers = {
+        culture = kru
+        religion = sunni
+        size = 100
+    }
+
+    farmers = {
+        culture = kru
+        religion = sunni
+        size = 15225
+    }
+    #was african minor
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 100
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 100
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 200
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 100
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 1625
+    }
+}
+#Harper (204000/51000 POPS)
+1888 = {
+    aristocrats = {
+        culture = kru
+        religion = protestant
+        size = 750
+    }
+
+    clergymen = {
+        culture = kru
+        religion = protestant
+        size = 375
+    }
+
+    artisans = {
+        culture = kru
+        religion = protestant
+        size = 11900
+    }
+
+    soldiers = {
+        culture = kru
+        religion = sunni
+        size = 375
+    }
+
+    farmers = {
+        culture = kru
+        religion = sunni
+        size = 44600
+    }
+
+    aristocrats = {
+        culture = kru
+        religion = protestant
+        size = 250
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 125
+    }
+
+    artisans = {
+        culture = kru
+        religion = sunni
+        size = 650
+    }
+
+    soldiers = {
+        culture = kru
+        religion = sunni
+        size = 1125
+    }
+
+    farmers = {
+        culture = kru
+        religion = sunni
+        size = 41850
+    }
+}
+#uncolonized in 1836
+#Bopulu (124000/31000 POPS)
+1889 = {
+    aristocrats = {
+        culture = kru
+        religion = sunni
+        size = 975
+    }
+
+    clergymen = {
+        culture = kru
+        religion = sunni
+        size = 1250
+    }
+
+    artisans = {
+        culture = kru
+        religion = sunni
+        size = 4250
+    }
+
+    soldiers = {
+        culture = kru
+        religion = sunni
+        size = 1250
+    }
+
+    farmers = {
+        culture = kru
+        religion = sunni
+        size = 52775
+    }
+    #was african minor
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 700
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 900
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 3000
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 1000
+    }
+
+    farmers = {
+        culture = kru
+        religion = sunni
+        size = 55475
+    }
+}
+#Gbarnga (132000/33000 POPS)
+1890 = {
+    aristocrats = {
+        culture = kru
+        religion = sunni
+        size = 1200
+    }
+
+    clergymen = {
+        culture = kru
+        religion = sunni
+        size = 1100
+    }
+
+    artisans = {
+        culture = kru
+        religion = sunni
+        size = 1550
+    }
+
+    soldiers = {
+        culture = kru
+        religion = sunni
+        size = 1125
+    }
+
+    farmers = {
+        culture = kru
+        religion = sunni
+        size = 35025
+    }
+    #was african minor
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 1425
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 2125
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 3100
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 1225
+    }
+
+    farmers = {
+        culture = kru
+        religion = sunni
+        size = 85025
+    }
+}
+#Zwedru (168000/42000 POPS)
+1891 = {
+    aristocrats = {
+        culture = kru
+        religion = sunni
+        size = 425
+    }
+
+    clergymen = {
+        culture = kru
+        religion = sunni
+        size = 250
+    }
+
+    artisans = {
+        culture = kru
+        religion = sunni
+        size = 1150
+    }
+
+    soldiers = {
+        culture = kru
+        religion = sunni
+        size = 250
+    }
+
+    farmers = {
+        culture = kru
+        religion = sunni
+        size = 15975
+    }
+
+    aristocrats = {
+        culture = kru
+        religion = sunni
+        size = 1350
+    }
+
+    clergymen = {
+        culture = kru
+        religion = sunni
+        size = 1200
+    }
+
+    artisans = {
+        culture = kru
+        religion = sunni
+        size = 1950
+    }
+
+    soldiers = {
+        culture = kru
+        religion = sunni
+        size = 1200
+    }
+
+    farmers = {
+        culture = kru
+        religion = sunni
+        size = 62300
+    }
+
+}

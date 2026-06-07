@@ -1,0 +1,9 @@
+owner = ETH
+controller = ETH
+add_core = ETH
+add_core = MAJ
+add_core = GEL
+add_core = WRL
+trade_goods = sulphur
+terrain = semidesert
+life_rating = 35

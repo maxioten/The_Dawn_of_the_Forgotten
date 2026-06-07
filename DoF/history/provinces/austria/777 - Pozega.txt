@@ -1,0 +1,9 @@
+owner = ETH
+controller = ETH
+add_core = ETH
+add_core = TIG
+
+terrain = semidesert
+
+trade_goods = fruit
+life_rating = 35

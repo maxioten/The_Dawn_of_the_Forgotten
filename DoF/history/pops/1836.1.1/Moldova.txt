@@ -1,0 +1,180 @@
+#Bessarabia Region (652000) #see Ukraine.txt for balance of Region
+#under the rule of Russia in 1836
+#Chisinau (332000/83000 POPS)
+676 = {
+    farmers = {
+        culture = gypsy
+        religion = sunni
+        size = 200
+    }
+
+    aristocrats = {
+        culture = tatar
+        religion = sunni
+        size = 700
+    }
+
+    bureaucrats = {
+        culture = tatar
+        religion = sunni
+        size = 112
+    }
+
+    officers = {
+        culture = tatar
+        religion = sunni
+        size = 87
+    }
+
+    clergymen = {
+        culture = tatar
+        religion = sunni
+        size = 350
+    }
+
+    artisans = {
+        culture = tatar
+        religion = sunni
+        size = 5000
+    }
+
+    artisans = {
+        culture = tatar
+        religion = sunni
+        size = 550
+    }
+
+    soldiers = {
+        culture = tatar
+        religion = sunni
+        size = 375
+    }
+
+    farmers = {
+        culture = tatar
+        religion = sunni
+        size = 23375
+    }
+
+    serfs = {
+        culture = tatar
+        religion = sunni
+        size = 10000
+    }
+
+    clergymen = {
+        culture = russian
+        religion = orthodox
+        size = 37
+    }
+
+    artisans = {
+        culture = russian
+        religion = orthodox
+        size = 800
+    }
+
+    soldiers = {
+        culture = russian
+        religion = orthodox
+        size = 37
+    }
+
+    farmers = {
+        culture = russian
+        religion = orthodox
+        size = 3125
+    }
+
+    clergymen = {
+        culture = tatar #gagauz
+        religion = sunni
+        size = 37
+    }
+
+    artisans = {
+        culture = tatar
+        religion = sunni
+        size = 125
+    }
+
+    soldiers = {
+        culture = tatar
+        religion = sunni
+        size = 25
+    }
+
+    farmers = {
+        culture = tatar
+        religion = sunni
+        size = 2312
+    }
+}
+#Balti (320000/80000 POPS)
+677 = {
+    farmers = {
+        culture = gypsy
+        religion = sunni
+        size = 200
+    }
+
+    aristocrats = {
+        culture = tatar
+        religion = sunni
+        size = 650
+    }
+
+    clergymen = {
+        culture = tatar
+        religion = sunni
+        size = 350
+    }
+
+    artisans = {
+        culture = tatar
+        religion = sunni
+        size = 1800
+    }
+
+    soldiers = {
+        culture = tatar
+        religion = sunni
+        size = 362
+    }
+
+    farmers = {
+        culture = tatar
+        religion = sunni
+        size = 22837
+    }
+
+    serfs = {
+        culture = tatar
+        religion = sunni
+        size = 20000
+    }
+
+    clergymen = {
+        culture = russian
+        religion = orthodox
+        size = 37
+    }
+
+    artisans = {
+        culture = russian
+        religion = orthodox
+        size = 900
+    }
+
+    soldiers = {
+        culture = russian
+        religion = orthodox
+        size = 37
+    }
+
+    farmers = {
+        culture = russian
+        religion = orthodox
+        size = 3525
+    }
+}
