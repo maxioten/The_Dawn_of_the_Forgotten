@@ -10,7 +10,7 @@ name = "Sukarian War of Independence"
         receiver = MLI
     }
 	war_goal = {
-        casus_belli = conquest_any
+        casus_belli = conquest
         actor = MLI
         receiver = BRZ
     }
