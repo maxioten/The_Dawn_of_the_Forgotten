@@ -5,3 +5,18 @@ add_core = SEG
 add_core = MAS
 trade_goods = precious_goods
 life_rating = 40
+state_building = {
+	level = 1
+	building = winery
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = liquor_distillery
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = canned_food_factory
+	upgrade = yes
+}

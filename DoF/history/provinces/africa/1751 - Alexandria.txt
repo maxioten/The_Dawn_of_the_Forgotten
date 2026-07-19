@@ -5,3 +5,8 @@ trade_goods = fish
 life_rating = 45
 naval_base = 1
 1861.1.1 = { railroad = 2 }
+state_building = {
+	level = 2
+	building = clipper_shipyard
+	upgrade = yes
+}
