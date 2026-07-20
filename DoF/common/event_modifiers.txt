@@ -2358,6 +2358,22 @@ great_war = {
     icon = 17
 }
 
+
+tame_mighty_nile_factory = {
+    factory_throughput = 0.10
+    icon = 11
+}
+
+tame_mighty_nile_pop = {
+    population_growth = 0.01
+    icon = 11
+}
+
+red_sea_telegraph_modifier = {
+	research_points_modifier = 0.05    # +5% de puntos de investigación
+	icon = 17                          # Icono de bombilla/tecnología en la interfaz
+}
+
 great_war2 = {
     war_exhaustion = -2.0
     global_population_growth = -0.002

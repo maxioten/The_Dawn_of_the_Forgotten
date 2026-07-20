@@ -5817,6 +5817,12 @@
         size = 189
     }
 
+    artisans = {
+        culture = portuguese
+        religion = sunni
+        size = 42000
+    }
+
     clergymen = {
         culture = portuguese
         religion = sunni

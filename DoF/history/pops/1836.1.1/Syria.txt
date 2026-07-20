@@ -98,10 +98,10 @@
         size = 748
     }
 
-    artisans = {
+    craftsmen = {
         culture = mashriqi
         religion = sunni
-        size = 8482
+        size = 28482
     }
 
     soldiers = {

@@ -32,6 +32,12 @@
         size = 42000
     }
 
+    craftsmen = {
+        culture = maghrebi
+        religion = sunni
+        size = 42000
+    }
+
     soldiers = {
         culture = maghrebi
         religion = sunni
@@ -615,6 +621,12 @@
     }
 
     artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 15000
+    }
+
+    artisans = {
         culture = berber
         religion = sunni
         size = 2400
@@ -992,6 +1004,12 @@
         culture = berber
         religion = sunni
         size = 600
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 62000
     }
 
     soldiers = {

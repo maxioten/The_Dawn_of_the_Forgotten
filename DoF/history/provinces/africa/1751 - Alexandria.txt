@@ -5,3 +5,23 @@ trade_goods = fish
 life_rating = 45
 naval_base = 1
 1861.1.1 = { railroad = 2 }
+state_building = {
+	level = 2
+	building = explosives_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = artillery_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = cement_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = small_arms_factory
+	upgrade = yes
+}

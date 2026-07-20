@@ -5,37 +5,37 @@
 ########
 1700 = {
     aristocrats = {
-        culture = french
-        religion = catholic
+        culture = maghrebi
+        religion = sunni
         size = 200
     }
 
     bureaucrats = {
-        culture = french
-        religion = catholic
+        culture = maghrebi
+        religion = sunni
         size = 300
     }
 
     clergymen = {
-        culture = french
+        culture = catalan
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = french
+        culture = catalan
         religion = catholic
         size = 3000
     }
 
     soldiers = {
-        culture = french
+        culture = catalan
         religion = catholic
         size = 4000
     }
 
     farmers = {
-        culture = french
+        culture = catalan
         religion = catholic
         size = 450
     }
@@ -50,6 +50,12 @@
         culture = maghrebi
         religion = sunni
         size = 9000
+    }
+
+    craftsmen = {
+        culture = maghrebi
+        religion = sunni
+        size = 30000
     }
 
     soldiers = {
@@ -837,6 +843,12 @@
         culture = berber
         religion = sunni
         size = 400
+    }
+
+    craftsmen = {
+        culture = maghrebi
+        religion = sunni
+        size = 30000
     }
 
     artisans = {

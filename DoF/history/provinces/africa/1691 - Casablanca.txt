@@ -3,3 +3,18 @@ controller = MOR
 add_core = MOR
 trade_goods = grain
 life_rating = 40
+state_building = {
+	level = 2
+	building = explosives_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = artillery_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = cement_factory
+	upgrade = yes
+}
