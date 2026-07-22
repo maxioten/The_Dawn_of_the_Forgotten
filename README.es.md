@@ -1,4 +1,7 @@
 # Dawn of the Forgotten
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](README.es.md)
+
 Este es el repositorio del mod de Victoria 2: **Dawn of the Forgotten**
 
 ## Introducción
