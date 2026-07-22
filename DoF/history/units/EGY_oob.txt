@@ -36,7 +36,7 @@ MAJ = {
 }
 
 navy = {
-    name = "Taba"
+    name = "Guardians of the Nile"
     location = 1751
     ship = {
         name= "Toushka"
@@ -65,37 +65,37 @@ navy = {
 
     ship = {
         name= "El Aboukir"
-        type = frigate
+        type = manowar
     }
 
     ship = {
         name= "Najim al Zafir"
-        type = frigate
+        type = manowar
     }
 
     ship = {
         name= "Cairo"
-        type = frigate
+        type = manowar
     }
 
     ship = {
         name= "Al Iskandariyah"
-        type = frigate
+        type = manowar
     }
 
     ship = {
         name= "Aswan"
-        type = frigate
+        type = manowar
     }
 
     ship = {
         name= "Port Said"
-        type = frigate
+        type = manowar
     }
 
     ship = {
         name= "Marsa Matruh"
-        type = frigate
+        type = manowar
     }
 
     ship = {
@@ -114,6 +114,346 @@ navy = {
     }
 
     ship = {
+        name = "Frigate 01"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 02"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 03"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 04"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 05"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 06"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 07"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 08"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 09"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 10"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 11"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 12"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 13"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 14"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 15"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 16"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 17"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 18"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 19"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 20"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 21"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 22"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 23"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 24"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 25"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 26"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 27"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 28"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 29"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 30"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 31"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 32"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 33"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 34"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 35"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 36"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 37"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 38"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 39"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 40"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 41"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 42"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 43"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 44"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 45"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 46"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 47"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 48"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 49"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 50"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 51"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 52"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 53"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 54"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 55"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 56"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 57"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 58"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 59"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 60"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 61"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 62"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 63"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 64"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 65"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 66"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 67"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 68"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 69"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 70"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 71"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 72"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 73"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 74"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 75"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 76"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 77"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 78"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 79"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 80"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 81"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 82"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 83"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 84"
+        type = frigate
+    }
+    ship = {
+        name = "Frigate 85"
+        type = frigate
+    }
+    ship = {
         name= "1st transport flotilla"
         type = clipper_transport
     }
@@ -125,19 +465,19 @@ army = {
     location = 1745
     regiment = {
         name= "1.1 Sipahis"
-        type = cavalry
+        type = hussar
         home = 1745
     }
 
     regiment = {
         name= "2.1 Sipahis"
-        type = cavalry
+        type = hussar
         home = 1745
     }
 
     regiment = {
         name= "3.1 Sipahis"
-        type = cavalry
+        type = hussar
         home = 1745
     }
 
@@ -166,14 +506,14 @@ army = {
     }
 
     regiment = {
-        name= "2.2 Infantry"
-        type = infantry
+        name= "Artillery Divison"
+        type = artillery
         home = 1751
     }
 
     regiment = {
-        name= "3.2 Infantry"
-        type = infantry
+        name= "Artillery Divison"
+        type = artillery
         home = 1747
     }
 }
@@ -213,8 +553,8 @@ army = {
     }
 
     regiment = {
-        name= "3.4th Division"
-        type = infantry
+        name= "Artillery Divison"
+        type = artillery
         home = 1764
     }
 
@@ -225,25 +565,25 @@ army = {
     location = 1827
     regiment = {
         name= "1.2 Sipahis"
-        type = cavalry
+        type = hussar
         home = 1745
     }
 
     regiment = {
         name= "2.2 Sipahis"
-        type = cavalry
+        type = hussar
         home = 1751
     }
 
     regiment = {
-        name= "3.2 Sipahis"
-        type = cavalry
+        name= "Artillery Divison"
+        type = artillery
         home = 1762
     }
 
     regiment = {
-        name= "1.5 Infantry"
-        type = infantry
+        name= "Artillery Divison"
+        type = artillery
         home = 1827
     }
 
@@ -255,32 +595,32 @@ army = {
 
     regiment = {
         name= "3.5 Infantry"
-        type = irregular
+        type = infantry
         home = 1828
     }
 
     regiment = {
         name= "1.6 Infantry"
-        type = irregular
+        type = infantry
         home = 1829
     }
 
     regiment = {
         name= "2.6 Infantry"
-        type = irregular
+        type = infantry
         home = 1830
     }
 
     regiment = {
         name= "3.6 Infantry"
-        type = irregular
+        type = infantry
         home = 1831
     }
 
 }
 
 leader = {
-    name = "Ibrahim Pasha"
+    name = "Qaid Khalid"
     type = land
     date="1832.1.1"
     personality = defiant
@@ -289,10 +629,19 @@ leader = {
 }
 
 leader = {
-    name = "Suleyman Pasha"
+    name = "Amir Ibrahim"
     type = land
     date="1832.1.1"
     personality = balanced_p
     background = drillmaster
+    prestige = 0.1
+}
+
+leader = {
+    name = "Amiral Said"
+    type = sea
+    date="1832.1.1"
+    personality = coolminded
+    background = school_of_the_bayonet
     prestige = 0.1
 }

@@ -621,25 +621,25 @@
 	craftsmen = {
         culture = maghrebi
         religion = sunni
-        size = 15250
+        size = 5250
     }
 	
 	craftsmen = {
         culture = hausa
         religion = sunni
-        size = 15250
+        size = 65250
     }
 
 	craftsmen = {
         culture = misri
         religion = sunni
-        size = 15250
+        size = 5250
     }
 	
 	craftsmen = {
         culture = sephardic
         religion = jewish
-        size = 15250
+        size = 1250
     }
 	
 	craftsmen = {

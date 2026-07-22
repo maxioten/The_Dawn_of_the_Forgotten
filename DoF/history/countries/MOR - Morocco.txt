@@ -1,6 +1,7 @@
 capital = 1680
 primary_culture = maghrebi
 culture = berber
+culture = portuguese
 religion = sunni
 government = absolute_monarchy
 plurality = 25.0

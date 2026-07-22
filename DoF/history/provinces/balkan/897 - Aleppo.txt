@@ -6,3 +6,18 @@ add_core = SYR
 trade_goods = grain
 life_rating = 40
 terrain = semidesert
+state_building = {
+	level = 2
+	building = small_arms_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = ammunition_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = cement_factory
+	upgrade = yes
+}

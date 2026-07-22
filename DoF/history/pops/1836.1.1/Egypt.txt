@@ -92,10 +92,10 @@
         size = 13097
     }
 
-    artisans = {
+    craftsmen = {
         culture = misri
         religion = sunni
-        size = 654
+        size = 33654
     }
 
     soldiers = {
@@ -140,10 +140,10 @@
         size = 13097
     }
 
-    artisans = {
+    craftsmen = {
         culture = misri
         religion = coptic
-        size = 10477
+        size = 20477
     }
 
     farmers = {
@@ -177,8 +177,8 @@
     }
 
     slaves = {
-        culture = nilotic
-        religion = animist
+        culture = russian
+        religion = orthodox
         size = 11787
     }
 
@@ -604,10 +604,10 @@
         size = 13097
     }
 
-    artisans = {
+    craftsmen = {
         culture = misri
         religion = sunni
-        size = 981
+        size = 29810
     }
 
     soldiers = {
@@ -652,10 +652,10 @@
         size = 162
     }
 
-    artisans = {
+    craftsmen = {
         culture = misri
         religion = coptic
-        size = 981
+        size = 20981
     }
 
     farmers = {
@@ -689,8 +689,8 @@
     }
 
     slaves = {
-        culture = nilotic
-        religion = animist
+        culture = russian
+        religion = orthodox
         size = 7858
     }
 }

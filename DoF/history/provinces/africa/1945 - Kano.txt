@@ -3,14 +3,5 @@ controller = KAN
 add_core = KAN
 add_core = SOK
 trade_goods = fruit
-state_building = {
-	level = 1
-	building = winery
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = liquor_distillery
-	upgrade = yes
-}
+
 life_rating = 40
