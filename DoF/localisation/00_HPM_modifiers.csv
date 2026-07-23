@@ -577,5 +577,8 @@ no_freedom_desc;We attempted to free ourselves from foreign rule. We must wait u
 tame_mighty_nile_factory;Industrial Boom of the Nile;Auge Industrial del Nilo;;;;;;;;;;;x
 tame_mighty_nile_factory_desc;Unprecedented access to hydro-electric power and controlled waterways has supercharged our regional industrial output.;El acceso sin precedentes a la energía hidroeléctrica y a las vías fluviales controladas ha impulsado masivamente nuestra producción industrial regional.;;;;;;;;;;;x
 tame_mighty_nile_pop;Nile Abundance;Abundancia del Nilo;;;;;;;;;;;x
+imperial_consolidation;Imperial Consolidation;;;;;;;;;;;;x
+imperial_consolidation_desc;Integrating an entire empire into our administrative framework creates temporary bureaucratic strain and civil unrest, but accelerates the process of cultural and institutional assimilation.;;;;;;;;;;;;x
 red_sea_telegraph_modifier;Imperial Telegraph Network;Red Telegráfica Imperial;;;;;;;;;;;x
 red_sea_telegraph_modifier_desc;By laying underwater cables along the Red Sea, our engineers have secured instant communication between El Cairo and the frontiers, vastly accelerating administrative and scientific progress.;Al tender cables submarinos a lo largo del Mar Rojo, nuestros ingenieros han asegurado una comunicación instantánea entre El Cairo y las fronteras, acelerando enormemente el progreso administrativo y científico.;;;;;;;;;;;x
+shipyard_alexandria;Alexandria Shipyards;;;;;;;;;;;;x

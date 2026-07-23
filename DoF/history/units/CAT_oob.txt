@@ -1,0 +1,575 @@
+army = {
+    name = "Punic Army"
+    location = 762
+    regiment = {
+        name= "1. infantry"
+        type = infantry
+        home = 762
+    }
+
+    regiment = {
+        name= "2. infantry"
+        type = infantry
+        home = 757
+    }
+
+    regiment = {
+        name= "3. infantry"
+        type = infantry
+        home = 755
+    }
+
+    regiment = {
+        name= "1. artillery"
+        type = artillery
+        home = 761
+    }
+
+    regiment = {
+        name= "2. artillery"
+        type = artillery
+        home = 758
+    }
+
+    regiment = {
+        name= "1. dragoon"
+        type = dragoon
+        home = 753
+    }
+
+    regiment = {
+        name= "2. dragoon"
+        type = dragoon
+        home = 756
+    }
+}
+
+army = {
+    name = "Punic Guard"
+    location = 754
+
+    regiment = {
+        name= "infantry"
+        type = guard
+        home = 754
+    }
+
+    regiment = {
+        name= "artillery"
+        type = artillery
+        home = 2567
+    }
+
+    regiment = {
+        name= "hussar"
+        type = hussar
+        home = 762
+    }
+
+}
+
+navy = {
+    name = "Punic Navy"
+    location = 754
+
+    ship = {
+        name= "Anibal"
+        type = manowar
+    }
+
+    ship = {
+        name= "Barca"
+        type = manowar
+    }
+
+   ship = {
+        name= "Anibal"
+        type = manowar
+    }
+
+    ship = {
+        name= "Barca"
+        type = manowar
+    }
+
+   ship = {
+        name= "Anibal"
+        type = manowar
+    }
+
+    ship = {
+        name= "Barca"
+        type = manowar
+    }
+
+   ship = {
+        name= "Anibal"
+        type = manowar
+    }
+
+    ship = {
+        name= "Barca"
+        type = manowar
+    }
+
+   ship = {
+        name= "Anibal"
+        type = manowar
+    }
+
+    ship = {
+        name= "Barca"
+        type = manowar
+    }
+
+   ship = {
+        name= "Anibal"
+        type = manowar
+    }
+
+    ship = {
+        name= "Barca"
+        type = manowar
+    }
+
+   ship = {
+        name= "Anibal"
+        type = manowar
+    }
+
+    ship = {
+        name= "Barca"
+        type = manowar
+    }
+
+    ship = {
+        name= "Barsina"
+        type = frigate
+    }
+
+    ship = {
+        name= "Hispania"
+        type = frigate
+    }
+
+    ship = {
+        name= "Roma"
+        type = frigate
+    }
+
+    ship = {
+        name= "Cartago"
+        type = frigate
+    }
+
+    ship = {
+        name= "Cartago Nova"
+        type = frigate
+    }
+
+    ship = {
+        name= "Matamoro"
+        type = frigate
+    }
+
+    ship = {
+        name= "Barca"
+        type = manowar
+    }
+
+    ship = {
+        name= "Barsina"
+        type = frigate
+    }
+
+    ship = {
+        name= "Hispania"
+        type = frigate
+    }
+
+    ship = {
+        name= "Roma"
+        type = frigate
+    }
+
+    ship = {
+        name= "Cartago"
+        type = frigate
+    }
+
+    ship = {
+        name= "Cartago Nova"
+        type = frigate
+    }
+
+    ship = {
+        name= "Matamoro"
+        type = frigate
+    }
+
+    ship = {
+        name= "Barca"
+        type = manowar
+    }
+
+    ship = {
+        name= "Barsina"
+        type = frigate
+    }
+
+    ship = {
+        name= "Hispania"
+        type = frigate
+    }
+
+    ship = {
+        name= "Roma"
+        type = frigate
+    }
+
+    ship = {
+        name= "Cartago"
+        type = frigate
+    }
+
+    ship = {
+        name= "Cartago Nova"
+        type = frigate
+    }
+
+    ship = {
+        name= "Matamoro"
+        type = frigate
+    }
+
+    ship = {
+        name= "Barca"
+        type = manowar
+    }
+
+    ship = {
+        name= "Barsina"
+        type = frigate
+    }
+
+    ship = {
+        name= "Hispania"
+        type = frigate
+    }
+
+    ship = {
+        name= "Roma"
+        type = frigate
+    }
+
+    ship = {
+        name= "Cartago"
+        type = frigate
+    }
+
+    ship = {
+        name= "Cartago Nova"
+        type = frigate
+    }
+
+    ship = {
+        name= "Matamoro"
+        type = frigate
+    }
+
+    ship = {
+        name= "Barca"
+        type = manowar
+    }
+
+    ship = {
+        name= "Barsina"
+        type = frigate
+    }
+
+    ship = {
+        name= "Hispania"
+        type = frigate
+    }
+
+    ship = {
+        name= "Roma"
+        type = frigate
+    }
+
+    ship = {
+        name= "Cartago"
+        type = frigate
+    }
+
+    ship = {
+        name= "Cartago Nova"
+        type = frigate
+    }
+
+    ship = {
+        name= "Matamoro"
+        type = frigate
+    }
+
+    ship = {
+        name= "Barca"
+        type = manowar
+    }
+
+    ship = {
+        name= "Barsina"
+        type = frigate
+    }
+
+    ship = {
+        name= "Hispania"
+        type = frigate
+    }
+
+    ship = {
+        name= "Roma"
+        type = frigate
+    }
+
+    ship = {
+        name= "Cartago"
+        type = frigate
+    }
+
+    ship = {
+        name= "Cartago Nova"
+        type = frigate
+    }
+
+    ship = {
+        name= "Matamoro"
+        type = frigate
+    }
+
+    ship = {
+        name= "Barca"
+        type = manowar
+    }
+
+    ship = {
+        name= "Barsina"
+        type = frigate
+    }
+
+    ship = {
+        name= "Hispania"
+        type = frigate
+    }
+
+    ship = {
+        name= "Roma"
+        type = frigate
+    }
+
+    ship = {
+        name= "Cartago"
+        type = frigate
+    }
+
+    ship = {
+        name= "Cartago Nova"
+        type = frigate
+    }
+
+    ship = {
+        name= "Matamoro"
+        type = frigate
+    }
+
+    ship = {
+        name= "Barca"
+        type = manowar
+    }
+
+    ship = {
+        name= "Barsina"
+        type = frigate
+    }
+
+    ship = {
+        name= "Hispania"
+        type = frigate
+    }
+
+    ship = {
+        name= "Roma"
+        type = frigate
+    }
+
+    ship = {
+        name= "Cartago"
+        type = frigate
+    }
+
+    ship = {
+        name= "Cartago Nova"
+        type = frigate
+    }
+
+    ship = {
+        name= "Matamoro"
+        type = frigate
+    }
+
+    ship = {
+        name= "Barca"
+        type = manowar
+    }
+
+    ship = {
+        name= "Barsina"
+        type = frigate
+    }
+
+    ship = {
+        name= "Hispania"
+        type = frigate
+    }
+
+    ship = {
+        name= "Roma"
+        type = frigate
+    }
+
+    ship = {
+        name= "Cartago"
+        type = frigate
+    }
+
+    ship = {
+        name= "Cartago Nova"
+        type = frigate
+    }
+
+    ship = {
+        name= "Matamoro"
+        type = frigate
+    }
+
+    ship = {
+        name= "Barca"
+        type = manowar
+    }
+
+    ship = {
+        name= "Barsina"
+        type = frigate
+    }
+
+    ship = {
+        name= "Hispania"
+        type = frigate
+    }
+
+    ship = {
+        name= "Roma"
+        type = frigate
+    }
+
+    ship = {
+        name= "Cartago"
+        type = frigate
+    }
+
+    ship = {
+        name= "Cartago Nova"
+        type = frigate
+    }
+
+    ship = {
+        name= "Matamoro"
+        type = frigate
+    }
+
+    ship = {
+        name= "Barca"
+        type = manowar
+    }
+
+    ship = {
+        name= "Barsina"
+        type = frigate
+    }
+
+    ship = {
+        name= "Hispania"
+        type = frigate
+    }
+
+    ship = {
+        name= "Roma"
+        type = frigate
+    }
+
+    ship = {
+        name= "Cartago"
+        type = frigate
+    }
+
+    ship = {
+        name= "Cartago Nova"
+        type = frigate
+    }
+
+    ship = {
+        name= "Matamoro"
+        type = frigate
+    }
+
+    ship = {
+        name= "Barca"
+        type = manowar
+    }
+
+    ship = {
+        name= "Barsina"
+        type = frigate
+    }
+
+    ship = {
+        name= "Hispania"
+        type = frigate
+    }
+
+    ship = {
+        name= "Roma"
+        type = frigate
+    }
+
+    ship = {
+        name= "Cartago"
+        type = frigate
+    }
+
+    ship = {
+        name= "Cartago Nova"
+        type = frigate
+    }
+
+    ship = {
+        name= "Matamoro"
+        type = frigate
+    }
+
+    ship = {
+        name= "Lombardia"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "Neopolitania"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "San Venefrede"
+        type = steam_transport
+    }
+
+}

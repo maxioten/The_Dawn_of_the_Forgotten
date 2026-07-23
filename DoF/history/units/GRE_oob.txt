@@ -1,13 +1,4 @@
 leader = {
-    name = "von Heideck"
-    type = land
-    date="1833.1.1"
-    personality = romantic
-    background = poet
-    prestige = 0.1
-}
-
-leader = {
     name = "Ioannis Kolokotronis"
     type = land
     date="1833.1.1"
@@ -25,7 +16,7 @@ leader = {
 }
 
 army = {
-    name = "Stratós Epeírou"
+    name = "Stratï¿½s Epeï¿½rou"
     location = 834
     regiment = {
         name= "I. Taxiarchia Pezikou"
@@ -68,6 +59,46 @@ navy = {
     ship = {
         name= "2nd Steam Transport"
         type = steam_transport
+    }
+
+    ship = {
+        name= "Hellas"
+        type = frigate
+    }
+
+    ship = {
+        name= "Navarino"
+        type = frigate
+    }
+
+    ship = {
+        name= "Psara"
+        type = frigate
+    }
+
+    ship = {
+        name= "Heratos"
+        type = frigate
+    }
+
+    ship = {
+        name= "Hellas"
+        type = frigate
+    }
+
+    ship = {
+        name= "Navarino"
+        type = frigate
+    }
+
+    ship = {
+        name= "Psara"
+        type = frigate
+    }
+
+    ship = {
+        name= "Heratos"
+        type = frigate
     }
 
     ship = {

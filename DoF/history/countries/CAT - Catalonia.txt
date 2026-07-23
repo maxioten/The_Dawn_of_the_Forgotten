@@ -1,4 +1,4 @@
-capital = 498
+capital = 754
 primary_culture = catalan
 culture = spanish
 religion = catholic
@@ -63,6 +63,8 @@ piston_steam_engine = 1
 mechanical_production = 1
 hot_blast = 1
 basic_chemistry = 1
+
+oob = "CAT_oob.txt"
 
 ruling_party = CAT_conservative
 upper_house = {

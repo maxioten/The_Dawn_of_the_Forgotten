@@ -2374,6 +2374,27 @@ red_sea_telegraph_modifier = {
 	icon = 17                          # Icono de bombilla/tecnología en la interfaz
 }
 
+mediterranean_fleet_dominance = {
+    leadership_modifier = 0.1
+    naval_organisation = 0.15
+    navy_tech_research_bonus = 0.1
+    icon = 12
+}
+
+shipyard_alexandria = {
+    ship_build_time = -0.15           # -15% Tiempo de construcción de barcos
+    local_repair = 0.5
+    icon = 12
+}
+
+imperial_consolidation = {
+	global_militancy_modifier = 0.05    # +0.05 de militancia global (tensión por la anexión)
+	global_assimilation_rate = 0.2           # +20% velocidad de asimilación cultural
+	core_pop_militancy_modifier = -0.05 # -0.05 de militancia en tus provincias nativas (orgullo imperial)
+	administrative_efficiency = -0.10   # -10% eficiencia administrativa (burocracia colapsada)
+	icon = 18
+}
+
 great_war2 = {
     war_exhaustion = -2.0
     global_population_growth = -0.002
