@@ -38,7 +38,7 @@ border_policy = open_borders
 
 set_country_flag = protestant_country
 
-ruling_party = ARA_conservative
+ruling_party = TRN_conservative
 upper_house = {
     fascist = 0
     liberal = 16
