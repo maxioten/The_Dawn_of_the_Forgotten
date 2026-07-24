@@ -137,46 +137,45 @@ political_decisions = {
 			TIG = { add_core = EGY }
 			set_global_flag = red_sea_telegraph_done
 		}
-
-		ai_will_do = { factor = 0 }
 	}
-}	
-alexandria_dockyards = {
-    potential = {
-        tag = EGY
-        NOT = { has_country_flag = alexandria_dockyards_expanded }
-    }
+	
+	alexandria_dockyards = {
+		potential = {
+			tag = EGY
+			NOT = { has_country_flag = alexandria_dockyards_expanded }
+		}
 
-    allow = {
-        steamers = 1
-		naval_plans = 1
-        prestige = 40
-        owns = 1751
-        is_at_war = no
-    }
+		allow = {
+			iron_steamers = 1
+			naval_plans = 1
+			has_global_flag = suez_canal_built
+			prestige = 150
+			owns = 1751
+			is_at_war = no
+		}
 
-    effect = {
-        set_country_flag = alexandria_dockyards_expanded
-        prestige = 15
-        1751 = {
-            naval_base = 1
-            add_province_modifier = {
-                name = shipyard_alexandria
-                duration = -1
-            }
-        }
-        add_country_modifier = {
-            name = mediterranean_fleet_dominance
-            duration = 3650 # 10 años
-        }
-    }
+		effect = {
+			set_country_flag = alexandria_dockyards_expanded
+			prestige = 15
+			1751 = {
+				naval_base = 1
+				add_province_modifier = {
+					name = shipyard_alexandria
+					duration = -1
+				}
+			}
+			add_country_modifier = {
+				name = mediterranean_fleet_dominance
+				duration = 3650 # 10 años
+			}
+		}
 
-    ai_will_do = {
-        factor = 1
-    }
-}
+		ai_will_do = {
+			factor = 1
+		}
+	}
 
-integrate_sublime_porte = {
+	integrate_sublime_porte = {
         potential = {
             tag = EGY
             TUR = { vassal_of = EGY }

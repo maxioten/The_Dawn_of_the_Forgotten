@@ -1,8 +1,10 @@
-
+owner = FLA
+controller = FLA
+add_core = FLA
 
 
 trade_goods = fish
-life_rating = 20
+life_rating = 30
 1861.1.1 = {
     railroad = 1
     naval_base = 3

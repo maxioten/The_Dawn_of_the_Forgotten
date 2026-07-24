@@ -1,8 +1,8 @@
-
-
-
+owner = GAB
+controller = GAB
+add_core = GAB
 trade_goods = wool
-life_rating = 20
+life_rating = 35
 terrain = forest
 #state_building = {
 #    level = 1

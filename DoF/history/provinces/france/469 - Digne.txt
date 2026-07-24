@@ -1,5 +1,5 @@
-
-
-
 trade_goods = silk
-life_rating = 20
+life_rating = 35
+owner = TRN
+controller = TRN
+add_core = TRN

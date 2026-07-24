@@ -353,7 +353,7 @@ iberian = {
         radicalism = 15
     }
     spanish = {
-        color = {220 220 30}
+        color = {220 131 30}
         first_names = { Agustín Alberto Alejandro Alfonso Álvaro Antonio "Antonio María" Arsenio Augusto Baldomero
         Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal Dámaso
         Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Francisco
@@ -371,7 +371,7 @@ iberian = {
         Sanjurjo Serrano Silvestre Topete Valdés Varela Villapol Villar Weyler Yagüe }
     }
     catalan = {
-        color = {220 110 30}
+        color = {222 169 131}
         first_names = { Albert Alexandre Alfons Alfonso Andrés Andreu Antoni Carles Cassià Dalmau
         David Eduard Enric Enrique Federico Felip Fernando Ferran Francesc Gaspar
         Gerard Isaac Jacint Jaume Joan Jordi José Josep Juan Llorenç
@@ -541,7 +541,7 @@ pan_albanian = {
     leader = european
     unit = AustriaHungaryGC
     albanian = {
-        color = {140 0 0}
+        color = {83 115 140}
         first_names = { Ahmet Ali Azem Bajram Behxhet Davud Ekrem Elez Enver Eqrem
         Esad Fatmir Fejzi Fiqri Gjergj Gjon Hasan Hashim Ibrahim Idhomene
         Iliaz Ishak Ismail Izet Kara Kastriot Koçi Köpryly Kostaq Lekë
@@ -861,6 +861,7 @@ turko_semitic = {
         last_names = {
             Bey Pasha Hoca Efendi
         }
+        radicalism = 5
     }
     azerbaijani = {
         color = {47 44 107}
@@ -1871,6 +1872,7 @@ american_cultures = {
 
         last_names = { Makarov Menshikov Nakhimov Nebogatov Nikolaevich Ostrovsky Pavlov Putyatin Romanov Rozhestvensky Skobelev Shuvalov Surkov Tukhachevsky
         }
+        radicalism = 10
     }
     texan = {
         color = {160 160 60}
@@ -1896,6 +1898,7 @@ neo_european_cultures = {
         }
         last_names = { Cilliers Botha Joubert Kruger Duquesne Potgieter "van Rensburg" "de la Rey" Theron "de Wet" Pretorius Retief "de Beer" Uys
         }
+        radicalism = 10
     }
 
     australian = {
@@ -1939,7 +1942,7 @@ latin_american_cultures = {
     is_overseas = no
     unit = SouthAmericanGC
     mexican = {
-        color = {51 117 62}
+        color = {87 117 51}
         first_names = { "Abd Allah" "Abd al-Karim" "Abd al-Malik" "Abd al-Qadir" "Abd al-Rahman" Ahmad Ali
             Fawzi Fuad Halil Hasan Hisham Ibrahim Ishaq Iskandar Jamal Kamil Khalid Mahmud
             Muhammad Mustafa "Nur al-Din" "Sa'd al-Din" Salim Shukri
@@ -1957,7 +1960,7 @@ latin_american_cultures = {
         }
     }
     central_american = {
-        color = {101 164 172}
+        color = {101 172 129}
         first_names = { "Abd Allah" "Abd al-Karim" "Abd al-Malik" "Abd al-Qadir" "Abd al-Rahman" Ahmad Ali
             Fawzi Fuad Halil Hasan Hisham Ibrahim Ishaq Iskandar Jamal Kamil Khalid Mahmud
             Muhammad Mustafa "Nur al-Din" "Sa'd al-Din" Salim Shukri
@@ -1976,7 +1979,7 @@ latin_american_cultures = {
         radicalism = 15
     }
     caribeno = {
-        color = {122 11 74}
+        color = {122 11 35}
         first_names = { "Abd Allah" "Abd al-Karim" "Abd al-Malik" "Abd al-Qadir" "Abd al-Rahman" Ahmad Ali
             Fawzi Fuad Halil Hasan Hisham Ibrahim Ishaq Iskandar Jamal Kamil Khalid Mahmud
             Muhammad Mustafa "Nur al-Din" "Sa'd al-Din" Salim Shukri
@@ -1995,7 +1998,7 @@ latin_american_cultures = {
         radicalism = 10
     }
     north_andean = {
-        color = {146 156 116}
+        color = {156 132 116}
         first_names = { "Abd Allah" "Abd al-Karim" "Abd al-Malik" "Abd al-Qadir" "Abd al-Rahman" Ahmad Ali
             Fawzi Fuad Halil Hasan Hisham Ibrahim Ishaq Iskandar Jamal Kamil Khalid Mahmud
             Muhammad Mustafa "Nur al-Din" "Sa'd al-Din" Salim Shukri
@@ -2029,35 +2032,19 @@ latin_american_cultures = {
         }
     }
     platinean = {
-        color = {199 232 151}
-        first_names = { Agustín Antonio Atanasio Baltasar Bartolomé Bernardino Bernardo Cándido Carlos Cecilio
-        Cirilo Claudio Domingo Emiliano Esteban Eugenio Evaristo Facundo Faustino Feliciano
-        Félix Francisco Fructuoso Gabriel Gaspar Guillermo Hipólito Ignacio José "Juan José"
-        "Juan Manuel" "Juan Ramón" Julio Justo Lorenzo Luis Manuel Marcial Máximo Miguel
-        Nicolás Patricio Pedro Ramón Roberto Roque Salvador Santiago Torcuato Venancio
+        color = {156 232 151}
+        first_names = { Poaty Loembe M'voudoukousala Pratt N'Gangue M'voumbe Mfutila Kivuzi Nteve Kenje
         }
 
-        last_names = { Aguirre Avellaneda Báez Balcarce Bareiro Berro Brown Caballero Cruz "de Alvear"
-        "de la Plaza" "de Rosas" "de Urquiza" Derqui Díaz Ellauri Escobar Flores González Jovellanos
-        Juárez Justo Latorre López Machaín Maza Meza Mitre Paz Pedernera
-        Pellegrini Pereira Quintana Rivarola Rivera Roca "Rodríguez de Francia" Rojas Rondeau Sáenz
-        Santos Sarmineto Solano Tajes Uriburu Viamonte Vidal Williman Wisner Yrigoyen
+        last_names = { "Ma Nombo" "Ma N'Sangou" N'Gombi Matou Mvemba Lukeni Mpanzu Nimi Nsindi
         }
     }
     brazilian = {
-        color = {0 112 66}
-        first_names = { Afonso Antônio Artur Augusto Aurélio Benjamin Cândido Carlos Celso Custódio
-        Delfim Deodoro Eduardo Emílio Epitácio Ernesto Fábio Fernando Filipe Floriano
-        "Francisco de Paula" "Francisco Xavier" Federico Gaspar Gastão Getúlio Henrique Hermes Humberto Isaías
-        João Joaquim José Júlio Juscelino Luís Manuel "Marco Antônio" Mário Miguel
-        Nereu Nilo Paulo Pedro Prudente Silviano Tancredo Urbano Venceslau Vital
+        color = {77 112 0}
+        first_names = { Hanga Samsu Hargani Fodi Tomo Bassaru Bumi Koyze Wankoy Bigo Dauda Malla
         }
 
-        last_names = { Barreto Bernardes Bittencourt Brandão Bras "Cabral da Silva" Caldwell Constant Costa "da Camara"
-        "da Costa" "da Fonseca" "de Aguiar" "de Barros" "de Beaurepaire-Rohan" "de Bragança" "de Carvalho" "de Itapevi" "de Lima e Silva" "de Melo"
-        "de Noronha" "de Oliveira" "de Orleans" "de Souza Neto" "de Suruf" Dutra Fragoso Frontin Galvão Jordão
-        Labatut Lopes Maciel Mallet Marques "Marques de Sousa" Maurity Moreira Osório Peixoto
-        Pena Pessoa Pinto Rondon "Saldanha da Gama" Santos Soares Tavares Vargas Wandenkolk
+        last_names = { Beri Mayrumfa Keyna Missi "Kodama Komi" Baba Baki Farma
         }
     }
 }
@@ -2300,6 +2287,7 @@ west_african = {
 
         last_names = { "ag Sidi" al-Hajj "ag Muhammad" "ag Amellal" "ag Amastan"
         }
+        radicalism = 10
     }
     wolof = {
         color = {91 146 180}
@@ -2308,6 +2296,7 @@ west_african = {
 
         last_names = { N'Dyaye Seeku Khaari Yaago Peya Ma-Dyigen Koddu Paate Penda Aram Kodu Tam Dior
         }
+        radicalism = 10
     }
     yoruba = {
         color = {240 75 89}
@@ -2599,6 +2588,7 @@ east_african = {
 
         last_names = { Ibrahim Adeer Hassan  Gurey Hirsi Doreh Dekiye Afrah Mujahid Kenadid
         }
+        radicalism = 10
     }
     sukuma = {
         color = {54 167 122}
@@ -2623,6 +2613,7 @@ east_african = {
 
         last_names = { Teklehaymanot Seyoum Woldetinsae Yohannes Sehul Yessous Hagos Alula Mengesha
         }
+        radicalism = 10
     }
     unyamwezi = {
         color = {46 146 246}

@@ -1,4 +1,5 @@
-
-add_core = SAX
+owner = BAV
+controller = BAV
+add_core = BAV
 trade_goods = wool
-life_rating = 20
+life_rating = 40

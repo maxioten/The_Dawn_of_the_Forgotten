@@ -1,4 +1,7 @@
 
 trade_goods = cattle
-life_rating = 20
+life_rating = 30
+owner = RUS
+controller = RUS
+add_core = RUS
 

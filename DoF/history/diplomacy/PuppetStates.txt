@@ -183,14 +183,6 @@ vassal = {
 }
 
 
-#Russia-Finland
-vassal = {
-    first = RUS
-    second = FIN
-    start_date = 1836.1.1
-    end_date = 1863.1.1
-}
-
 ##Sokoto - Adamawa Emirate
 #vassal = {
 #    first = SOK
@@ -221,30 +213,6 @@ vassal = {
     second = ION
     start_date = 1836.1.1
     end_date = 1864.1.1
-}
-
-# Sweden-Norway
-vassal = {
-    first = SWE
-    second = NOR
-    start_date = 1836.1.1
-    end_date = 1905.1.1
-}
-
-#Russia - Transcaucasia Namestnik
-substate = {
-    first = RUS
-    second = TCA
-    start_date = 1836.1.1
-    end_date = 1881.1.1
-}
-
-#Russia - Baltic Governorate
-substate = {
-    first = RUS
-    second = UBD
-    start_date = 1836.1.1
-    end_date = 1881.1.1
 }
 
 #Russia - Abkhazia

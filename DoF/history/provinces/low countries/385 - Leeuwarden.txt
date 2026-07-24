@@ -1,8 +1,10 @@
-
+owner = FLA
+controller = FLA
+add_core = FLA
 
 
 trade_goods = cattle
-life_rating = 20
+life_rating = 30
 #state_building = {
 #    level = 1
 #    building = glass_factory

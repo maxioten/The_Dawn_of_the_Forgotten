@@ -1,7 +1,7 @@
-owner = ALD
-controller = ALD
-add_core = ALD
+owner = CAT
+controller = CAT
 add_core = CAT
+
 trade_goods = fish
 life_rating = 34
 

@@ -1,4 +1,7 @@
 
 trade_goods = coal
-life_rating = 20
+life_rating = 30
+owner = RUT
+controller = RUT
+add_core = RUT
 terrain = mining_district

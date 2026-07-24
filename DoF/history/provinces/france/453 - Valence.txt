@@ -1,6 +1,6 @@
-
-
-
 trade_goods = fruit
-life_rating = 20
-1861.1.1 = { railroad = 3 }
+life_rating = 35
+owner = TRN
+controller = TRN
+add_core = TRN
+1861.1.1 = { railroad = 3 } 

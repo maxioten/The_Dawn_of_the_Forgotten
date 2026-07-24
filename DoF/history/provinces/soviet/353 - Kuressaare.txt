@@ -1,3 +1,6 @@
 
 trade_goods = grain
-life_rating = 20
+life_rating = 30
+owner = EST
+controller = EST
+add_core = EST

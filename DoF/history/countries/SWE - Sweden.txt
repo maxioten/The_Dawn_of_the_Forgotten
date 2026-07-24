@@ -1,14 +1,12 @@
 capital = 322
 primary_culture = swedish
-culture = finnish
-culture = norwegian
 religion = protestant
 government = hms_government
 plurality = 25.0
 nationalvalue = nv_order
-literacy = 0.8
+literacy = 0.12
 civilized = yes
-prestige = 10
+
 
 # Political reforms
 slavery = yes_slavery

@@ -1,11 +1,13 @@
-
+owner = WLL
+controller = WLL
+add_core = WLL
 
 
 
 
 
 trade_goods = coal
-life_rating = 20
+life_rating = 30
 terrain = mining_district
 1861.1.1 = {
     railroad = 3

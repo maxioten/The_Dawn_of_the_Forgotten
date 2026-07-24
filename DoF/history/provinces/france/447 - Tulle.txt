@@ -1,5 +1,7 @@
-
+owner = ARU
+controller = ARU
+add_core = ARU
 
 
 trade_goods = fruit
-life_rating = 20
+life_rating = 35

@@ -4,7 +4,7 @@ add_core = CAT
 
 
 add_core = RMG
-
+naval_base = 1
 trade_goods = wool
 life_rating = 35
 1861.1.1 = {

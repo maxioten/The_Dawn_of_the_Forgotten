@@ -9,7 +9,7 @@ government = absolute_monarchy
 plurality = 25.0
 nationalvalue = nv_order
 civilized = yes
-prestige = 4
+prestige = 2
 literacy = 0.2
 non_state_culture_literacy = 0.15
 

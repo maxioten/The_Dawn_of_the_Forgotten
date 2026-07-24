@@ -1,12 +1,10 @@
 capital = 958
-primary_culture = ukrainian
-culture = ugrian
+primary_culture = russian
 religion = orthodox
 government = absolute_monarchy
 plurality = 0.02
 nationalvalue = nv_autocracy
-literacy = 0.15
-civilized = yes
+literacy = 0.05
 
 
 # Political reforms

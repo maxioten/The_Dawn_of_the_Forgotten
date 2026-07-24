@@ -1,8 +1,9 @@
-
+owner = BRT
+controller = BRT
 
 
 trade_goods = grain
-life_rating = 20
+life_rating = 30
 1861.1.1 = {
     naval_base = 2
 }

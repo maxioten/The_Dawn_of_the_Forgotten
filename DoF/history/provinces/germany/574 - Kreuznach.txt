@@ -1,3 +1,5 @@
-add_core = SAX
+owner = WLL
+controller = WLL
+add_core = WLL
 trade_goods = iron
-life_rating = 20
+life_rating = 30

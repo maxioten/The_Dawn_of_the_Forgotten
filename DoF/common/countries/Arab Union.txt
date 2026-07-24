@@ -1,5 +1,5 @@
 color = { 101  166  33 }
-graphical_culture = MiddleEasternGC
+graphical_culture = MoroccoGC
 
 party = {
     name = "ARA_conservative"

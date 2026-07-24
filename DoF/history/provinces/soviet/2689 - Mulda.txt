@@ -1,5 +1,9 @@
 
-add_core = URA
+
 trade_goods = precious_metal
 terrain = montane_tundra
-life_rating = 15
+life_rating = 30
+owner = KSB
+controller = KSB
+add_core = KSB
+add_core = URA

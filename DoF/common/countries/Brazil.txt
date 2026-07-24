@@ -1,5 +1,5 @@
-color = { 129  177  125 }
-graphical_culture = SouthAmericanGC
+color = { 169 189 126 }
+graphical_culture = AfricanGC
 
 party = {
     name = "BRZ_liberal"
@@ -159,24 +159,24 @@ unit_names = {
 
     }
     ironclad = {
-            Brasil Tamandaré "Mariz e Barros" Colombo Bahia "Rio Grande Do Norte" Alagoas
+            Brasil Tamandar  "Mariz e Barros" Colombo Bahia "Rio Grande Do Norte" Alagoas
             "Espirito Santo" Fonseca
     }
     manowar = {
-            "Primeiro De Março" Paraíba Guanabara Trajano "Vital De Oliveira" Niterói
-            Sergipe Paraná Greenhalgh Macapá
+            "Primeiro De Mar o" Para ba Guanabara Trajano "Vital De Oliveira" Niter i
+            Sergipe Paran  Greenhalgh Macap 
     }
     cruiser = {
-            "Almirante Barrozo" República "Almirante Tamandaré" "Benjamin Constant" Aquidaban
+            "Almirante Barrozo" Rep blica "Almirante Tamandar " "Benjamin Constant" Aquidaban
             Riachuelo Toneleros Fortaleza Tiradentes
     }
     frigate = {
-            "Almirante Saldanha" Pernambuco Inhauma Jaceguay Frontin "Julio De Noronha" Niterói
-            Uniao Belém Vigia
+            "Almirante Saldanha" Pernambuco Inhauma Jaceguay Frontin "Julio De Noronha" Niter i
+            Uniao Bel m Vigia
     }
     monitor = {
-            Javary Solimões "Sete de Setembro" Ipiranga Independência  "Mato Grosso" Maranhão
-            GuanaBara Ceará Humaitá
+            Javary Solim es "Sete de Setembro" Ipiranga Independ ncia  "Mato Grosso" Maranh o
+            GuanaBara Cear  Humait 
     }
     clipper_transport = {
 
@@ -185,7 +185,7 @@ unit_names = {
 
     }
     commerce_raider = {
-            Belmonte Jequitinhonha Amazonas Beberibe Iguatemi Mearim Araguari Parnaíba Cabral
+            Belmonte Jequitinhonha Amazonas Beberibe Iguatemi Mearim Araguari Parna ba Cabral
             Barroso Herval Silvado "Lima Barros"
     }
 }

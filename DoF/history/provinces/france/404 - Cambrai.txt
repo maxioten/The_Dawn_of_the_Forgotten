@@ -1,8 +1,10 @@
-
+owner = WLL
+controller = WLL
+add_core = WLL
 
 
 trade_goods = coal
-life_rating = 20
+life_rating = 30
 #state_building = {
 #    level = 1
 #    building = explosives_factory

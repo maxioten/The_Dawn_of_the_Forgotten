@@ -1,7 +1,6 @@
-owner = LUC
-controller = LUC
-add_core = LUC
-
+owner = TUS
+controller = TUS
+add_core = TUS
 
 
 trade_goods = grain
