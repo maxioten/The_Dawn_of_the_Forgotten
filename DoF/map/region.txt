@@ -170,67 +170,67 @@ RUS_343 = { 343 344 341 340 } #Helsinki
 
 RUS_345 = { 345 346 347 348 } #Turku
 
-DEN_367 = { 367 366 2557 } #Jylland
+#DEN_367 = { 367 366 2557 } #Jylland
 
-HOL_369 = { 369 530 533 } #Holstein
+HOL_369 = { 369 530 533 370 544 547 528 } #Holstein+schelswig+Mecklenburg
 
-SCH_370 = { 370 } #Schleswig
+#SCH_370 = { 370 } #Schleswig
 
-DEN_372 = { 372 373 374 } #Sjaelland
+DEN_372 = { 372 373 374 367 366 2557 } #Sjaelland+Jylland
 
 
 ### Low Countries
 
-NET_375 = { 375 376 377 382 } #Holland
+NET_375 = { 375 376 377 382 385 383 384 } #Holland+Friesland
 
-NET_379 = { 379 378 380 381 } #Zeeland
+#NET_379 = { 379 378 380 381 } #Zeeland
 
-NET_385 = { 385 383 384 } #Friesland
+#NET_385 = { 385 383 384 } #Friesland
 
-BEL_387 = { 387 388 389 390 391 } #Flanders
+#BEL_387 = { 387 388 389 390 391 } #Flanders
 
-BEL_394 = { 392 393 395 398 } #Wallonia
+BEL_394 = { 392 393 395 398 379 378 380 381 387 388 389 390 391 } #Wallonia+Zeeland+Flanders
 
 
 ### France
 
-FRA_399 = { 403 402 2570 } #Picardie - used to be { 403 405 406 408 402 2570 }
+FRA_399 = { 403 402 2570 399 400 404 } #Picardie+Artois - used to be { 403 405 406 408 402 2570 }
 
 FRA_400 = { 408 405 406 407 432 } #Champagne
 
-FRA_404 = { 399 400 404 } #Nord-Pas-De-Calais/Artois
+#FRA_404 = { 399 400 404 } #Nord-Pas-De-Calais/Artois
 
-FRA_411 = { 411 413 414 } #Ardennes
+#FRA_411 = { 411 413 414 } #Ardennes
 
-FRA_412 = { 412 409 } #Alsace-Lorraine
+FRA_412 = { 412 409 411 413 414 } #Alsace-Lorraine+Ardennes
 
 FRA_418 = { 418 415 416 } #Normandie
 
-FRA_420 = { 420 422 424 423 } #Bretagne
+FRA_420 = { 420 422 424 423 435 434 437 } #Bretagne+Loire
 
-FRA_425 = { 425 } #Ile de France
+FRA_425 = { 425 438 436 439 440 441 } #Ile de France+Region Centre
 
 FRA_428 = { 428 429 431 430 433 } #Bourgogne
 
-FRA_435 = { 435 434 437 } #Loire
+#FRA_435 = { 435 434 437 } #Loire
 
-FRA_438 = { 438 436 439 440 441 } #Region Centre
+#FRA_438 = { 438 436 439 440 441 } #Region Centre
 
-FRA_442 = { 442 444 443 } #Poitou
+#FRA_442 = { 442 444 443 } #Poitou
 
-FRA_445 = { 445 446 447 } #Limousin
+FRA_445 = { 445 446 447 448 449 } #Limousin+Auvergne
 
-FRA_448 = { 448 449 } #Auvergne
+#FRA_448 = { 448 449 } #Auvergne
 
-FRA_451 = { 451 452 453 454 } #Rhone
+FRA_451 = { 451 452 453 454 465 } #Rhone+Annency(province/Savoie)
 
 FRA_455 = { 455 457 456 } #Le Midi
 
-FRA_458 = { 458 459 460 } #Aquitaine
+FRA_458 = { 458 459 460 442 444 443 } #Aquitaine+Poitou
 
 FRA_461 = { 461 462 463 464 } #Languedoc
 
-SAR_466 = { 465 472 } #Savoie
+#SAR_466 = {  } #Savoie
 
 FRA_467 = { 467 468 469 470 471 } #Provence
 
@@ -239,13 +239,13 @@ FRA_467 = { 467 468 469 470 471 } #Provence
 
 SPA_474 = { 474 476 } #Galicia
 
-SPA_477 = { 477 479 480 481 482 483 475 478 } #León-Castilla
+SPA_477 = { 477 479 480 481 482 483 475 478 } #Leï¿½n-Castilla
 
 SPA_484 = { 484 485 486 } #Extremadura
 
 SPA_487 = { 487 488 489 490 491 } #Castilla la Nueva
 
-SPA_492 = { 492 493 494 495 496 497 } #Vasconia-Aragón
+SPA_492 = { 492 493 494 495 496 497 } #Vasconia-Aragï¿½n
 
 SPA_498 = { 498 499 500 501 502 } #Catalonia
 
@@ -266,99 +266,95 @@ POR_2134 = { 2134 2135 2136 } #Macaronesia
 
 ### Germany & Switzerland
 
-HAN_528 = { 528 531 532 535 } #Lower Elbe
+HAN_528 = { 531 532 535 539 540 543 542 } #Lower Elbe+East Friesland
 
-HAN_534 = { 534 536 537 } #Hannover
+HAN_534 = { 534 536 537 554 561 562 } #Hannover+Thuringia
 
-HAN_540 = { 539 540 543 542 } #East Friesland
+#HAN_540 = { 539 540 543 542 } #East Friesland
 
-PRU_544 = { 544 547 } #Mecklenburg
+#PRU_544 = { 544 547 } #Mecklenburg
 
-PRU_546 = { 546 679 680 692 681 } #Pomerania
+PRU_546 = { 546 679 680 692 681 690 691 694 693 } #Pomerania+Westpreuï¿½en
 
-PRU_549 = { 549 550 551 552 } #Brandenburg
+#PRU_549 = { 549 550 551 552 } #Brandenburg
 
-PRU_553 = { 553 556 557 } #Magdeburg
+#PRU_553 = { 553 556 557 } #Magdeburg
 
-PRU_554 = { 554 561 562 } #Thuringia
+#PRU_554 = { 554 561 562 } #Thuringia
 
-SAX_558 = { 558 559 560 687 } #Saxony
+SAX_558 = { 558 559 560 687 549 550 551 552 553 556 557 } #Saxony+Brandenburg+Magdeburg
 
-HES_2560 = { 566 2560 } #Hessen
+#HES_2560 = { 566 2560 } #Hessen
 
-PRU_570 = { 573 574 571 } #Palatinate
+#PRU_570 = { 573 574 571 } #Palatinate
 
-PRU_575 = { 575 576 577 572 } #Rheinland
+PRU_575 = { 575 576 577 572 573 574 571 } #Rheinland+Palatinate
 
-PRU_581 = { 580 581 582 584 538 2561 } #Westfalen
+PRU_581 = { 580 581 582 584 538 2561 566 2560 } #Westfalen+Hessen
 
 BAD_586 = { 586 587 588 569 593 } #Baden
 
-BAV_595 = { 595 597 598 } #Franconia
-
-BAV_599 = { 599 592 601 602 } #Upper Bavaria
+BAV_599 = { 599 592 601 602 595 597 598} #Bavaria
 
 SWI_603 = { 603 606 611 605 604 607 609 } #Switzerland
 
-PRU_682 = { 682 683 684 685 } #Silesia
+PRU_682 = { 682 683 684 685 699 } #Silesia+Posen
 
-PRU_690 = { 690 691 694 693 } #Westpreußen
+#PRU_690 = { 690 691 694 693 } #Westpreuï¿½en
 
-PRU_695 = { 695 696 697 } #Ostpreußen
+PRU_695 = { 695 696 697 } #Ostpreuï¿½en
 
-PRU_701 = { 699 } #Posen
+#PRU_701 = { 699 } #Posen
 
 
 ### Austria
 
-AUS_619 = { 619 622 624 618 612 } #Österreich
+AUS_619 = { 619 622 624 618 612 } #ï¿½sterreich
 
-AUS_623 = { 623 643 644 } #Transdanubia
+AUS_623 = { 623 643 644 641 645 650 } #Transdanubia+Central Hungary/Central Magyar
 
-AUS_625 = { 625 626 631 } #Bohemia
+AUS_625 = { 625 626 631 627 628 632 2584 } #Bohemia+Lower Silesia
 
-AUS_626 = { 627 628 } #Moravia/Sudetes
-
-AUS_627 = { 632 2584 } #Lower Silesia
+#AUS_627 = { 632 2584 } #Lower Silesia
 
 AUS_633 = { 635 637 } #Slovakia
 
-AUS_641 = { 641 645 650 } #Central Hungary
+#AUS_641 = { 641 645 650 } #Central Hungary
 
-AUS_652 = { 653 } #Banat
+AUS_652 = { 653 2538 792 } #Banat+Vojvodina
 
-AUS_654 = { 655 661 647 } #Western Transylvania
+AUS_654 = { 655 661 647 657 660 2533 } #Western Transylvania+Eastern Transylvania
 
-AUS_657 = { 657 660 2533 } #Eastern Transylvania
+#AUS_657 = { 657 660 2533 } #Eastern Transylvania
 
-AUS_702 = { 703 704 705 } #Galicia-Lodomeria
+AUS_702 = { 703 704 705 951 } #Galicia-Lodomeria+East Galicia
 
-AUS_662 = { 951 } #East Galicia
+#AUS_662 = { 951 } #East Galicia
 
-RUS_715 = { 715 711 713 716 } #West Galicia
+#RUS_715 = { 715 711 713 716 } #West Galicia
 
 AUS_726 = { 726 727 728 2669 } #Lombardia
 
-AUS_729 = { 729 730 731 732 733 8 } #Venetia
+AUS_729 = { 729 730 731 732 733 8 734 735 } #Venetia+South Tirol
 
-AUS_734 = { 734 735 } #South Tirol
+#AUS_734 = { 734 735 } #South Tirol
 
-AUS_736 = { 769 } #Istria
+#AUS_736 = { 769 } #Istria
 
-AUS_768 = { 768 } #Slovenia
+AUS_768 = { 768 769 } #Slovenia+Istria
 
-AUS_771 = { 772 } #Croatia
+#AUS_771 = { 772 } #Croatia
 
-AUS_777 = { 779 } #Slavonia
+#AUS_777 = { 779 } #Slavonia
 
 AUS_780 = { 780 781 782 774 } #Dalmatia
 
-AUS_2538 = { 2538  792 } #Vojvodina
+#AUS_2538 = { 2538  792 } #Vojvodina
 
 
 ### Italy
 
-SAR_720 = { 720 721 722 723 724 725 } #Piemonte
+SAR_720 = { 720 721 722 723 724 725 472 } #Piemonte+Nice(province/savoie)
 
 #MOD_739 = { 739 738 740 } #Emilia
 
@@ -376,28 +372,27 @@ SIC_763 = { 763 762 764 854 } #Sicily
 
 SAR_765 = { 765 766 473 } #Sardinia & Corscia/Thyrrenian Islands
 
-
 ### Balkans
 
-WAL_665 = { 664 665 666 668 667 669 } #Wallachia
+WAL_665 = { 664 665 666 668 667 669 674 675 818 } #Wallachia+Dobrudja
 
-MOL_673 = { 673 672 670 663 } #Moldavia
+MOL_673 = { 673 672 670 663 676 677 678 } #Moldavia+Bessarabia
 
-TUR_674 = { 674 675 818 } #Dobrudja
+#TUR_674 = { 674 675 818 } #Dobrudja
 
-MOL_676 = { 676 677 678 } #Bessarabia
+#MOL_676 = { 676 677 678 } #Bessarabia
 
-TUR_788 = { 783 789 788 786 785 } #Bosnia
+TUR_788 = { 783 789 788 786 785 772 779 } #Bosnia+Croatia+Slavonia
 
-SER_794 = { 794 795 } #Northern Serbia
+SER_794 = { 794 795 804 798 802 799 } #Northern Serbia+Southern Serbia
 
 MON_2582 = { 2583 2577 2582 } #Montenegro
 
-TUR_803 = { 804 798 802 799 } #Southern Serbia
+#TUR_803 = { 804 798 802 799 } #Southern Serbia
 
-TUR_805 = { 805 819 820 821 822 } #Southern Macedonia
+#TUR_805 = { 805 819 820 821 822 } #Southern Macedonia
 
-TUR_806 = { 806 807 } #Northern Macedonia
+TUR_806 = { 806 807 805 819 820 821 822 } #Northern Macedonia+Southern Macedonia
 
 TUR_809 = { 815 817 808 816 } #Eastern Rumelia
 
@@ -517,17 +512,17 @@ RUS_360 = { 360 361 362 363 364 365 } #Lithuania
 
 RUS_339 = { 339 984 995 988 2587 983 982 } #Karelia
 
-RUS_706 = { 706 708 709 710 717 712 } #Masovia
+RUS_706 = { 706 708 709 710 717 712 715 711 713 716 707 } #Masovia+West Galicia+Suwalki(province Brest)
 
-RUS_707 = { 936 707 719 937 } #Brêst
+RUS_707 = { 936 719 937 940 939 938 947 } #Brï¿½st+Pinsk
 
-RUS_718 = { 718 941 942 } #Minsk
+RUS_718 = { 718 941 942 944 945 946 948 949 } #Minsk+Orsha
 
-RUS_940 = { 940 939 938 947 } #Pinsk
+#RUS_940 = { 940 939 938 947 } #Pinsk
 
 RUS_943 = { 943 999 1000 1007 } #Smolensk
 
-RUS_947 = { 944 945 946 948 949 } #Orsha
+#RUS_947 = { 944 945 946 948 949 } #Orsha
 
 RUS_958 = { 958 959 960 } #Kiev
 
@@ -740,7 +735,7 @@ NET_1449 = { 1430 1431 1432 1435 1434 1433 1436 1437 } #Celebes
 
 NET_1451 = { 1452 1453 1454 1560 } #Western New Guinea
 
-SPA_1455 = { 1455 1456 1457 1458 } #Luzón
+SPA_1455 = { 1455 1456 1457 1458 } #Luzï¿½n
 
 SPA_1459 = { 1459 1460 1461 2565 } #Visayas
 
@@ -1079,13 +1074,13 @@ POR_2003 = { 2003 2004 2005 2008 295 } #South Angola
 
 POR_2006 = { 2006 2007 2010 2011 578 529 800 555 } #East Angola
 
-POR_2049 = { 2049 2050 2051 793 639 797 787 } #Lourenço Marques - Gaza - South Mozambique
+POR_2049 = { 2049 2050 2051 793 639 797 787 } #Lourenï¿½o Marques - Gaza - South Mozambique
 
 POR_2053 = { 2059  2065 2054 2056 } #Zambezia - Noth Central Mozambique
 
 POR_2054 = { 2057 2052 2058 2053 2055 630 } #Tete - Now Sofala - South Central Mozambique
 
-POR_2060 = { 2060 2061 2063 2064 2581 656 791 652 642 659 646 } #Moçambique
+POR_2060 = { 2060 2061 2063 2064 2581 656 791 652 642 659 646 } #Moï¿½ambique
 
 ENG_2067 = { 2067 2066 796 } #Nyasaland
 
@@ -1220,17 +1215,17 @@ URU_2344 = { 2344 2345 2346 2347 } #Uruguay
 
 ### Brazil
 
-BRZ_2306 = { 2450 2306 2455 2451 2452 2456 2453 } #São Paulo
+BRZ_2306 = { 2450 2306 2455 2451 2452 2456 2453 } #Sï¿½o Paulo
 
 BRZ_2401 = { 2402 2401 2403 2404 2405 2407 2549 2532 } #Amazonas
 
-BRZ_2408 = { 2410 2408 2412 2415 2413 2411 2600 } #Pará
+BRZ_2408 = { 2410 2408 2412 2415 2413 2411 2600 } #Parï¿½
 
-BRZ_2410 = { 2429 2424 2425 2427 2426 2430 } #Maranhão
+BRZ_2410 = { 2429 2424 2425 2427 2426 2430 } #Maranhï¿½o
 
 BRZ_2416 = { 2419 2416 2417 2418 2420 2550 } #Mato Grosso
 
-BRZ_2421 = { 2421 2422 2423 } #Goiás
+BRZ_2421 = { 2421 2422 2423 } #Goiï¿½s
 
 BRZ_2428 = { 2432 2428 2431 2435 2434 2433 } #Nordeste
 
@@ -1242,7 +1237,7 @@ BRZ_2447 = { 2447 2448 2449 } #Rio de Janeiro
 
 BRZ_2461 = { 2461 2462 2459 } #Santa Catarina
 
-BRZ_2462 = { 2457 2458 2460 } #Paraná
+BRZ_2462 = { 2457 2458 2460 } #Paranï¿½
 
 BRZ_2467 = { 2463 2467 2464 2466 2465 } #Rio Grande do Sul
 
@@ -1269,9 +1264,9 @@ ARG_2374 = { 2374 2375 2385 2386 2387 2388 } #Catamarca
 
 ARG_2377 = { 2364 2365 2366 2367 } #Chaco
 
-ARG_2384 = { 2384 2383 2382 2379 2381 2380 } #Córdoba de Argentina
+ARG_2384 = { 2384 2383 2382 2379 2381 2380 } #Cï¿½rdoba de Argentina
 
-ARG_2387 = { 2373 2376 2377 2378 } #Tucumán
+ARG_2387 = { 2373 2376 2377 2378 } #Tucumï¿½n
 
 ARG_2391 = { 2391 2392 2394 2396 2397 } #Patagonia Septentrional
 
